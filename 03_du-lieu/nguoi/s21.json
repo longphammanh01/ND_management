@@ -1,0 +1,24 @@
+{
+  "ben": "Doanh nghiệp",
+  "dv": "TPBank",
+  "nguoi": [
+    {
+      "can_cu": "Hiếu gọi 'TPBank ThanhNT69' [22 tin]",
+      "ho_ten": "Nguyễn Tiến Thành (ThanhNT69)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Hạ Tầng TPBank - C12",
+      "phong_ban": "TPBank – hạ tầng",
+      "tai_khoan": "Nguyễn Tiến Thành",
+      "vai_tro": "Kênh truyền FPT/VNPT"
+    },
+    {
+      "can_cu": "'Bên anh các sếp đang bảo server này cần gấp sẽ đi thuê' [31 tin]",
+      "ho_ten": "Nguyễn Xuân Hiếu",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Hạ Tầng TPBank - C12",
+      "phong_ban": "TPBank",
+      "tai_khoan": "Nguyễn Xuân Hiếu",
+      "vai_tro": "Server AgentNode (thuê 6 tháng), thủ tục rà quét"
+    }
+  ]
+}

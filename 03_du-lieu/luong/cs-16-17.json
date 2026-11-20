@@ -1,0 +1,21 @@
+{
+  "ai_chan": "NADAT + D01 (Quyết)",
+  "ba": "Chi",
+  "blocker": "Đã thông phần ShareNode; còn bảng luồng toàn trình SSO cho Gtel (từ 10/11)",
+  "blocker_thuoc": "Nội bộ + D01",
+  "cap_nhat": "17/11/2026",
+  "dev": "Hùng, Gtel",
+  "donvi": "Bộ Công an – C06 SSO",
+  "dt_buoc": "Đổi SSO từ SS sang NDOP (DevTest)",
+  "dt_tt": "Đang thực hiện",
+  "loai": "Nghiệp vụ (thông tin)",
+  "luong": "SSO C06 ↔ NDOP ↔ Cổng DVC / PAKN",
+  "ma": "CS-16/17",
+  "ndc_buoc": "13/11: P4 chốt IP 100.64.2.13, mở port 2222, phiếu 31; cấu hình ShareNode C06 xong 16:21",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Chi / Hùng",
+  "nhom": "BBN",
+  "nhom_chat": "TELE C12-C06 SSO-NDOP LHL",
+  "nv": "CS",
+  "viec_tiep": "Cấu hình domain name SDL và endpoints trên NDOP cho luồng SSO C06"
+}

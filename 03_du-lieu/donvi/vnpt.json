@@ -1,0 +1,16 @@
+{
+  "api_cancu": "Luồng TH-PM-06 đang ở bước \"Chờ API spec\"",
+  "api_spec": "Đang chờ",
+  "api_spec_ngay": "",
+  "api_spec_tl": "",
+  "cap_nhat": "19/11/2026",
+  "chu_quan": "VNPT (bên triển khai)",
+  "dv_nguoi": "VNPT",
+  "ghi_chu": "VNPT là bên triển khai KDLTH, PTDL, CĐĐH, ĐCS. Luồng TH-PM-06 hiện ghi chung cho cả 4 hệ thống, nên tách luồng riêng khi có đầu mối từng hệ thống.",
+  "lien_ket": "VNPT",
+  "luong_chung": "",
+  "ma_tien_do": "3.6",
+  "nhom": "HTPM",
+  "ten": "VNPT",
+  "ten_hien_thi": "Hệ thống kho dữ liệu tổng hợp (KDLTH)"
+}

@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Chưa test luồng thanh toán thật trên NDC; chưa rõ ai quản trị máy AGN 100.64.1.22",
+  "doc": "cs-09",
+  "dv": "VPBank",
+  "ly_do": "Kiểm tra kết nối 14/11 chưa thông, đến 16/11 VPBank vẫn xin ý kiến; hạn golive Sàn dữ liệu 17/11.",
+  "ma": "CS-09",
+  "moi": "VPBank – luồng VPBank qua NDOP tới TTTT chưa thông, chưa có môi trường STG (từ 14/11)",
+  "nguon": "VP Bank - C12 – Hoàng Minh P4 C12 15/11 10:50",
+  "trang_thai": "duyet",
+  "truong": "blocker",
+  "xu_ly_luc": "2026-11-17T02:29:41.070Z"
+}

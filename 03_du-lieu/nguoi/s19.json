@@ -1,0 +1,78 @@
+{
+  "ben": "Doanh nghiệp",
+  "dv": "MoMo",
+  "nguoi": [
+    {
+      "can_cu": "Giang Nv gọi 'A Hưng MOMO'; 'bên MoMo muốn tạo cuộc họp' [41 tin]",
+      "ho_ten": "Hưng Bảo (A Hưng MoMo)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "MoMo – PM/đầu mối đối tác",
+      "tai_khoan": "Hưng Bảo",
+      "vai_tro": "Điều phối phía MoMo"
+    },
+    {
+      "can_cu": "'đầu MoMo service có bạn @spiderman4209' [43 tin]",
+      "ho_ten": "Phu Phan Thanh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "MoMo – quản lý kỹ thuật",
+      "tai_khoan": "Phu Phan Thanh",
+      "vai_tro": "Phân công đầu mối MoMo, mapping API"
+    },
+    {
+      "can_cu": "'hạ tầng momo có em vs anh Phi' [27 tin]",
+      "ho_ten": "Nguyễn Đăng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "MoMo – hạ tầng mạng",
+      "tai_khoan": "Nguyễn Đăng; @Megazord21",
+      "vai_tro": "Phương án NAT, sơ đồ luồng"
+    },
+    {
+      "can_cu": "Hùng 'a MoMo - Hoàng Phi gọi mình nhé'; Nguyễn Đăng 'hạ tầng momo có em vs anh Phi' [14 tin]",
+      "ho_ten": "Hoàng Phi",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "MoMo – hạ tầng/Network",
+      "tai_khoan": "Hoàng Phi",
+      "vai_tro": "Mở FW, di dời kết nối"
+    },
+    {
+      "can_cu": "Phu 'đầu MoMo service có bạn @spiderman4209'. Gộp 2 mục 'Tâm' trùng [22 tin]",
+      "ho_ten": "Tâm (MoMo dev)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "MoMo – dev dịch vụ",
+      "tai_khoan": "Tâm; @spiderman4209",
+      "vai_tro": "Danh sách API, IPN, monitor giao dịch"
+    },
+    {
+      "can_cu": "tên hiển thị [6 tin]",
+      "ho_ten": "Lộc Phan",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "MoMo – dev",
+      "tai_khoan": "loc.phan MOMO; @locphan_momo",
+      "vai_tro": "Trace lỗi giao dịch, timeout"
+    },
+    {
+      "can_cu": "trả lời về công văn chuyển hạ tầng [1 tin]",
+      "ho_ten": "Bá Đại",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "MoMo (suy ra)",
+      "tai_khoan": "Bá Đại",
+      "vai_tro": "Chuẩn bị hạ tầng kết nối"
+    },
+    {
+      "can_cu": "Phu Phan Thanh giới thiệu là đầu mối DevOps MoMo 13/11",
+      "ho_ten": "NamNgyen24 (MoMo DevOps)",
+      "nguon": "Quét chat 17/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "MoMo – DevOps",
+      "tai_khoan": "NamNgyen24 MoMo Devops; @namngyen24",
+      "vai_tro": "Đầu mối DevOps MoMo"
+    }
+  ]
+}

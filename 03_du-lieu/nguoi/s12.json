@@ -1,0 +1,60 @@
+{
+  "ben": "Nhà thầu, hệ thống trong NDC",
+  "dv": "FIS",
+  "nguoi": [
+    {
+      "can_cu": "'bên FIS đang tích hợp với 2 bên triển khai ứng dụng' [18 tin]",
+      "ho_ten": "Dtv",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "FIS – TGDL (PM/đầu mối)",
+      "tai_khoan": "~Dtv (WA); Dtv",
+      "vai_tro": "Gửi API spec ứng dụng 1 và 2, báo tiến độ hạ tầng"
+    },
+    {
+      "can_cu": "Dtv '@Toàn Chu bên FIS làm đầu mối cấu hình' [11 tin]",
+      "ho_ten": "Toàn Chu",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "FIS – Network",
+      "tai_khoan": "~Toàn Chu (WA)",
+      "vai_tro": "Đầu mối cấu hình mạng phía FIS"
+    },
+    {
+      "can_cu": "Toàn Chu 'em add anh Hiếu đầu mối sẽ hỗ trợ team đấu nối network' [6 tin]",
+      "ho_ten": "Hiếu (Gonzalos)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "FIS – Network",
+      "tai_khoan": "~Gonzalos (WA)",
+      "vai_tro": "Đấu nối network, quy hoạch tránh trùng dải"
+    },
+    {
+      "can_cu": "'Nếu xử lý API thì do anh đảm nhận' [3 tin]",
+      "ho_ten": "Hùng Nguyễn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "FIS – TGDL (suy ra)",
+      "tai_khoan": "~Hùng Nguyễn (WA)",
+      "vai_tro": "Phụ trách API TGDL"
+    },
+    {
+      "can_cu": "Dtv 'chị Trang đã báo cáo anh Tiến' [2 tin]",
+      "ho_ten": "Trang Đào (chị Trang)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "FIS – lãnh đạo",
+      "tai_khoan": "~Trang Đào (WA)",
+      "vai_tro": "Lập nhóm, cam kết tiến độ tài nguyên FIS"
+    },
+    {
+      "can_cu": "Demo sàn: '@cuongle2805 ad Hiếu vào nói chuyện'; ghi chú cũ ghi FIS [5 tin]",
+      "ho_ten": "Loc Nguyen",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Demo sàn; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "FIS (theo ghi chú cũ – chưa chắc)",
+      "tai_khoan": "Loc Nguyen",
+      "vai_tro": "Đầu mối TGDL FIS"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ai_chan": "QC Cổng DVC (Thuy Thu), PAKN (Nguyễn Duy Hòa); Dev NADAT (log)",
+  "ba": "Long (theo dõi: Linh Trần)",
+  "blocker": "DVC – gọi API PAKN từ hệ thống không tới NDOP (không có log), chỉ Postman tới được (từ 16/11)",
+  "blocker_thuoc": "Khách hàng + Nội bộ",
+  "cap_nhat": "17/11/2026",
+  "dev": "Thuật, Mai",
+  "donvi": "PAKN (MBFS)",
+  "dt_buoc": "B6. Đã thông kỹ thuật 21 API Cổng → PAKN từ 13–21/10; chưa có testcase nên chưa lập BBNT",
+  "dt_tt": "Chờ phản hồi",
+  "loai": "Nghiệp vụ + Kỹ thuật",
+  "luong": "Cổng DVC → NDOP → PAKN",
+  "ma": "CS-01",
+  "ndc_buoc": "—",
+  "ndc_tt": "Chưa bắt đầu",
+  "nguoi_lam": "Long / Thuật",
+  "nhom": "HTPM",
+  "nhom_chat": "TELE PAKN-NDOP-DVC; MBF-NADAT-C12",
+  "nv": "CS",
+  "viec_tiep": "BA tự lập testcase từ log 31/10–04/11, gửi BBNT nháp; Dev kiểm tra độ trễ log"
+}

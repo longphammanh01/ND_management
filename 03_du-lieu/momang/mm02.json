@@ -1,0 +1,15 @@
+{
+  "cap_nhat": "15/11/2026",
+  "chieu": "NDOP (NDC) ↔ ShareNode/AGN MoMo",
+  "cong": "443; SSH 2222; HTTP 4000",
+  "don_vi": "MoMo",
+  "ghi_chu": "SSH NDC → ShareNode thông 10h 13/11, giao diện lên chiều 13/11; port 5500 (peer giữa các ShareNode) bị lớp mạng ở giữa chặn.",
+  "gtel": "Đã mở",
+  "ip_dich": "100.64.0.29",
+  "ip_nguon": "NDC",
+  "kt": "Lỗi",
+  "ma_luong": "CS-08",
+  "ngay_phieu": "09/11/2026",
+  "p5": "Đã duyệt",
+  "phieu": "Đã gửi"
+}

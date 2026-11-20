@@ -1,0 +1,114 @@
+{
+  "ben": "Doanh nghiệp",
+  "dv": "VNPAY",
+  "nguoi": [
+    {
+      "can_cu": "nói 'bên em' về log VNPAY; Loc Le 'VNPAY Nguyễn Thế Vinh a check giúp' [61 tin]",
+      "ho_ten": "Nguyễn Thế Vinh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY – dev/vận hành",
+      "tai_khoan": "Nguyễn Thế Vinh",
+      "vai_tro": "Log IPN, quyết toán"
+    },
+    {
+      "can_cu": "'từ VNPAY đến DC C12' [48 tin]",
+      "ho_ten": "Danh Dũng Nguyễn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY – hạ tầng mạng",
+      "tai_khoan": "Danh Dũng Nguyễn; @danhdung86",
+      "vai_tro": "Quy hoạch IP, VPN, kênh Intercom/FPT"
+    },
+    {
+      "can_cu": "'về phía VNPAY…' [19 tin]",
+      "ho_ten": "Phuong Kieu",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY",
+      "tai_khoan": "Phuong Kieu",
+      "vai_tro": "Điều phối triển khai kênh truyền"
+    },
+    {
+      "can_cu": "Duy Gtel '@hoanganh74951 phase 1 đã up' [12 tin]",
+      "ho_ten": "Anh Hoang (VNPAY)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY – hạ tầng mạng",
+      "tai_khoan": "Anh Hoang; @hoanganh74951",
+      "vai_tro": "Kênh backup, IPSec"
+    },
+    {
+      "can_cu": "'bên chị update UAT' [10 tin]",
+      "ho_ten": "My Hang",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY",
+      "tai_khoan": "My Hang",
+      "vai_tro": "Đối soát/UAT"
+    },
+    {
+      "can_cu": "giải thích giới hạn ký tự VNPAY QR [8 tin]",
+      "ho_ten": "Anh Tram",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY – sản phẩm QR",
+      "tai_khoan": "Anh Tram",
+      "vai_tro": "Nghiệp vụ VNPAY QR"
+    },
+    {
+      "can_cu": "tên hiển thị [6 tin]",
+      "ho_ten": "Tâm - GSVH",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY – giám sát vận hành",
+      "tai_khoan": "Tâm - GSVH",
+      "vai_tro": "Giám sát dịch vụ"
+    },
+    {
+      "can_cu": "trả lời TTTT 'mã dịch vụ 8 là chỉ chi hộ…' [3 tin]",
+      "ho_ten": "Linh Phạm",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY",
+      "tai_khoan": "Linh Phạm",
+      "vai_tro": "Nghiệp vụ thanh toán (mã dịch vụ)"
+    },
+    {
+      "can_cu": "hỏi TTTT cơ chế retry [2 tin]",
+      "ho_ten": "DLX",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY (suy ra)",
+      "tai_khoan": "DLX",
+      "vai_tro": "Dev đối soát"
+    },
+    {
+      "can_cu": "'kênh backup VNPAY-C12…' [1 tin]",
+      "ho_ten": "Giang Nguyễn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY (suy ra)",
+      "tai_khoan": "Giang Nguyễn",
+      "vai_tro": "Báo kênh backup down"
+    },
+    {
+      "can_cu": "tên hiển thị (tài khoản chung, không phải cá nhân) [2 tin]",
+      "ho_ten": "Trực Vận Hành Banking",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY – trực vận hành",
+      "tai_khoan": "Trực Vận Hành Banking (tài khoản trực)",
+      "vai_tro": "Tài khoản trực, báo cảnh báo"
+    },
+    {
+      "can_cu": "tên hiển thị (tài khoản chung) [1 tin]",
+      "ho_ten": "VNPAY.Level1 Monitoring",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "VNPAY – giám sát L1",
+      "tai_khoan": "VNPAY.Level1 Monitoring (tài khoản giám sát)",
+      "vai_tro": "Tài khoản giám sát"
+    }
+  ]
+}

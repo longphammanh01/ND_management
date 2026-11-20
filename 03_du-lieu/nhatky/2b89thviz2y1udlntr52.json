@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-17T02:29:40.681Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: VP Bank - C12 – Hoàng Minh P4 C12 15/11 10:50",
+  "luong": "cs-09",
+  "thay_doi": [
+    {
+      "cu": "Chưa test luồng thanh toán thật trên NDC; chưa rõ ai quản trị máy AGN 100.64.1.22",
+      "moi": "VPBank – luồng VPBank qua NDOP tới TTTT chưa thông, chưa có môi trường STG (từ 14/11)",
+      "truong": "blocker"
+    }
+  ]
+}

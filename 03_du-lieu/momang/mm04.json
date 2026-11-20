@@ -1,0 +1,15 @@
+{
+  "cap_nhat": "15/11/2026",
+  "chieu": "NDC ↔ VNPAY (kênh Intercom chính, FPT dự phòng, VPN IPSec)",
+  "cong": "",
+  "don_vi": "VNPAY",
+  "ghi_chu": "Kênh vật lý xong 03/11; VPN phase 2 lệch cấu hình; chưa có tài khoản ESXi nên chưa cài ShareNode (14/11).",
+  "gtel": "Mở một phần",
+  "ip_dich": "",
+  "ip_nguon": "",
+  "kt": "Lỗi",
+  "ma_luong": "CS-07",
+  "ngay_phieu": "",
+  "p5": "Chưa duyệt",
+  "phieu": "Chưa gửi"
+}

@@ -1,0 +1,12 @@
+<section id="v-quy-trinh" data-view hidden>
+  <div class="col">
+  <div class="head"><h2>Quy trình</h2><span class="d">Bấm từng bước để xem chi tiết; phím ← → để chuyển bước.</span></div>
+  <div class="tools"><input id="qQt" type="search" placeholder="Tìm bước, việc BA, điểm nghẽn… (ví dụ Firewall, BBNT, MD5)" aria-label="Tìm trong quy trình"></div>
+  <div class="hits" id="qtHits" hidden></div>
+  <div class="seg" id="qtGroups" role="group" aria-label="Chọn quy trình"></div>
+  <div class="card pad"><p class="d" id="qtDesc" style="margin:0 0 10px"></p><div class="qflow" id="qtFlow"></div>
+    <div class="legend" style="margin-top:10px">Ai làm: <i class="pw pw-N">NADAT</i><i class="pw pw-B">BA</i><i class="pw pw-C">C12</i><i class="pw pw-G">Gtel</i><i class="pw pw-V">VDC</i><i class="pw pw-D">Đối tác</i><span>Số “đang ở đây” lấy từ dữ liệu luồng và Mở mạng NDC</span></div></div>
+  <div class="card pad qdet" id="qtDetail" aria-live="polite"></div>
+  <div id="qtRef" class="col"></div>
+  </div>
+</section>

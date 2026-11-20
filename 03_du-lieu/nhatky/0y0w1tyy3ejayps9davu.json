@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-18T02:12:06.940Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: C12 - SHB kết nối DVCQG – Tùng Sơn 17/11 18:22; Thanh Phương 18/11 08:13",
+  "luong": "cs-11",
+  "thay_doi": [
+    {
+      "cu": "TTTT xác nhận hotfix, test lại IPN, chốt ngày golive; NADAT hỏi C12 kế hoạch chuyển SHB sang NDOP của NADAT",
+      "moi": "TTTT kiểm tra lại cấu hình NDOP-Id/NDOP-secret devtest và đưa kế hoạch hoàn thành test pilot với SHB; NADAT hỏi C12 kế hoạch chuyển SHB sang NDOP của NADAT",
+      "truong": "viec_tiep"
+    }
+  ]
+}

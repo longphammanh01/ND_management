@@ -1,0 +1,15 @@
+{
+  "cap_nhat": "15/11/2026",
+  "chieu": "NDC ↔ AGN VPBank (NAT 100.65.2.1 → 100.64.1.22)",
+  "cong": "SSH 2222; HTTP 4000",
+  "don_vi": "VPBank",
+  "ghi_chu": "Phiếu 30 mở qua leased line (11/11); thông 13/11 16:13. Chưa rõ ai quản trị máy AGN.",
+  "gtel": "Đã mở",
+  "ip_dich": "100.64.1.22",
+  "ip_nguon": "100.65.2.128/25 (qua tunnel)",
+  "kt": "Đã thông",
+  "ma_luong": "CS-09",
+  "ngay_phieu": "11/11/2026",
+  "p5": "Đã duyệt",
+  "phieu": "Đã gửi"
+}

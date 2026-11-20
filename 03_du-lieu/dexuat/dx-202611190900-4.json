@@ -1,0 +1,13 @@
+{
+  "col": "momang",
+  "cu": "Kênh 1Gb thông 10/11; 13/11 FIS hứng xong MPLS, còn VPN. Phiếu 29 FIS/BTP đi qua API Gateway DMZ (F5 VIP 10.6.40.35:443, IP ra 10.6.8.190).",
+  "doc": "mm09",
+  "dv": "FIS (TGDL)",
+  "ly_do": "Cập nhật tiến độ mạng FIS từ lần quét 17–18/11.",
+  "ma": "CS-06",
+  "moi": "Kênh 1Gb thông 10/11; 13/11 FIS hứng xong MPLS. 16/11 kênh chính thông vật lý; 17/11 thông VPN s2s và routing (dải 100.65.4.128/25). Kênh backup làm 18/11, quy hoạch sửa .54 → .70. Phiếu 29 FIS/BTP đi qua API Gateway DMZ (F5 VIP 10.6.40.35:443, IP ra 10.6.8.190); phiếu Firewall 36 (FIS-SANDL) chờ IP LAN của FIS.",
+  "nguon": "Sàn C12- TGDL FIS (test) – MinhNV, Huy Trần 16–17/11; NDOP_NDC_LHL_103NT – Phạm Đức Lưu 17/11",
+  "trang_thai": "duyet",
+  "truong": "ghi_chu",
+  "xu_ly_luc": "2026-11-19T08:01:36.630Z"
+}

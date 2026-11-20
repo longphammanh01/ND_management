@@ -1,0 +1,15 @@
+{
+  "cap_nhat": "15/11/2026",
+  "chieu": "Core DVC ↔ DMZ NDOP (qua F5)",
+  "cong": "5500 (đã xin 4000/8080/5500/8443)",
+  "don_vi": "Cổng DVC",
+  "ghi_chu": "09/11: DMZ NDOP gọi được VIP F5 Core DVC; chiều Core DVC → DMZ phải qua 10.6.40.36:5500 và đặt host.",
+  "gtel": "Đã mở",
+  "ip_dich": "10.6.40.36",
+  "ip_nguon": "Core DVC",
+  "kt": "Đã thông",
+  "ma_luong": "CS-01/02/03",
+  "ngay_phieu": "",
+  "p5": "Đã duyệt",
+  "phieu": "Đã gửi"
+}

@@ -1,0 +1,21 @@
+{
+  "ai_chan": "TTTT (Hải Giang), BTP (Lưu Huy Hoàng)",
+  "ba": "Long (theo dõi: Linh Trần)",
+  "blocker": "Lỗi TLS handshake khi BTP gọi tạo thanh toán sang TTTT (từ 23/10), chưa thấy xử lý; chưa có testcase, BBNT",
+  "blocker_thuoc": "Khách hàng + TTTT",
+  "cap_nhat": "15/11/2026",
+  "dev": "Trà Giang, Thuật",
+  "donvi": "Bộ Tư pháp",
+  "dt_buoc": "20/10 NADAT báo thông luồng DevTest; 23/10 chiều TTTT→BTP (callback) chạy được, chiều BTP→TTTT tạo thanh toán lỗi 500 TLS handshake failure tới TTTT dev",
+  "dt_tt": "Chờ phản hồi",
+  "loai": "Kỹ thuật",
+  "luong": "BTP ↔ NDOP ↔ TTTT",
+  "ma": "CS-05",
+  "ndc_buoc": "—",
+  "ndc_tt": "Chưa bắt đầu",
+  "nguoi_lam": "Long",
+  "nhom": "BBN",
+  "nhom_chat": "ZALO BTP - NADAT - HTQL TTTT (đã đọc Zalo PC 15/11)",
+  "nv": "CS",
+  "viec_tiep": "Hỏi TTTT (Hải Giang) xử lý certificate/TLS trên TTTT dev; xin BTP testcase để lập BBNT"
+}

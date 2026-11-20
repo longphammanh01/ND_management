@@ -1,0 +1,159 @@
+{
+  "ben": "Nhà thầu, hệ thống trong NDC",
+  "dv": "VNPT",
+  "nguoi": [
+    {
+      "can_cu": "DA175 BBH giao VNPT chủ trì; nhóm VNPT-NADAT giao @truonghuyentrang_dgs [70 tin]",
+      "ho_ten": "Lê Văn Đại",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12_NDOP_VNPT_NADAT; [TELE] DA175- PAKN+PA-SaiKhac",
+      "phong_ban": "VNPT – DGS, Kho dữ liệu (lãnh đạo dự án)",
+      "tai_khoan": "Lê Văn Đại; @dailv_dgs",
+      "vai_tro": "Chủ trì mô hình luồng & quy trình DLSK; giao PMO tổng hợp API spec"
+    },
+    {
+      "can_cu": "lee a 'Chị Huệ VNPT'; ghi chú 03/11 [33 tin]",
+      "ho_ten": "Hue Hoang (chị Huệ)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "VNPT – Kho, BA",
+      "tai_khoan": "Hue Hoang",
+      "vai_tro": "Đầu mối BA VNPT đến 03/11 (chuyển công tác)"
+    },
+    {
+      "can_cu": "'Hue added Le Son'; Nam Nguyen gọi 'sếp A Sơn VNPT' [19 tin]",
+      "ho_ten": "Le Son (anh Sơn)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "VNPT – Kho, BA",
+      "tai_khoan": "Le Son",
+      "vai_tro": "Đầu mối BA VNPT thay chị Huệ; rà soát API Bộ ngành"
+    },
+    {
+      "can_cu": "ghi chú 03/11 'việc chung: chị Kim Anh' [4 tin]",
+      "ho_ten": "Hoàng Kim Anh (chị Kim Anh)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "VNPT – BA",
+      "tai_khoan": "Hoang Kim Anh; @MrsKimAnh",
+      "vai_tro": "Đầu mối BA chung VNPT, đôn đốc đặc tả"
+    },
+    {
+      "can_cu": "Huệ VNPT gọi '@ngolinh22 @thiennt129' là '2 chiến sỹ' và giao cập nhật phụ lục; Linh Ngo: 'các kho đã clear xong dữ liệu', 'báo dev check'. Danh sách cũ ghi C12 – sai [60 tin]",
+      "ho_ten": "Linh Ngo",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "VNPT – Kho dữ liệu, BA",
+      "tai_khoan": "Linh Ngo; @ngolinh22",
+      "vai_tro": "Đặc tả API, cấu hình topic trên Kho cho BXD, BGD, TANDTC"
+    },
+    {
+      "can_cu": "'Hue added … Phương Linh'; làm cùng Linh Ngo [1 tin]",
+      "ho_ten": "Phương Linh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "VNPT – BA (suy ra)",
+      "tai_khoan": "Phương Linh; @phuonglinh15",
+      "vai_tro": "Định nghĩa trường thông tin TANDTC, BNV"
+    },
+    {
+      "can_cu": "'Hue added … Phượng' [3 tin]",
+      "ho_ten": "Phượng Hà",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "VNPT – BA (suy ra)",
+      "tai_khoan": "Phượng Hà",
+      "vai_tro": "Xin hạn spec BHXH"
+    },
+    {
+      "can_cu": "rà soát UC: 'Hue added Quý' (gộp với Mr Quý @QuyPV – suy ra) [1 tin]",
+      "ho_ten": "Quý (Mr Quý)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "VNPT – DGS, BA",
+      "tai_khoan": "Quý; @QuyPV (danh sách cũ)",
+      "vai_tro": "CĐĐH; hỏi kế hoạch làm việc BQP, VPCP"
+    },
+    {
+      "can_cu": "'Hue added … Thien'; Huệ 'Mời 2 chiến sỹ … @ngolinh22 @thiennt129'",
+      "ho_ten": "Thiện (@thiennt129)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "VNPT – BA (suy ra)",
+      "tai_khoan": "",
+      "vai_tro": "Nhu cầu dữ liệu BGD"
+    },
+    {
+      "can_cu": "'Kho dùng chung đã rà soát và xác nhận' [9 tin]",
+      "ho_ten": "Ngọc Trâm",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "Kho dùng chung (VNPT – theo tổng hợp cũ)",
+      "tai_khoan": "Ngọc Trâm",
+      "vai_tro": "File tổng hợp thuộc tính/phân luồng, xác nhận đặc tả đầu vào Kho"
+    },
+    {
+      "can_cu": "DA175 [5 tin]",
+      "ho_ten": "Tuấn Nghĩa",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac",
+      "phong_ban": "VNPT (theo tổng hợp cũ)",
+      "tai_khoan": "Tuấn Nghĩa",
+      "vai_tro": "Theo dõi nhiệm vụ VNPT trong BBH DLSK"
+    },
+    {
+      "can_cu": "Lê Văn Đại 'bạn @truonghuyentrang_dgs PMO sẽ tổng hợp' [1 tin]",
+      "ho_ten": "Trương Huyền Trang",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12_NDOP_VNPT_NADAT",
+      "phong_ban": "VNPT – DGS, PMO",
+      "tai_khoan": "Huyền Trang; @truonghuyentrang_dgs",
+      "vai_tro": "Tổng hợp API spec gửi đầu mối P4 C12"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Mr Đăng",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "[TELE] C12_NDOP_VNPT_NADAT",
+      "phong_ban": "VNPT – DGS, BA",
+      "tai_khoan": "@dangphd",
+      "vai_tro": "Nền tảng phân tích"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Mr Đoàn Trung Đức",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "[TELE] C12_NDOP_VNPT_NADAT",
+      "phong_ban": "VNPT – DGS, BA",
+      "tai_khoan": "@doanducGIS",
+      "vai_tro": "Địa chỉ số"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Mr Minh",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "[TELE] C12_NDOP_VNPT_NADAT",
+      "phong_ban": "VNPT – DGS, Techlead",
+      "tai_khoan": "@nvminh83_dgs",
+      "vai_tro": ""
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Mr Bùi Thế Anh",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "[TELE] C12_NDOP_VNPT_NADAT",
+      "phong_ban": "VNPT – DGS, PM",
+      "tai_khoan": "@lbuitheanh_dgs",
+      "vai_tro": ""
+    },
+    {
+      "can_cu": "Giữ từ Excel cũ",
+      "ho_ten": "Ms Hương",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "",
+      "phong_ban": "VNPT – DGS, QA",
+      "tai_khoan": "",
+      "vai_tro": ""
+    }
+  ]
+}

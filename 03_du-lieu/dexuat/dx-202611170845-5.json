@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Dev/DevOps cùng Gtel, P5 xác định lớp mạng chặn port 5500; cấu hình dịch vụ theo file API PROD MoMo; BA xin MoMo xác nhận bộ test DevTest để lập BBNT",
+  "doc": "cs-08",
+  "dv": "MoMo",
+  "ly_do": "Anh Hùng chuyển phần tham số nghiệp vụ cho TTTT thống nhất với MoMo ngày 16/11.",
+  "ma": "CS-08",
+  "moi": "TTTT và MoMo thống nhất tham số kết nối mới để MoMo gọi qua NDC LHL",
+  "nguon": "MoMo x C12: Cài đặt server cho cổng DVCQG – Trần Huy Hùng NADAT 16/11 10:37",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-17T02:29:12.412Z"
+}

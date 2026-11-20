@@ -1,0 +1,115 @@
+<div class="app">
+<nav class="side" aria-label="Các mục">
+  <div class="sideh"><h1>Quản trị NDOP</h1><button type="button" id="sideTog" aria-expanded="true" aria-label="Thu gọn menu" title="Thu gọn menu">«</button></div>
+  <div class="navg">
+  <a href="#tong-quan">Tổng quan</a>
+  <a href="#don-vi">Đơn vị <b id="nDv"></b></a>
+  <a href="#viec-cua-toi">Việc của tôi <b id="nQh"></b></a>
+  <a href="#mo-mang">Mở mạng NDC <b id="nMm"></b></a>
+  <a href="#bao-cao">Báo cáo tuần</a>
+  </div>
+  <div class="navg alt">
+  <div class="navh">Tra cứu</div>
+  <a href="#nguoi">Stakeholder <b id="nNg"></b></a>
+  <a href="#nhom-chat">Nhóm chat <b id="nNc"></b></a>
+  <a href="#tai-lieu">Tài liệu <b id="nTl"></b></a>
+  <a href="#quy-trinh">Quy trình</a>
+  </div>
+  <div class="sync" id="syncbox"><span class="dot" id="dot"></span><span id="synctext">Đang tải dữ liệu…</span></div>
+</nav>
+<main><div class="col">
+
+<div class="filters" id="gFilters">
+  <div class="tools">
+    <label for="gBa">BA</label><select id="gBa"><option value="">Tất cả</option></select>
+    <label for="gCat">Nhóm đơn vị</label><select id="gCat"><option value="">Tất cả</option></select>
+    <label for="gOwn">Bên đang chặn</label><select id="gOwn"><option value="">Tất cả</option><option>Nội bộ NADAT</option><option>C12 / hạ tầng</option><option>Đối tác</option></select>
+    <button class="btn sm" type="button" id="gClear" hidden>Xoá lọc</button>
+  </div>
+</div>
+
+<section id="v-tong-quan" data-view>
+  <div class="col">
+  <div class="head"><h2>Tổng quan</h2><span class="d" id="asof"></span></div>
+  <div class="card pad scan"><div class="txt"><h3>Quét chat</h3><p id="scanText">Đang tải trạng thái…</p></div><button class="btn primary" id="scanBtn" type="button" disabled>Ghi yêu cầu quét</button></div>
+  <div class="card" id="dxCard" hidden><div class="grp"><h3>Đề xuất từ lần quét, chờ duyệt</h3><span id="dxCount"></span><span style="margin-left:auto;display:flex;gap:6px"><button class="btn sm primary" type="button" id="dxAllOk">Duyệt tất cả</button><button class="btn sm" type="button" id="dxAllBo">Bỏ tất cả</button></span></div><div class="dx" id="dxList"></div></div>
+  <div class="kpis" id="kpis"></div>
+  <div class="card"><div class="grp"><h3>Đơn vị × môi trường</h3><div class="legend"><span><i class="sq ok">DT</i>Hoàn thành</span><span><i class="sq run">DT</i>Đang làm</span><span><i class="sq wait">DT</i>Chờ phản hồi</span><span><i class="sq block">DT</i>Bị block</span><span><i class="sq none">DT</i>Chưa bắt đầu</span><span>Viền đỏ: đang vướng</span></div></div><div class="matrix" id="matrix"></div></div>
+  <div class="twocol">
+    <div class="card"><div class="grp"><h3>Cần gỡ gấp</h3><span>báo lãnh đạo trước, lâu nhất trước</span></div><div class="tbl"><table><tbody id="tbTop"></tbody></table></div></div>
+    <div class="card"><div class="grp"><h3>Thay đổi 7 ngày qua</h3><span id="chgN"></span></div><div class="tbl"><table><tbody id="tbChg"></tbody></table></div></div>
+  </div>
+  </div>
+</section>
+
+<section id="v-don-vi" data-view hidden>
+  <div class="col">
+  <div class="head"><h2>Đơn vị</h2><button class="btn sm" type="button" id="dvAdd">+ Thêm đơn vị</button></div>
+  <div class="seg" id="dvSum" role="group" aria-label="Lọc theo thông tin còn thiếu"></div>
+  <div class="tools"><input id="qDv" type="search" placeholder="Tìm đơn vị, mã luồng, nội dung…" aria-label="Tìm đơn vị"><select id="fDvSt" aria-label="Trạng thái"><option value="">Mọi trạng thái</option></select><label class="d" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="fOnlyBl"> Chỉ đơn vị đang vướng</label></div>
+  <div class="card"><div class="tbl"><table><thead><tr><th class="stt">STT</th><th style="width:20%">Đơn vị</th><th>API Specs</th><th>DevTest / 103NT</th><th>NDC</th><th>Sẵn sàng NDC</th><th style="width:36%">Vướng lâu nhất</th><th>BA</th><th>Cập nhật</th></tr></thead><tbody id="tbDv"></tbody></table></div></div>
+  </div>
+</section>
+
+<section id="v-viec-cua-toi" data-view hidden>
+  <div class="col">
+  <div class="head"><h2>Việc của tôi</h2></div>
+  <div class="tools"><select id="fMe" aria-label="Chọn người"></select><label class="d" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="fOnlyLate"> Chỉ việc quá hạn hoặc chưa đặt hạn</label></div>
+  <div class="kpis" id="meKpi"></div>
+  <div class="card"><div class="tbl"><table><thead><tr><th>Hạn</th><th>Đơn vị</th><th>Việc tiếp theo</th><th>Vướng mắc</th><th>Vai trò</th></tr></thead><tbody id="tbMe"></tbody></table></div></div>
+  </div>
+</section>
+
+<section id="v-mo-mang" data-view hidden>
+  <div class="col">
+  <div class="head"><h2>Mở mạng trên NDC</h2><span class="d">Kéo thẻ sang cột kế tiếp (hoặc bấm →) để cập nhật. Viền đỏ: nằm quá 3 ngày ở một cột.</span></div>
+  <div class="kanban" id="kanban"></div>
+  </div>
+</section>
+
+<section id="v-bao-cao" data-view hidden>
+  <div class="col">
+  <div class="head"><h2>Báo cáo tuần</h2><div class="tools"><div class="seg" id="segBc"></div><label class="d" for="bcFrom">Từ</label><input id="bcFrom" type="date"><label class="d" for="bcTo">đến</label><input id="bcTo" type="date"><button class="btn primary" type="button" id="bcCopy">Chép báo cáo</button></div></div>
+  <div class="card pad"><pre id="bcText" style="white-space:pre-wrap;font:14px/22px var(--font);margin:0"></pre></div>
+  </div>
+</section>
+
+<section id="v-nguoi" data-view hidden>
+  <div class="col">
+  <div class="head"><h2>Stakeholder</h2></div>
+  <div class="seg" id="segBen"></div>
+  <div class="tools"><input id="qNg" type="search" placeholder="Tìm tên, tài khoản Tele/WhatsApp/Viber/Zalo, đơn vị…" aria-label="Tìm stakeholder"><label class="d" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="fShowLeft"> Hiện người đã nghỉ</label></div>
+  <div id="ngGroups" class="col"></div>
+  </div>
+</section>
+
+<section id="v-nhom-chat" data-view hidden>
+  <div class="col">
+  <div class="head"><h2>Nhóm chat</h2></div>
+  <div class="tools"><input id="qChat" type="search" placeholder="Tìm nhóm, luồng, BA…" aria-label="Tìm nhóm chat"></div>
+  <div class="seg" id="segPlat" role="group" aria-label="Lọc theo nền tảng"></div>
+  <div class="card"><div class="tbl"><table><thead><tr><th>Nền tảng</th><th>Nhóm</th><th>Luồng</th><th>BA phụ trách</th><th>Đọc lần cuối</th><th>Ghi chú</th></tr></thead><tbody id="tbChat"></tbody></table></div></div>
+  </div>
+</section>
+
+<section id="v-tai-lieu" data-view hidden>
+  <div class="col">
+  <div class="head"><h2>Tài liệu</h2></div>
+  <div class="tabs big" role="tablist" aria-label="Loại tài liệu"><button type="button" role="tab" data-tltab="cay" aria-selected="true">Tài liệu dự án</button><button type="button" role="tab" data-tltab="link" aria-selected="false">Hệ thống &amp; tài khoản <span class="d" id="nLink"></span></button></div>
+  <div id="tlCay" class="col"><div class="tools"><input id="qTl" type="search" placeholder="Tìm tên tài liệu, loại, nguồn…" aria-label="Tìm tài liệu"></div>
+  <div class="tlwrap"><nav class="card tltree" id="tlTree" aria-label="Cây thư mục"></nav><div class="card tllist" id="tlList"></div></div></div>
+  <div id="tlLink" class="col" hidden><div class="tools"><input id="qLk" type="search" placeholder="Tìm tên hệ thống, địa chỉ, tài khoản…" aria-label="Tìm liên kết"><button class="btn" type="button" id="lkBulk">Dán tài khoản, mật khẩu hàng loạt</button><button class="btn primary" type="button" data-add="lk">Thêm liên kết</button></div><div class="seg" id="segLk" role="group" aria-label="Lọc nhóm"></div><div id="lkGroups" class="col"></div></div>
+  </div>
+</section>
+
+<!--QUYTRINH-->
+</div></main>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside class="drawer" id="drawer" hidden role="dialog" aria-labelledby="dTitle">
+  <div class="dh"><div style="flex:1;min-width:0"><h3 id="dTitle"></h3><p id="dSub"></p></div><button class="btn sm" id="dClose" type="button">Đóng</button></div>
+  <div class="db" id="dBody"></div>
+  <div class="df" id="dFoot" hidden><span class="d" id="dPerm" style="margin-right:auto"></span><button class="btn" type="button" id="dCancel">Huỷ</button><button class="btn primary" type="button" id="dSave">Lưu thay đổi</button></div>
+</aside>
+<div class="toast" id="toast" hidden role="status"></div>

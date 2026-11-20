@@ -1,0 +1,21 @@
+{
+  "ai_chan": "Gtel, D01",
+  "ba": "(chưa giao)",
+  "blocker": "Gtel còn ý kiến về mô hình; chờ API kho sai khác",
+  "blocker_thuoc": "Khách hàng (Gtel/D01)",
+  "cap_nhat": "11/11/2026",
+  "dev": "—",
+  "donvi": "Dữ liệu sai khác (PAKN → NTTH → Kho sai khác)",
+  "dt_buoc": "—",
+  "dt_tt": "—",
+  "loai": "Nghiệp vụ",
+  "luong": "—",
+  "ma": "ĐP-DLSK",
+  "ndc_buoc": "Mô hình đang thống nhất (họp 10/11)",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "A Quang",
+  "nhom": "Nội bộ NDC",
+  "nhom_chat": "TELE DA175-PAKN+PA-SaiKhac",
+  "nv": "ĐP",
+  "viec_tiep": "Theo dõi BBH 10/11; giao 1 BA theo dõi"
+}

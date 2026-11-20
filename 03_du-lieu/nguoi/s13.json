@@ -1,0 +1,78 @@
+{
+  "ben": "Bộ, ngành",
+  "dv": "Bộ KHCN",
+  "nguoi": [
+    {
+      "can_cu": "Nguyễn Quyết TTCNTT gọi 'anh Ktht. Chiến' [22 tin]",
+      "ho_ten": "Chiến (Mr Chien)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ",
+      "phong_ban": "TTCNTT – Kỹ thuật hạ tầng",
+      "tai_khoan": "Mr Chien",
+      "vai_tro": "Hạ tầng/LGSP Bộ, chỉ định IP AGN"
+    },
+    {
+      "can_cu": "tên hiển thị [2 tin]",
+      "ho_ten": "Nguyễn Quyết (TTCNTT)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ",
+      "phong_ban": "TTCNTT",
+      "tai_khoan": "Nguyễn Quyết TTCNTT",
+      "vai_tro": "Đôn đốc kiểm tra kết nối"
+    },
+    {
+      "can_cu": "kiểm tra log FW phía Bộ, đề xuất route [9 tin]",
+      "ho_ten": "Toan Manh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ",
+      "phong_ban": "Đơn vị vận hành tường lửa của Bộ (suy ra)",
+      "tai_khoan": "Toan Manh; @toanvm_3SG",
+      "vai_tro": "Kiểm tra log FW, mở rule"
+    },
+    {
+      "can_cu": "nói 'bên bộ KHCN'. Lưu ý: tài khoản đuôi _dgs giống nhóm VNPT-DGS → có thể là nhân sự VNPT triển khai cho Bộ () [5 tin] | (suy ra) Đuôi tài khoản \"_dgs\" như các tài khoản VNPT-DGS; \"Báo cáo anh @dudanglong\" (LGSP Bộ KHCN), xin C12 văn bản gửi Bộ, gửi curl devtest TTHC",
+      "ho_ten": "Lê Nam Tuấn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ",
+      "phong_ban": "Nhân sự VNPT-DGS (suy ra) vận hành LGSP / HT GQTTHC cho Bộ KHCN",
+      "tai_khoan": "Lê Nam Tuấn; @lenamtuan_dgs",
+      "vai_tro": "Route LGSP, cung cấp thông tin TTHC"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Dư Đăng Long",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "",
+      "phong_ban": "LGSP",
+      "tai_khoan": "@dudanglong",
+      "vai_tro": "Đầu mối LGSP"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Nguyễn Văn Đại",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Đẩy dữ liệu 3 CSDL"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Bùi Quốc Anh",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "",
+      "phong_ban": "NEAC",
+      "tai_khoan": "",
+      "vai_tro": "Ký số"
+    },
+    {
+      "can_cu": "Giữ từ Excel cũ",
+      "ho_ten": "Phùng Công Định",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "",
+      "phong_ban": "NASTIS",
+      "tai_khoan": "",
+      "vai_tro": ""
+    }
+  ]
+}

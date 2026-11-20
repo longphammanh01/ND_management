@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-17T02:29:15.675Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: PAKN-NDOP-DVC # DevTest – Giang NADAT 16/11 17:01",
+  "luong": "cs-01",
+  "thay_doi": [
+    {
+      "cu": "Gần 1 tháng chưa có testcase từ QC Cổng/PAKN (từ 19/10); log NDOP hiện chậm hoặc thiếu",
+      "moi": "DVC – gọi API PAKN từ hệ thống không tới NDOP (không có log), chỉ Postman tới được (từ 16/11)",
+      "truong": "blocker"
+    }
+  ]
+}

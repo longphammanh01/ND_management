@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-17T02:28:57.455Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: C12 - C06 SSO - NDOP LHL - DVCQG.PAKN – Trần Huy Hùng NADAT 16/11 11:45",
+  "luong": "cs-16-17",
+  "thay_doi": [
+    {
+      "cu": "BA gửi Gtel (Do Uy) bảng luồng toàn trình SSO; kiểm tra luồng đăng nhập qua NDOP trên NDC",
+      "moi": "Cấu hình domain name SDL và endpoints trên NDOP cho luồng SSO C06",
+      "truong": "viec_tiep"
+    }
+  ]
+}

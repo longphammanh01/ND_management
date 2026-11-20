@@ -1,0 +1,21 @@
+{
+  "ai_chan": "Bộ KHCN (Mr Chien, Toan Manh)",
+  "ba": "Chi",
+  "blocker": "Trước đó: route LGSP Bộ về AGN, apikey môi trường test",
+  "blocker_thuoc": "Khách hàng",
+  "cap_nhat": "18/11/2026",
+  "dev": "Thuật, Trung",
+  "donvi": "Bộ KHCN (GQTTHC, NEAC)",
+  "dt_buoc": "—",
+  "dt_tt": "—",
+  "loai": "Kỹ thuật",
+  "luong": "Cổng DVC ↔ NDOP ↔ HT GQTTHC/NEAC",
+  "ma": "CS-14",
+  "ndc_buoc": "B6. Login thông (12/11); 13/11 thử nộp hồ sơ tại LHL",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Chi",
+  "nhom": "BBN",
+  "nhom_chat": "TELE Agent Node BKHCN; MBFS-NADAT Nội bộ",
+  "nv": "CS",
+  "viec_tiep": "Theo dõi nộp hồ sơ thử; hoàn thiện testcase UAT (Ngoc Lan); luồng DVCQG – NDOP – NEAC: NDOP cấu hình 4 API Cổng eSign (danh sách CA, thông tin chứng thư, ký số mã Hash, thông tin chữ ký) và kết nối ở NDC (Nguyen Phong)"
+}

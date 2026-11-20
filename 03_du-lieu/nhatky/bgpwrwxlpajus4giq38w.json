@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-17T02:29:34.936Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: C12 - SHB kết nối DVCQG – A Dũng TTTT D01 16/11 14:20",
+  "luong": "cs-11",
+  "thay_doi": [
+    {
+      "cu": "TTTT chưa xong hotfix định dạng thời gian và cấu hình 2 domain (từ 08/11); 2 việc trong BBNT đã quá hạn: SHB thêm giờ phút trên biên lai (03/11), TTTT thêm API lấy thông tin tài khoản (06/11)",
+      "moi": "SHB/TTTT – tải biên lai qua AG bị timeout (499), chưa thông (từ 13/11)",
+      "truong": "blocker"
+    }
+  ]
+}

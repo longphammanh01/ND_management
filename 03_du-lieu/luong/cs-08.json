@@ -1,0 +1,21 @@
+{
+  "ai_chan": "NADAT (BA)",
+  "ba": "Long",
+  "blocker": "Port 5500 giữa các ShareNode bị lớp mạng trung gian chặn (13/11); MoMo chưa xác nhận bộ test DevTest 02/11",
+  "blocker_thuoc": "Nội bộ + Khách hàng",
+  "cap_nhat": "17/11/2026",
+  "dev": "Giang, Lưu Phạm",
+  "donvi": "MoMo",
+  "dt_buoc": "NADAT đã cấu hình và gửi bộ test 02/11; MoMo chưa xác nhận kết quả, chưa có BBNT",
+  "dt_tt": "Đang thực hiện",
+  "loai": "Nghiệp vụ",
+  "luong": "TTTT ↔ NDOP ↔ MoMo",
+  "ma": "CS-08",
+  "ndc_buoc": "13/11: SSH từ NDC tới ShareNode MoMo (100.64.0.29) thông 10h, giao diện ShareNode lên chiều 13/11; còn vướng port 5500 (peer giữa các ShareNode) do lớp mạng ở giữa chặn",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Long / Hùng",
+  "nhom": "DN",
+  "nhom_chat": "TELE MoMo x C12",
+  "nv": "CS",
+  "viec_tiep": "TTTT và MoMo thống nhất tham số kết nối mới để MoMo gọi qua NDC LHL"
+}

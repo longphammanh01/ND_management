@@ -1,0 +1,96 @@
+{
+  "ben": "Nhà thầu, hệ thống trong NDC",
+  "dv": "TTTT",
+  "nguoi": [
+    {
+      "can_cu": "D01-VNTDO 05/10 Quyết: 'Bạn Dũng @ironman68886 là đầu mối PM hệ thống tttt bên Cổng' [196 tin]",
+      "ho_ten": "Dũng (A Dũng TTTT D01)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG; [TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] DVC-NDOP-TTTT # DevTest; [TELE] MBFS-NADAT Nội bộ; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] NDOP-C12-ThanhToan-VPBank; [TELE] Thanh toán C12 VNPAY; [TELE] Thanh toán C12 VpBank; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – MBFS, HT Thanh toán trực tuyến (TTTT)",
+      "tai_khoan": "A Dũng TTTT D01; Iron Man; @ironman68886",
+      "vai_tro": "PM hệ thống TTTT – đầu mối tích hợp thanh toán với ngân hàng/ĐVTT qua NDOP"
+    },
+    {
+      "can_cu": "06/11 'em ở đầu nghiệp vụ thôi'; 07/10 'em bên D01' [141 tin]",
+      "ho_ten": "Nguyệt Lê",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG; [TELE] D01-NADAT-VNTDO: Thanh toán SDL",
+      "phong_ban": "D01 – MBFS, TTTT nghiệp vụ/QC",
+      "tai_khoan": "Nguyệt Lê; @nguyetlt",
+      "vai_tro": "Nghiệp vụ TTTT, kiểm tra luồng thanh toán, hoàn huỷ, IPN"
+    },
+    {
+      "can_cu": "Giang (TTTT) 'chị cung cấp tài khoản thụ hưởng trên dev'; SHB gửi kịch bản nghiệm thu cho @ptnam1412 [61 tin]",
+      "ho_ten": "Tươi Lê",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG; [TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "D01 – MBFS, TTTT QC",
+      "tai_khoan": "Tươi Lê; @tuoile194",
+      "vai_tro": "QC TTTT, cấp tài khoản thụ hưởng test, gửi kịch bản/BBNT"
+    },
+    {
+      "can_cu": "06/10 gửi 'DVCCDV-Hướng dẫn tích hợp v3.1'; SHB: 'Kính gửi các anh/chị đối tác Đơn vị thanh toán…' [31 tin]",
+      "ho_ten": "Phương Hà",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG; [TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "D01 – MBFS, TTTT BA",
+      "tai_khoan": "Phương Hà",
+      "vai_tro": "Gửi hướng dẫn tích hợp, thông báo nâng cấp TTTT cho ĐVTT, quyết toán"
+    },
+    {
+      "can_cu": "A Dũng 'bên e có @hg11022 phối hợp'; tự nói 'gửi request lên phòng vận hành' (email công ty MBFS – không ghi ra) [87 tin]",
+      "ho_ten": "Giang (TTTT – @hg11022)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] DVC-NDOP-TTTT # DevTest",
+      "phong_ban": "D01 – MBFS, TTTT dev",
+      "tai_khoan": "Giang; @hg11022",
+      "vai_tro": "Cấp key, cấu hình IPN, đơn vị thụ hưởng"
+    },
+    {
+      "can_cu": "'để bên em whitelist chiều NADAT → TTTT'; A Dũng 'a trao đổi với @nghoagnam r' [48 tin]",
+      "ho_ten": "Nguyễn Hoàng Nam",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DVC-NDOP-TTTT # DevTest; [TELE] NDOP-C12-ThanhToan-VPBank; [TELE] Thanh toán C12 VNPAY; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – MBFS, TTTT dev",
+      "tai_khoan": "Nguyễn Hoàng Nam; @nghoagnam",
+      "vai_tro": "Whitelist IP, cấu hình callback/IPN TTTT↔NADAT↔ngân hàng"
+    },
+    {
+      "can_cu": "SHB: Quang Anh 'phần api trước có anh Cao Sơn Tùng gửi bên em'; email công ty MBFS (không ghi ra) [15 tin]",
+      "ho_ten": "Cao Sơn Tùng (Tùng Sơn)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "D01 – MBFS, TTTT dev",
+      "tai_khoan": "Tùng Sơn; @imsontung",
+      "vai_tro": "Sửa định dạng thời gian, đối soát, đẩy lên prod"
+    },
+    {
+      "can_cu": "'trên quản trị chưa thấy chạy đối soát' [3 tin]",
+      "ho_ten": "Hoa Mai",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "D01 – TTTT (suy ra)",
+      "tai_khoan": "Hoa Mai",
+      "vai_tro": "Đối soát TTTT"
+    },
+    {
+      "can_cu": "'VNPAY Nguyễn Thế Vinh a check giúp e request này' (gọi sang VNPAY → phía TTTT) [13 tin]",
+      "ho_ten": "Loc Le",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "D01 – TTTT dev (suy ra)",
+      "tai_khoan": "Loc Le",
+      "vai_tro": "Gọi API VNPAY, báo lỗi"
+    },
+    {
+      "can_cu": "gửi API paygate-dev-cpdt.mbfs.vn",
+      "ho_ten": "Hải Giang",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Cung cấp API TTTT dev, kiểm thử"
+    }
+  ]
+}

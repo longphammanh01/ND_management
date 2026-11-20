@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-18T02:11:49.317Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: NDOP_NDC_LHL_103NT – Đào Mạnh Tùng 16/11 15:52",
+  "luong": "cs-12",
+  "thay_doi": [
+    {
+      "cu": "Thiếu tài khoản ESXi AgentNode BIDV",
+      "moi": "C12 – VM AgentNode BIDV: đã có tài khoản ESXi nhưng hết IP (đã dùng cho luồng thanh toán), chờ C12 cấp thêm IP (từ 16/11)",
+      "truong": "blocker"
+    }
+  ]
+}

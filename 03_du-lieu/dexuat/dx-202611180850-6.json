@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Theo dõi nộp hồ sơ thử; hoàn thiện testcase UAT (Ngoc Lan)",
+  "doc": "cs-14",
+  "dv": "Bộ KHCN (GQTTHC, NEAC)",
+  "ly_do": "Đã nhận tài liệu nghiệp vụ Cổng eSign (NEAC), Nguyen Phong được giao và tóm tắt nhiệm vụ NDOP.",
+  "ma": "CS-14",
+  "moi": "Theo dõi nộp hồ sơ thử; hoàn thiện testcase UAT (Ngoc Lan); luồng DVCQG – NDOP – NEAC: NDOP cấu hình 4 API Cổng eSign (danh sách CA, thông tin chứng thư, ký số mã Hash, thông tin chữ ký) và kết nối ở NDC (Nguyen Phong)",
+  "nguon": "NDOP (Viber) – Trần Huy Hùng 14/11 11:09; Nguyen Phong 14/11 15:28",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-18T02:11:59.756Z"
+}

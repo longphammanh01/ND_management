@@ -1,0 +1,132 @@
+{
+  "ben": "Nhà thầu, hệ thống trong NDC",
+  "dv": "Cổng DVC",
+  "nguoi": [
+    {
+      "can_cu": "Hùng gọi 'sếp D01 - Xuân Quyết (PGD)'; DMDC: Phạm Minh 'anh Quyết là trưởng phòng đại diện bên e'; Le Cuong 'anh A Quyết - Thanh Toán TT - D01'. Chức danh PGĐ hay trưởng phòng [141 tin] | Anh Hùng luôn gắn tên \"D01 - Xuân Quyết (PGD)\" trong nhóm MBFS-NADAT; chọn PGĐ",
+      "ho_ten": "Nguyễn Xuân Quyết",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN; [TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] DA175- PAKN+PA-SaiKhac; [TELE] MBFS-NADAT Nội bộ; [TELE] NDOP-C12-ThanhToan-VPBank; [TELE] [C12] DVCQG - HTLL - NADAT; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG; [ZALO] DVCQG vs NHNN",
+      "phong_ban": "D01 (Mobifone/MBFS) – Phó giám đốc, phụ trách Cổng DVCQG",
+      "tai_khoan": "Quyết Nguyễn Xuân (Tele); Nguyễn Xuân Quyết (Zalo); D01 - Xuân Quyết (PGD); MBF.Quyết",
+      "vai_tro": "Lãnh đạo phía D01 phụ trách Cổng DVCQG và Thanh toán tập trung; điều phối PAKN, HTLL, NHNN"
+    },
+    {
+      "can_cu": "A Quang 'Quyết - @Mr_Tomy D01 gửi giúp Nadat thông tin cụ thể về API'; 05/10 phân công @thamigunbai [14 tin]",
+      "ho_ten": "Mr Tommy (Thành – theo danh sách cũ)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DVC-NDOP-TTTT # DevTest; [TELE] PAKN-NDOP-DVC # DevTest; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – Cổng DVC",
+      "tai_khoan": "Mr Tommy; @Mr_Tomy",
+      "vai_tro": "Đầu mối kỹ thuật Cổng DVCQG, gửi tài liệu tích hợp, phân công dev"
+    },
+    {
+      "can_cu": "Mr Tommy 'chỗ @thamigunbai phối hợp để tích hợp trên môi trường dev'; Thắng 'e add @oanhchanne QC bên e' [18 tin] | \"Thắng\" trong nhóm MBF-NADAT-C12 là Thắng BV: Nguyễn Duy Hòa nói \"owner file đấy là của thắng\" khi bàn API Cổng gọi PAKN",
+      "ho_ten": "Thắng BV",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DVC-NDOP-TTTT # DevTest; [TELE] PAKN-NDOP-DVC # DevTest; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – Cổng DVC (dev)",
+      "tai_khoan": "Thắng BV; @thamigunbai",
+      "vai_tro": "Dev Cổng tích hợp gọi TTTT/PAKN/CSDL TTHC trên dev"
+    },
+    {
+      "can_cu": "Nhi (TP QC MBFS) 12/10 'Bạn Thủy QC bên Em ngày mai sẽ phối hợp kiểm thử' [126 tin]",
+      "ho_ten": "Thuy Thu (Thủy QC)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] PAKN-NDOP-DVC # DevTest; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – MBFS, QC Cổng DVC",
+      "tai_khoan": "Thuy Thu; @thu_thuy1311",
+      "vai_tro": "QC kiểm thử tích hợp Cổng–TTTT, Cổng–PAKN, Cổng–CSDL TTHC"
+    },
+    {
+      "can_cu": "DVC-NDOP-TTTT: Thắng BV 'e add @oanhchanne QC bên e' [17 tin]",
+      "ho_ten": "Oanh Chan",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DVC-NDOP-TTTT # DevTest",
+      "phong_ban": "D01 – QC Cổng DVC",
+      "tai_khoan": "Oanh Chan; @oanhchanne",
+      "vai_tro": "QC Cổng test API thanh toán qua NDOP"
+    },
+    {
+      "can_cu": "Quỳnh Anh 04/10 'e add c Nhi, trưởng phòng qc bên em' [10 tin]",
+      "ho_ten": "Nhi Nguyen (chị Nhi)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – MBFS, Trưởng phòng QC",
+      "tai_khoan": "Nhi Nguyen",
+      "vai_tro": "Điều phối QC, lập kịch bản nghiệm thu 10 API"
+    },
+    {
+      "can_cu": "Mr Tommy 'trao đổi thêm với bạn PM Quỳnh Anh @Lily170899' [15 tin]",
+      "ho_ten": "Quynh Anh Nguyen (Quỳnh Anh)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – MBFS, PM",
+      "tai_khoan": "Quynh Anh Nguyen; @Lily170899",
+      "vai_tro": "PM điều phối nhân sự MBFS, timeline nghiệm thu"
+    },
+    {
+      "can_cu": "Nguyễn Hoàng Nam 07/10 'URLNhanKetQua của bên Cổng truyền sang ko đúng… @khoand2612' [13 tin]",
+      "ho_ten": "khoa nguyen",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – dev Cổng DVC (suy ra)",
+      "tai_khoan": "khoa nguyen; @khoand2612",
+      "vai_tro": "Gửi log/curl phía Cổng (URLNhanKetQua)"
+    },
+    {
+      "can_cu": "C06 SSO: Quyết giao việc 'các hệ thống khác của mình' [1 tin]",
+      "ho_ten": "Đinh Văn Long",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN",
+      "phong_ban": "D01 (suy ra)",
+      "tai_khoan": "Đinh Văn Long; @longdvv",
+      "vai_tro": "Nhân rộng tích hợp SSO qua NDOP cho các hệ thống của D01"
+    },
+    {
+      "can_cu": "tên hiển thị MBFS; Hùng tag cùng Quyết hỏi API spec DVC [26 tin]",
+      "ho_ten": "Mạnh NĐ.MBFS",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MBFS-NADAT Nội bộ; [TELE] PAKN-NDOP-DVC # DevTest",
+      "phong_ban": "D01 – MBFS, hạ tầng/DevOps NDC",
+      "tai_khoan": "Mạnh NĐ.MBFS; @max_25519",
+      "vai_tro": "Kết nối mạng D01 tại NDC, rule FW, tổng hợp trạng thái mở mạng"
+    },
+    {
+      "can_cu": "rà soát UC: '@thanhdao1985 Anh Giang Tổ 5 P4 C12 a ơi cử giúp e đầu mối D01'; 'Các nhà cử người tham gia @thanhdao1985 @duonghongtrianna @itsmedukang'; Le Cuong 'anh Trung Dũng PP5 đã gọi trao đổi với anh Đào Thành' về profile thanh toán [3 tin]",
+      "ho_ten": "Đào Ngọc Thành (anh Đào Thành)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] NDOP-C12-ThanhToan-VPBank; [TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "D01 – lãnh đạo",
+      "tai_khoan": "@thanhdao1985",
+      "vai_tro": "Chỉ đạo bố trí nhân sự D01; cử đầu mối D01 họp Bộ ngành; phía TTTT"
+    },
+    {
+      "can_cu": "MBFS-NADAT Nội bộ; được 'Phạm' (Phạm Minh – D01) thêm vào nhóm DMDC (suy ra D01) [2 tin]",
+      "ho_ten": "Chu Thái",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MBFS-NADAT Nội bộ",
+      "phong_ban": "D01 (suy ra)",
+      "tai_khoan": "Chu Thái",
+      "vai_tro": "Hỏi kế hoạch kết nối thử nghiệm với địa phương"
+    },
+    {
+      "can_cu": "DVCQG vs NHNN: Mr T giao 'xuất cho a ds các hồ sơ đồng bộ lên QG bị quá hạn'; tag Gtel (Đặng Đình Hoàng, Tuan Manh) – ghi chú cũ D01 [4 tin]",
+      "ho_ten": "Trần Ngọc Thành",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN; [ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "D01 – Cổng DVCQG (suy ra)",
+      "tai_khoan": "Trần Ngọc Thành (Zalo)",
+      "vai_tro": "Kết xuất danh sách hồ sơ chậm hạn, chuyển sự cố webhook NHNN cho đội NDOP"
+    },
+    {
+      "can_cu": "NHNN nhờ '@Đoàn Dương và @Nguyễn Hoa hỗ trợ'; trả lời 'e đang báo kỹ thuật kiểm tra lại' [1 tin]",
+      "ho_ten": "Nguyễn Hoa",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN",
+      "phong_ban": "D01 – Cổng DVCQG (suy ra)",
+      "tai_khoan": "Nguyễn Hoa (Zalo)",
+      "vai_tro": "Tiếp nhận yêu cầu cấu hình TTHC 2.001399, chuyển kỹ thuật"
+    }
+  ]
+}

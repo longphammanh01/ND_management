@@ -1,0 +1,22 @@
+{
+  "ai_chan": "Dev NADAT (Mạnh); C12 P5 (mở rule)",
+  "ba": "Chi",
+  "blocker": "Trước khi ký BBNT DevTest: lệch 5 bản ghi tc039 (NDOP nhận 8.855, DMDC gửi 8.850); đặc tả API dân cư C06 v0.1 dùng POST nhưng BBNT ghi GET; BBNT chưa có ngày và đại diện Mobifone Solutions. Phiên bản NDC: Dev ước 7,75 ngày công, chưa mở rule",
+  "blocker_thuoc": "Nội bộ + C12",
+  "cap_nhat": "13/11/2026",
+  "dev": "Duy Nguyễn Văn",
+  "donvi": "DMDC (Teca/MBF)",
+  "dt_buoc": "B4. DevTest hoàn tất 02/11; BBNT v1 gửi nhóm chung 10/11, chưa ai phản hồi (D01 còn coi là bản chuẩn bị trước)",
+  "dt_tt": "Chờ phản hồi",
+  "han_xu_ly": "15/11/2026",
+  "loai": "Kỹ thuật",
+  "luong": "DMDC → NDOP; NDOP → DMDC (điều phối)",
+  "ma": "TH-PM-03",
+  "ndc_buoc": "Chưa mở rule NDOP→DMDC; Dev đóng gói image (đến 15/11)",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Chi",
+  "nhom": "HTPM",
+  "nhom_chat": "TELE [DMDC-NADAT]",
+  "nv": "TH + ĐP",
+  "viec_tiep": "Đưa BBNT lên nhóm chung DMDC lấy ý kiến (anh Quang/Nicolas duyệt format); chốt ngày release NDC, quét CVE trước khi lên"
+}

@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-18T02:12:10.026Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: D01-NADAT-VNTDO: Thanh toán SDL – Phương Hà 17/11 14:57; Hoa Mai 17/11 16:36",
+  "luong": "cs-06",
+  "thay_doi": [
+    {
+      "cu": "Theo dõi TTTT lên NDC 16/11; Sàn bổ sung testcase; lập phiếu mở 4 IP; chưa có BBNT",
+      "moi": "Sàn VNTDO tích hợp API quyết toán thủ công, API hoàn hủy và API vấn tin tài khoản (mục 5.11, tài liệu hướng dẫn v3.1 TTTT gửi 17/11); theo dõi Cổng TTTT lên bản mới có mã 8; Sàn bổ sung testcase; lập phiếu mở 4 IP; chưa có BBNT",
+      "truong": "viec_tiep"
+    }
+  ]
+}

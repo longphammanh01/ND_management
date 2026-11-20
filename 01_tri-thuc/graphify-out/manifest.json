@@ -1,0 +1,392 @@
+{
+  "06_Nguon/_lam_viec/nguoi_doi_chieu.json": {
+    "mtime": 1794732772.1433294,
+    "seen": 1794769624.3451428,
+    "ast_hash": "7e8f8914e38e462421dd33ce010e5933",
+    "semantic_hash": "7e8f8914e38e462421dd33ce010e5933"
+  },
+  "06_Nguon/_lam_viec/nguoi_hien_tai.json": {
+    "mtime": 1794731971.5721917,
+    "seen": 1794769624.3451428,
+    "ast_hash": "bd41a9af3f58bf05f1f0728d5690686d",
+    "semantic_hash": "bd41a9af3f58bf05f1f0728d5690686d"
+  },
+  "06_Nguon/tom_tat_tai_lieu.json": {
+    "mtime": 1794735644.9316354,
+    "seen": 1794769624.3451428,
+    "ast_hash": "6ba8d798ba617b7c76d3bed5c6779b4d",
+    "semantic_hash": "6ba8d798ba617b7c76d3bed5c6779b4d"
+  },
+  "06_Nguon/tong_hop_telegram_a.json": {
+    "mtime": 1794558455.7959757,
+    "seen": 1794769624.3451428,
+    "ast_hash": "af6db37a9b73706c4553c0508c13714a",
+    "semantic_hash": "af6db37a9b73706c4553c0508c13714a"
+  },
+  "06_Nguon/tong_hop_telegram_b.json": {
+    "mtime": 1794731846.6071148,
+    "seen": 1794769624.3451428,
+    "ast_hash": "b899e1f6e221cff2a7ee03991193e69d",
+    "semantic_hash": "b899e1f6e221cff2a7ee03991193e69d"
+  },
+  "06_Nguon/tong_hop_viber_zalopc.json": {
+    "mtime": 1794755965.5819798,
+    "seen": 1794769624.3451428,
+    "ast_hash": "958c376170af793fc8a1c8501fd03be1",
+    "semantic_hash": "958c376170af793fc8a1c8501fd03be1"
+  },
+  "06_Nguon/tong_hop_whatsapp_zalo.json": {
+    "mtime": 1794730815.9394956,
+    "seen": 1794769624.3451428,
+    "ast_hash": "734147ecdb022356358cefc2762fc5c5",
+    "semantic_hash": "734147ecdb022356358cefc2762fc5c5"
+  },
+  "00_DanhMuc.md": {
+    "mtime": 1794735206.4007144,
+    "seen": 1794769624.3451428,
+    "ast_hash": "f83aa2dc7eb232bda69e361d2a3de7c5",
+    "semantic_hash": "f83aa2dc7eb232bda69e361d2a3de7c5"
+  },
+  "01_TraCuu_ThuatNgu.md": {
+    "mtime": 1794540766.9988098,
+    "seen": 1794769624.3451428,
+    "ast_hash": "1dc2ab2167f2093d495a0c2647a9ff48",
+    "semantic_hash": "1dc2ab2167f2093d495a0c2647a9ff48"
+  },
+  "02_QuyTrinh_TrienKhai.md": {
+    "mtime": 1794735206.4002001,
+    "seen": 1794769624.3451428,
+    "ast_hash": "aa8d6f00a9b07eab0b933d6ec2c0d639",
+    "semantic_hash": "aa8d6f00a9b07eab0b933d6ec2c0d639"
+  },
+  "04_BaoCao_TinhHinh_13-11-2026.md": {
+    "mtime": 1794735206.4007144,
+    "seen": 1794769624.3451428,
+    "ast_hash": "128b7482ca2115a3c54095d2d34d9383",
+    "semantic_hash": "128b7482ca2115a3c54095d2d34d9383"
+  },
+  "05_DeXuat_CongCu.md": {
+    "mtime": 1794540767.0119388,
+    "seen": 1794769624.3451428,
+    "ast_hash": "76dc81c9abcecefcd5e091ccccc4e7d1",
+    "semantic_hash": "76dc81c9abcecefcd5e091ccccc4e7d1"
+  },
+  "06_Nguon/GhiChu_DocChat_13-11-2026.md": {
+    "mtime": 1794540063.108196,
+    "seen": 1794769624.3451428,
+    "ast_hash": "6f4558cc3d48e1adeab6f3d0da3b1b2e",
+    "semantic_hash": "6f4558cc3d48e1adeab6f3d0da3b1b2e"
+  },
+  "06_Nguon/TaiLieu_Input.md": {
+    "mtime": 1794540767.0194561,
+    "seen": 1794769624.3451428,
+    "ast_hash": "67c64d950afc685764140fc9dda66be6",
+    "semantic_hash": "67c64d950afc685764140fc9dda66be6"
+  },
+  "06_Nguon/_HuongDan_DocChat_DayDu.md": {
+    "mtime": 1794540023.78012,
+    "seen": 1794769624.3451428,
+    "ast_hash": "ed06bcb99a369ebc1818a3e984a55cf0",
+    "semantic_hash": "ed06bcb99a369ebc1818a3e984a55cf0"
+  },
+  "06_Nguon/chat_day_du/Telegram/agent-node-bo-khoa-hoc-cong-nghe.txt": {
+    "mtime": 1794731304.7934923,
+    "seen": 1794769624.3451428,
+    "ast_hash": "914a4be376dd28821b62f5349fdd9cd0",
+    "semantic_hash": "914a4be376dd28821b62f5349fdd9cd0"
+  },
+  "06_Nguon/chat_day_du/Telegram/c12-c06-sso-ndop-lhl-dvcqg-pakn.txt": {
+    "mtime": 1794731304.8025,
+    "seen": 1794769624.3451428,
+    "ast_hash": "6fc77ef2fc78fffd9ab8c62f1c74a36a",
+    "semantic_hash": "6fc77ef2fc78fffd9ab8c62f1c74a36a"
+  },
+  "06_Nguon/chat_day_du/Telegram/c12-d01-dmdc-ndop-nadat.txt": {
+    "mtime": 1794731304.813794,
+    "seen": 1794769624.3451428,
+    "ast_hash": "72a16966cc42dc0e5ac185550ea8cf42",
+    "semantic_hash": "72a16966cc42dc0e5ac185550ea8cf42"
+  },
+  "06_Nguon/chat_day_du/Telegram/c12-dvcqg-htll-nadat.txt": {
+    "mtime": 1794731304.815804,
+    "seen": 1794769624.3451428,
+    "ast_hash": "a4a6cfcab5932620ab17bf9b3a67a93a",
+    "semantic_hash": "a4a6cfcab5932620ab17bf9b3a67a93a"
+  },
+  "06_Nguon/chat_day_du/Telegram/c12-nadat-quy-hoach-trien-khai-kho-dung-chung-luong-du-lieu.txt": {
+    "mtime": 1794731304.817801,
+    "seen": 1794769624.3451428,
+    "ast_hash": "fe8b55323ab305ea88e486b13f718977",
+    "semantic_hash": "fe8b55323ab305ea88e486b13f718977"
+  },
+  "06_Nguon/chat_day_du/Telegram/c12-ndop-bo-tai-lieu.txt": {
+    "mtime": 1794731304.8187976,
+    "seen": 1794769624.3451428,
+    "ast_hash": "f6298c351d3df541e9df70d490b29729",
+    "semantic_hash": "f6298c351d3df541e9df70d490b29729"
+  },
+  "06_Nguon/chat_day_du/Telegram/c12-ndop-vnpt-nadat.txt": {
+    "mtime": 1794731304.8207977,
+    "seen": 1794769624.3451428,
+    "ast_hash": "5b58013190917f37c244286e0a232843",
+    "semantic_hash": "5b58013190917f37c244286e0a232843"
+  },
+  "06_Nguon/chat_day_du/Telegram/c12-shb-ket-noi-dvcqg.txt": {
+    "mtime": 1794731304.822801,
+    "seen": 1794769624.3451428,
+    "ast_hash": "874499feed76d6503fbdc30830772978",
+    "semantic_hash": "874499feed76d6503fbdc30830772978"
+  },
+  "06_Nguon/chat_day_du/Telegram/d01-nadat-vntdo-thanh-toan-sdl.txt": {
+    "mtime": 1794731304.8360803,
+    "seen": 1794769624.3451428,
+    "ast_hash": "e304ab9ef6767c87c484f5f28856b868",
+    "semantic_hash": "e304ab9ef6767c87c484f5f28856b868"
+  },
+  "06_Nguon/chat_day_du/Telegram/da175-pakn-pa-saikhac.txt": {
+    "mtime": 1794731304.8470967,
+    "seen": 1794769624.3451428,
+    "ast_hash": "e952eb993109b0c38cde217cd2e53b0e",
+    "semantic_hash": "e952eb993109b0c38cde217cd2e53b0e"
+  },
+  "06_Nguon/chat_day_du/Telegram/demo-san.txt": {
+    "mtime": 1794731304.8596604,
+    "seen": 1794769624.3451428,
+    "ast_hash": "3ec2802045240f9f484d631ba84fc454",
+    "semantic_hash": "3ec2802045240f9f484d631ba84fc454"
+  },
+  "06_Nguon/chat_day_du/Telegram/devtest-hanoi-nadat-tttt.txt": {
+    "mtime": 1794731304.86166,
+    "seen": 1794769624.3451428,
+    "ast_hash": "47edce9c046cd88c3e9f167ff6f7ca79",
+    "semantic_hash": "47edce9c046cd88c3e9f167ff6f7ca79"
+  },
+  "06_Nguon/chat_day_du/Telegram/dmdc-nadat-tich-hop-nen-tang.txt": {
+    "mtime": 1794731304.8631651,
+    "seen": 1794769624.3451428,
+    "ast_hash": "c756b3652f05a9d9ecd3a176bdb8a5b9",
+    "semantic_hash": "c756b3652f05a9d9ecd3a176bdb8a5b9"
+  },
+  "06_Nguon/chat_day_du/Telegram/dvc-ndop-tttt-devtest.txt": {
+    "mtime": 1794731304.871898,
+    "seen": 1794769624.3451428,
+    "ast_hash": "b472202bf04f3f5e7a80426dfa24ebc6",
+    "semantic_hash": "b472202bf04f3f5e7a80426dfa24ebc6"
+  },
+  "06_Nguon/chat_day_du/Telegram/ha-tang-tpbank-c12.txt": {
+    "mtime": 1794731304.8819225,
+    "seen": 1794769624.3451428,
+    "ast_hash": "3d8754fba351edd55eb29d73a8d0ccf7",
+    "semantic_hash": "3d8754fba351edd55eb29d73a8d0ccf7"
+  },
+  "06_Nguon/chat_day_du/Telegram/mbf-nadat-c12-tich-hop-cong-dvc-qg.txt": {
+    "mtime": 1794731304.8944561,
+    "seen": 1794769624.3451428,
+    "ast_hash": "881895f19baa4c08e5ca397fa6252fc6",
+    "semantic_hash": "881895f19baa4c08e5ca397fa6252fc6"
+  },
+  "06_Nguon/chat_day_du/Telegram/mbfs-nadat-noi-bo.txt": {
+    "mtime": 1794731304.9116123,
+    "seen": 1794769624.3451428,
+    "ast_hash": "ee73b50f8e7bf7dbe3104e90323d9331",
+    "semantic_hash": "ee73b50f8e7bf7dbe3104e90323d9331"
+  },
+  "06_Nguon/chat_day_du/Telegram/momo-x-c12-cai-dat-server-cho-cong-dvcqg.txt": {
+    "mtime": 1794731304.9196436,
+    "seen": 1794769624.3451428,
+    "ast_hash": "95105b45be24ed292f0019a4f0b42c86",
+    "semantic_hash": "95105b45be24ed292f0019a4f0b42c86"
+  },
+  "06_Nguon/chat_day_du/Telegram/ndop-c12-thanhtoan-vpbank.txt": {
+    "mtime": 1794731304.935678,
+    "seen": 1794769624.3451428,
+    "ast_hash": "2c036f08332e9db63880a67ca06befdc",
+    "semantic_hash": "2c036f08332e9db63880a67ca06befdc"
+  },
+  "06_Nguon/chat_day_du/Telegram/nhom-ra-soat-uc-du-lieu.txt": {
+    "mtime": 1794731304.9416778,
+    "seen": 1794769624.3451428,
+    "ast_hash": "a606e80ab08b2d693fa51149690323f9",
+    "semantic_hash": "a606e80ab08b2d693fa51149690323f9"
+  },
+  "06_Nguon/chat_day_du/Telegram/pakn-ndop-dvc-devtest.txt": {
+    "mtime": 1794731304.9671607,
+    "seen": 1794769624.3451428,
+    "ast_hash": "3df89cbdae3b3e81650b1de493ec7d80",
+    "semantic_hash": "3df89cbdae3b3e81650b1de493ec7d80"
+  },
+  "06_Nguon/chat_day_du/Telegram/thanh-toan-c12-vnpay.txt": {
+    "mtime": 1794731304.9796047,
+    "seen": 1794769624.3451428,
+    "ast_hash": "09172c168af1d6526815551cc3d6b864",
+    "semantic_hash": "09172c168af1d6526815551cc3d6b864"
+  },
+  "06_Nguon/chat_day_du/Telegram/thanh-toan-c12-vpbank.txt": {
+    "mtime": 1794731304.9916117,
+    "seen": 1794769624.3451428,
+    "ast_hash": "e046c4863875048809851dcb15ec0085",
+    "semantic_hash": "e046c4863875048809851dcb15ec0085"
+  },
+  "06_Nguon/chat_day_du/Telegram/vp-bank-c12.txt": {
+    "mtime": 1794731304.993613,
+    "seen": 1794769624.3451428,
+    "ast_hash": "3158c8513683a3398ac7525a860eaf60",
+    "semantic_hash": "3158c8513683a3398ac7525a860eaf60"
+  },
+  "06_Nguon/chat_day_du/Telegram/xay-dung-tai-lieu-dac-ta-ky-thuat-bxd-ttdlqg.txt": {
+    "mtime": 1794731305.0006313,
+    "seen": 1794769624.3451428,
+    "ast_hash": "2332683a0d43981108907e190382ee4f",
+    "semantic_hash": "2332683a0d43981108907e190382ee4f"
+  },
+  "06_Nguon/chat_day_du/Viber/ndop-ndc-lhl-103nt.txt": {
+    "mtime": 1794755821.302811,
+    "seen": 1794769624.3451428,
+    "ast_hash": "6700523c859317b9324a77d3d017144a",
+    "semantic_hash": "6700523c859317b9324a77d3d017144a"
+  },
+  "06_Nguon/chat_day_du/WhatsApp/nadat-san-du-lieu.txt": {
+    "mtime": 1794541528.637537,
+    "seen": 1794769624.3451428,
+    "ast_hash": "e9bcf801fb57a386712dd086d7cb44e5",
+    "semantic_hash": "e9bcf801fb57a386712dd086d7cb44e5"
+  },
+  "06_Nguon/chat_day_du/WhatsApp/nd-ba-ndop.txt": {
+    "mtime": 1794541801.8056364,
+    "seen": 1794769624.3451428,
+    "ast_hash": "2dcfb9dae1a04164bd6026abd3ca05c6",
+    "semantic_hash": "2dcfb9dae1a04164bd6026abd3ca05c6"
+  },
+  "06_Nguon/chat_day_du/WhatsApp/san-c12-tgdl-fis-test.txt": {
+    "mtime": 1794541790.0922756,
+    "seen": 1794769624.3451428,
+    "ast_hash": "96476ec0a2a633b3881f25f4b5ea66f1",
+    "semantic_hash": "96476ec0a2a633b3881f25f4b5ea66f1"
+  },
+  "06_Nguon/chat_day_du/WhatsApp/ve-dich-bo-nnmt.txt": {
+    "mtime": 1794541528.720156,
+    "seen": 1794769624.3451428,
+    "ast_hash": "8eacf436776a8a0fcda89a7ff4c3df92",
+    "semantic_hash": "8eacf436776a8a0fcda89a7ff4c3df92"
+  },
+  "06_Nguon/chat_day_du/Zalo/btp-nadat-htql-tttt.txt": {
+    "mtime": 1794679657.1725533,
+    "seen": 1794769624.3451428,
+    "ast_hash": "0c4e30d46a1cd6f6162285bbf396a676",
+    "semantic_hash": "0c4e30d46a1cd6f6162285bbf396a676"
+  },
+  "06_Nguon/chat_day_du/Zalo/c12-bo-tai-chinh-bhxh.txt": {
+    "mtime": 1794679657.1715436,
+    "seen": 1794769624.3451428,
+    "ast_hash": "42dbbc9d700f3f8d158ada0e003a3000",
+    "semantic_hash": "42dbbc9d700f3f8d158ada0e003a3000"
+  },
+  "06_Nguon/chat_day_du/Zalo/c12-btc-csdl-tong-hop-ve-tai-chinh.txt": {
+    "mtime": 1794679657.1725533,
+    "seen": 1794769624.3451428,
+    "ast_hash": "c0a94ba1f717b2720e037bd2492303fe",
+    "semantic_hash": "c0a94ba1f717b2720e037bd2492303fe"
+  },
+  "06_Nguon/chat_day_du/Zalo/c12-btp-tich-hop-dong-bo-du-lieu.txt": {
+    "mtime": 1794679657.1073766,
+    "seen": 1794769624.3451428,
+    "ast_hash": "f409e7082bac4d4695380afe35639090",
+    "semantic_hash": "f409e7082bac4d4695380afe35639090"
+  },
+  "06_Nguon/chat_day_du/Zalo/c12-byt-tich-hop-04-csdl.txt": {
+    "mtime": 1794679657.1715436,
+    "seen": 1794769624.3451428,
+    "ast_hash": "85600e9dc3470a52f59fab82a249af88",
+    "semantic_hash": "85600e9dc3470a52f59fab82a249af88"
+  },
+  "06_Nguon/chat_day_du/Zalo/c12-nhnn-tich-hop-du-lieu.txt": {
+    "mtime": 1794679657.1697054,
+    "seen": 1794769624.3451428,
+    "ast_hash": "dd25243a8b505823b56334f6b8afe6f9",
+    "semantic_hash": "dd25243a8b505823b56334f6b8afe6f9"
+  },
+  "06_Nguon/chat_day_du/Zalo/c12-tgpl-nhom-trao-doi.txt": {
+    "mtime": 1794679657.1709993,
+    "seen": 1794769624.3451428,
+    "ast_hash": "ed85a0cf54863b83f75b01c4fee91e26",
+    "semantic_hash": "ed85a0cf54863b83f75b01c4fee91e26"
+  },
+  "06_Nguon/chat_day_du/Zalo/dvcqg-vs-nhnn.txt": {
+    "mtime": 1794679657.1676297,
+    "seen": 1794769624.3451428,
+    "ast_hash": "c95ce209245e2bf1fbab9ca0d2ffe4fe",
+    "semantic_hash": "c95ce209245e2bf1fbab9ca0d2ffe4fe"
+  },
+  "06_Nguon/chat_day_du/Zalo_PC/btp-nadat-htql-tttt.txt": {
+    "mtime": 1794754453.808871,
+    "seen": 1794769624.3451428,
+    "ast_hash": "908e4a057170f1baa9f0e4b1c1375ba9",
+    "semantic_hash": "908e4a057170f1baa9f0e4b1c1375ba9"
+  },
+  "06_Nguon/chat_day_du/Zalo_PC/c12-bo-tai-chinh-bhxh.txt": {
+    "mtime": 1794754578.0214026,
+    "seen": 1794769624.3451428,
+    "ast_hash": "96b305e38cc78cafb8d00bd00159ade8",
+    "semantic_hash": "96b305e38cc78cafb8d00bd00159ade8"
+  },
+  "06_Nguon/chat_day_du/Zalo_PC/c12-btc-csdl-tong-hop-ve-tai-chinh.txt": {
+    "mtime": 1794754577.9910927,
+    "seen": 1794769624.3451428,
+    "ast_hash": "e5a1c5575520d68eee0aab0417410da8",
+    "semantic_hash": "e5a1c5575520d68eee0aab0417410da8"
+  },
+  "06_Nguon/chat_day_du/Zalo_PC/c12-byt-tich-hop-04-csdl.txt": {
+    "mtime": 1794754578.0113928,
+    "seen": 1794769624.3451428,
+    "ast_hash": "4e9163c9c4ee10a397144ae6b379f562",
+    "semantic_hash": "4e9163c9c4ee10a397144ae6b379f562"
+  },
+  "06_Nguon/chat_day_du/Zalo_PC/c12-nhnn-tich-hop-du-lieu.txt": {
+    "mtime": 1794753993.0439818,
+    "seen": 1794769624.3451428,
+    "ast_hash": "5cd4dcd29842b21fb57bdda16aaa4931",
+    "semantic_hash": "5cd4dcd29842b21fb57bdda16aaa4931"
+  },
+  "06_Nguon/chat_day_du/Zalo_PC/c12-tgpl-nhom-trao-doi.txt": {
+    "mtime": 1794754157.6948423,
+    "seen": 1794769624.3451428,
+    "ast_hash": "e91b9dc83552d0fd690aa24d5a62efc4",
+    "semantic_hash": "e91b9dc83552d0fd690aa24d5a62efc4"
+  },
+  "06_Nguon/quy_trinh_NDC_tu_viber.md": {
+    "mtime": 1794755847.0181053,
+    "seen": 1794769624.3451428,
+    "ast_hash": "fb82a854ca3863009dcdf9af7e22486f",
+    "semantic_hash": "fb82a854ca3863009dcdf9af7e22486f"
+  },
+  "06_Nguon/tom_tat_tai_lieu_bao_cao.md": {
+    "mtime": 1794735735.934659,
+    "seen": 1794769624.3451428,
+    "ast_hash": "28f14b334c5ec7338448558a0b21ec66",
+    "semantic_hash": "28f14b334c5ec7338448558a0b21ec66"
+  },
+  "08_TaiLieu_TheoDonVi/01_B\u1ed9, ng\u00e0nh/B\u1ed9 X\u00e2y d\u1ef1ng/Do \u0111\u01a1n v\u1ecb g\u1eedi/012631267453-qh.md": {
+    "mtime": 1794540948.5197582,
+    "seen": 1794769624.3451428,
+    "ast_hash": "f83de90f4d29e03e788e26d2f3fc5dda",
+    "semantic_hash": "f83de90f4d29e03e788e26d2f3fc5dda"
+  },
+  "08_TaiLieu_TheoDonVi/01_B\u1ed9, ng\u00e0nh/B\u1ed9 X\u00e2y d\u1ef1ng/Do \u0111\u01a1n v\u1ecb g\u1eedi/8626419643600-da.md": {
+    "mtime": 1794540948.4366968,
+    "seen": 1794769624.3451428,
+    "ast_hash": "0074e32caa4f97c1ae4d2737824e40b6",
+    "semantic_hash": "0074e32caa4f97c1ae4d2737824e40b6"
+  },
+  "08_TaiLieu_TheoDonVi/01_B\u1ed9, ng\u00e0nh/B\u1ed9 X\u00e2y d\u1ef1ng/Do \u0111\u01a1n v\u1ecb g\u1eedi/data_green_g17_gcnhuanluyenvien.txt": {
+    "mtime": 1794541304.2094057,
+    "seen": 1794769624.3451428,
+    "ast_hash": "0a9621ab459a8e5d7fc56c5a08095ea3",
+    "semantic_hash": "0a9621ab459a8e5d7fc56c5a08095ea3"
+  },
+  "08_TaiLieu_TheoDonVi/05_H\u1ea1 t\u1ea7ng NDC \u2013 103NT/Tri\u1ec3n khai NDC \u2013 103NT (n\u1ed9i b\u1ed9 NADAT)/B\u00e1o c\u00e1o, bi\u1ec3u m\u1eabu chuy\u1ec3n file/bao_cao_sharenode.txt": {
+    "mtime": 1794748442.7602904,
+    "seen": 1794769624.3451428,
+    "ast_hash": "f34f27b0ce835addc5cae0792eb49776",
+    "semantic_hash": "f34f27b0ce835addc5cae0792eb49776"
+  }
+}

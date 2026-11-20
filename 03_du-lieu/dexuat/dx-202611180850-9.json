@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Thiếu tài khoản ESXi AgentNode BIDV",
+  "doc": "cs-12",
+  "dv": "BIDV",
+  "ly_do": "Đào Mạnh Tùng báo đã có tài khoản ESXi và đã gửi yêu cầu cấp thêm IP, đang chờ.",
+  "ma": "CS-12",
+  "moi": "C12 – VM AgentNode BIDV: đã có tài khoản ESXi nhưng hết IP (đã dùng cho luồng thanh toán), chờ C12 cấp thêm IP (từ 16/11)",
+  "nguon": "NDOP_NDC_LHL_103NT – Đào Mạnh Tùng 16/11 15:52",
+  "trang_thai": "duyet",
+  "truong": "blocker",
+  "xu_ly_luc": "2026-11-18T02:11:49.706Z"
+}

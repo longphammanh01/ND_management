@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "BA gửi Gtel (Do Uy) bảng luồng toàn trình SSO; kiểm tra luồng đăng nhập qua NDOP trên NDC",
+  "doc": "cs-16-17",
+  "dv": "Bộ Công an – C06 SSO",
+  "ly_do": "Network và kết nối tới SSO đã curl được ngày 16/11.",
+  "ma": "CS-16/17",
+  "moi": "Cấu hình domain name SDL và endpoints trên NDOP cho luồng SSO C06",
+  "nguon": "C12 - C06 SSO - NDOP LHL - DVCQG.PAKN – Trần Huy Hùng NADAT 16/11 11:45",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-17T02:28:58.075Z"
+}

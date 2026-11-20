@@ -1,0 +1,21 @@
+{
+  "ai_chan": "Gtel (chị Hồng)",
+  "ba": "Chi",
+  "blocker": "Bộ NNMT, Bộ KHCN – API thiếu thẻ bọc ngoài, chưa điều chỉnh (từ khoảng 02/11)",
+  "blocker_thuoc": "Khách hàng",
+  "cap_nhat": "17/11/2026",
+  "dev": "—",
+  "donvi": "Rà soát UC 18 API Bộ ngành",
+  "dt_buoc": "Đã chốt hướng (12/11)",
+  "dt_tt": "Đang thực hiện",
+  "loai": "Nghiệp vụ",
+  "luong": "—",
+  "ma": "TH-BBN-07",
+  "ndc_buoc": "—",
+  "ndc_tt": "—",
+  "nguoi_lam": "Chi",
+  "nhom": "BBN",
+  "nhom_chat": "TELE Nhóm rà soát UC",
+  "nv": "TH",
+  "viec_tiep": "Theo dõi Kho đề xuất trong nhóm BN"
+}

@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-17T02:29:03.448Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: Về đích _ Bộ NNMT – Quoc Le 15/11 09:12–09:21",
+  "luong": "th-bbn-05",
+  "thay_doi": [
+    {
+      "cu": "Xin a Quốc chỉ đạo; trả lời câu hỏi trong nhóm WA",
+      "moi": "Bộ NNMT gửi XML mẫu (5 loại dữ liệu DVC + 49 DMDC) và cử cán bộ hạ tầng test thông luồng mạng về NDC (FW, SW, CP.NET, AgentNode); NADAT gửi API DVC 19/11, API DMDC 20/11",
+      "truong": "viec_tiep"
+    }
+  ]
+}

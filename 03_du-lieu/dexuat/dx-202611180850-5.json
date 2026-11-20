@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Xác nhận cấu hình chính thức (https + rule WAF); kiểm tra webhook",
+  "doc": "th-bbn-06",
+  "dv": "NHNN",
+  "ly_do": "Cổng DVCQG đã mở các mã DVC NHNN báo lỗi đồng bộ; còn 1 mã chưa tạo và việc rà hồ sơ theo danh sách gửi 17/11.",
+  "ma": "TH-BBN-06",
+  "moi": "NHNN tạo DVC 1.115980.01 (cán bộ KSTTHC) rồi đồng bộ lại lên Cổng DVCQG; NHNN rà 10 TTHC chưa phát sinh giao dịch và hồ sơ chưa thanh toán theo file Cổng DVCQG gửi 17/11; xác nhận cấu hình chính thức (https + rule WAF); kiểm tra webhook",
+  "nguon": "DVCQG vs NHNN – Trần Ngọc Thành 16/11 14:49, 17/11 17:47",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-18T02:12:03.369Z"
+}

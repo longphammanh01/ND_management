@@ -1,0 +1,21 @@
+{
+  "ai_chan": "C12 P4 (Giang Nv)",
+  "ba": "Long",
+  "blocker": "C12 P4 (Giang Nv) yêu cầu bổ sung kịch bản thanh toán BTP, Hà Nội, tra soát, quyết toán, lấy biên lai (từ 12/10); nhóm im từ 04/11, NADAT chưa gửi kịch bản sửa",
+  "blocker_thuoc": "Nội bộ + C12",
+  "cap_nhat": "15/11/2026",
+  "dev": "Thuật, Mai",
+  "donvi": "TTTT (MBFS)",
+  "dt_buoc": "B8. Kịch bản đạt 15/15 (QC Cổng 08/10); BBNT 09/10 còn trống ngày ký. Lưu ý: báo cáo NADAT 28/10 ghi 'TTTT đã ký BBNT' là không khớp",
+  "dt_tt": "Chờ phản hồi",
+  "loai": "Nghiệp vụ",
+  "luong": "Cổng DVC ↔ NDOP ↔ TTTT",
+  "ma": "CS-03",
+  "ndc_buoc": "Đã đấu nối (28/10), còn test",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Long",
+  "nhom": "HTPM",
+  "nhom_chat": "TELE MBF-NADAT-C12; DVC-NDOP-TTTT",
+  "nv": "CS",
+  "viec_tiep": "BA bổ sung kịch bản theo yêu cầu C12 và gửi lại BBNT"
+}

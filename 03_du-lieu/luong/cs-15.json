@@ -1,0 +1,21 @@
+{
+  "ai_chan": "C12 P4 (Giang, Việt Phạm), Teddy (HTLL), TCT MBF",
+  "ba": "Chi",
+  "blocker": "Đã có tài liệu LLCNTC v2.2 và hướng dẫn SMS Brandname; còn thiếu địa chỉ hệ thống, khoá truy cập, đầu mối và mở mạng trên NDC; C12 Tổ 5 P4 chưa chỉ đạo rõ (từ 22/10)",
+  "blocker_thuoc": "Khách hàng (C12/Gtel/MBF) + Nội bộ",
+  "cap_nhat": "18/11/2026",
+  "dev": "Trung",
+  "donvi": "HT liên lạc CN-TC + SMS Brandname",
+  "dt_buoc": "B3. Thu thập tài liệu",
+  "dt_tt": "Chờ phản hồi",
+  "loai": "Nghiệp vụ",
+  "luong": "Cổng DVC → NDOP → HTLL",
+  "ma": "CS-15",
+  "ndc_buoc": "Chưa có thông tin mở mạng",
+  "ndc_tt": "Chưa bắt đầu",
+  "nguoi_lam": "Chi",
+  "nhom": "HTPM",
+  "nhom_chat": "TELE [C12] DVCQG-HTLL-NADAT",
+  "nv": "CS",
+  "viec_tiep": "NDOP (Nguyen Phong, Văn Duy) cấu hình 3 API SMS Brandname cho HTLLCNvTC (đăng nhập, gửi tin CSKH GSM7BIT, gửi tin CSKH chọn kiểu mã hoá); xin C12 cử đầu mối và lập phiếu mở mạng"
+}

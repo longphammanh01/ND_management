@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-18T02:12:08.875Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: C12 - SHB kết nối DVCQG – Tùng Sơn 17/11 18:22",
+  "luong": "cs-11",
+  "thay_doi": [
+    {
+      "cu": "SHB/TTTT – tải biên lai qua AG bị timeout (499), chưa thông (từ 13/11)",
+      "moi": "SHB/TTTT – tải biên lai qua AG bị timeout (499) (từ 13/11); cấu hình NDOP devtest chiều TTTT gọi SHB: API lấy biên lai báo 401 Invalid client id or secret, nghi sai NDOP-Id/NDOP-secret (từ 17/11)",
+      "truong": "blocker"
+    }
+  ]
+}

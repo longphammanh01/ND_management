@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-17T02:29:12.018Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: MoMo x C12: Cài đặt server cho cổng DVCQG – Trần Huy Hùng NADAT 16/11 10:37",
+  "luong": "cs-08",
+  "thay_doi": [
+    {
+      "cu": "Dev/DevOps cùng Gtel, P5 xác định lớp mạng chặn port 5500; cấu hình dịch vụ theo file API PROD MoMo; BA xin MoMo xác nhận bộ test DevTest để lập BBNT",
+      "moi": "TTTT và MoMo thống nhất tham số kết nối mới để MoMo gọi qua NDC LHL",
+      "truong": "viec_tiep"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "muc": [
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\TKCT v6.docx",
+      "loai": "Thiết kế chi tiết",
+      "mo_ta": "Thiết kế tổng thể: kho dữ liệu, luồng dữ liệu, kiến trúc TH-CS-ĐP",
+      "ngay": "",
+      "nguon": "",
+      "ten": "TKCT v6.docx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\TH-M1.docx",
+      "loai": "Thiết kế chi tiết",
+      "mo_ta": "Nền tảng Tích hợp – thiết kế chi tiết",
+      "ngay": "",
+      "nguon": "",
+      "ten": "TH-M1.docx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\TH-M3-UC.docx",
+      "loai": "Use case",
+      "mo_ta": "Nền tảng Tích hợp – use case",
+      "ngay": "",
+      "nguon": "",
+      "ten": "TH-M3-UC.docx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\CS-M1.docx",
+      "loai": "Thiết kế chi tiết",
+      "mo_ta": "Nền tảng Chia sẻ – thiết kế chi tiết (AGN, ShareNode)",
+      "ngay": "",
+      "nguon": "",
+      "ten": "CS-M1.docx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\CS-M3-UC.docx",
+      "loai": "Use case",
+      "mo_ta": "Nền tảng Chia sẻ – use case",
+      "ngay": "",
+      "nguon": "",
+      "ten": "CS-M3-UC.docx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\ĐP-M1.docx",
+      "loai": "Thiết kế chi tiết",
+      "mo_ta": "Nền tảng Điều phối – thiết kế chi tiết",
+      "ngay": "",
+      "nguon": "",
+      "ten": "ĐP-M1.docx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\ĐP-M3-UC.docx",
+      "loai": "Use case",
+      "mo_ta": "Nền tảng Điều phối – use case",
+      "ngay": "",
+      "nguon": "",
+      "ten": "ĐP-M3-UC.docx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\Non requirements NDOP.docx",
+      "loai": "Yêu cầu",
+      "mo_ta": "Yêu cầu phi chức năng",
+      "ngay": "",
+      "nguon": "",
+      "ten": "Non requirements NDOP.docx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\Input\\NDOP_QL Đơn vị TH ĐP CS (1).xlsx",
+      "loai": "Bảng theo dõi cũ",
+      "mo_ta": "Sheet quản lý cũ đến 12/11 – chỉ dùng tham khảo",
+      "ngay": "",
+      "nguon": "",
+      "ten": "NDOP_QL Đơn vị TH ĐP CS (1).xlsx",
+      "trang_thai": "Có sẵn"
+    }
+  ],
+  "ten": "Tài liệu dự án (thư mục Input)",
+  "thu_tu": 2
+}

@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Gtel cần bố trí nhân sự sửa tài liệu API",
+  "doc": "th-bbn-07",
+  "dv": "Rà soát UC 18 API Bộ ngành",
+  "ly_do": "Kho DLTH nêu vướng mắc đã raise hơn 2 tuần chưa có tiến triển.",
+  "ma": "TH-BBN-07",
+  "moi": "Bộ NNMT, Bộ KHCN – API thiếu thẻ bọc ngoài, chưa điều chỉnh (từ khoảng 02/11)",
+  "nguon": "Nhóm rà soát UC Dữ liệu – Hoang Kim Anh 16/11 16:47",
+  "trang_thai": "duyet",
+  "truong": "blocker",
+  "xu_ly_luc": "2026-11-17T02:29:19.681Z"
+}

@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-18T02:12:01.625Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: NDOP_NenTangTichHop – Quoc Le 17/11 14:43; NDOP_NDC_LHL_103NT – Trần Minh Đức 16/11 19:22",
+  "luong": "kho-5-1",
+  "thay_doi": [
+    {
+      "cu": "Theo dõi duyệt phiếu 32; xin C12 xác nhận báo cáo đếm file 14/11",
+      "moi": "Data Importer (đã triển khai vùng Core 16/11, bản fix đường dẫn Dell S3 đang chờ copy): ưu tiên thông luồng import dữ liệu vào Kho DL dùng chung, sau đó đo thông lượng; theo dõi duyệt phiếu 32; xin C12 xác nhận báo cáo đếm file 14/11",
+      "truong": "viec_tiep"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Theo dõi TTTT lên NDC 16/11; Sàn bổ sung testcase; lập phiếu mở 4 IP; chưa có BBNT",
+  "doc": "cs-06",
+  "dv": "Sàn dữ liệu (VNTDO)",
+  "ly_do": "TTTT báo các API đã sẵn sàng và gửi tài liệu ngày 17/11.",
+  "ma": "CS-06",
+  "moi": "Sàn VNTDO tích hợp API quyết toán thủ công, API hoàn hủy và API vấn tin tài khoản (mục 5.11, tài liệu hướng dẫn v3.1 TTTT gửi 17/11); theo dõi Cổng TTTT lên bản mới có mã 8; Sàn bổ sung testcase; lập phiếu mở 4 IP; chưa có BBNT",
+  "nguon": "D01-NADAT-VNTDO: Thanh toán SDL – Phương Hà 17/11 14:57; Hoa Mai 17/11 16:36",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-18T02:12:11.022Z"
+}

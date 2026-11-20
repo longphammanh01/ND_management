@@ -1,0 +1,69 @@
+{
+  "ben": "Doanh nghiệp",
+  "dv": "SHB",
+  "nguoi": [
+    {
+      "can_cu": "'phía SHB đã sẵn sàng' [111 tin]",
+      "ho_ten": "DuongBH",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "SHB – kỹ thuật tích hợp",
+      "tai_khoan": "DuongBH; @duongbh",
+      "vai_tro": "Domain, AgentNode, IPN"
+    },
+    {
+      "can_cu": "'team SHB', 'kính nhờ hỗ trợ SHB' [79 tin]",
+      "ho_ten": "Thanh Phương",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "SHB – PM/điều phối",
+      "tai_khoan": "Thanh Phương",
+      "vai_tro": "Điều phối test pilot, nghiệm thu"
+    },
+    {
+      "can_cu": "gửi curl domain SHB (suy ra) [24 tin]",
+      "ho_ten": "Nguyễn Sỹ Chiến",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "SHB – dev",
+      "tai_khoan": "Nguyễn Sỹ Chiến",
+      "vai_tro": "Curl/payload IPN"
+    },
+    {
+      "can_cu": "'API bên em call sang DVC' [28 tin]",
+      "ho_ten": "Quang Anh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "SHB – dev",
+      "tai_khoan": "Quang Anh",
+      "vai_tro": "Gọi API qua NDOP"
+    },
+    {
+      "can_cu": "log 'SHB-DVC-C12' [12 tin]",
+      "ho_ten": "Mabubip",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "SHB – dev (suy ra)",
+      "tai_khoan": "Mabubip",
+      "vai_tro": "Gửi log lỗi 404"
+    },
+    {
+      "can_cu": "DuongBH nhờ 'gửi thông tin AgentNode Prod của mình' [7 tin]",
+      "ho_ten": "Hoàng Vũ Thuỷ",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "SHB – hạ tầng",
+      "tai_khoan": "Hoàng Vũ Thuỷ; @hoangvt0108",
+      "vai_tro": "Thông tin AgentNode Prod"
+    },
+    {
+      "can_cu": "phản hồi thông báo TTTT gửi ĐVTT, 'Phương ơi, chị gửi phản hồi nhé' (Thanh Phương – SHB) [5 tin]",
+      "ho_ten": "Ngọc Bích",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "SHB (suy ra)",
+      "tai_khoan": "Ngọc Bích",
+      "vai_tro": "Góp ý thông báo nâng cấp TTTT, trường thời gian IPN"
+    }
+  ]
+}

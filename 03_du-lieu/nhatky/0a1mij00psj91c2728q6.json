@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-17T02:29:10.172Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu – Vũ Thành 16/11 17:33",
+  "luong": "kho-5-1",
+  "thay_doi": [
+    {
+      "cu": "Phiếu 32 chờ duyệt; báo cáo đếm theo loại sự kiện C12 cần xác nhận",
+      "moi": "NADAT – Tổ 4/P4 yêu cầu giải trình 4 nội dung kho dùng chung, NADAT chỉ trả lời khi có công văn BGĐ (từ 16/11)",
+      "truong": "blocker"
+    }
+  ]
+}

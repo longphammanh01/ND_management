@@ -1,0 +1,18 @@
+{
+  "at": "2026-11-19T08:00:00.000Z",
+  "by": "Claude (theo yêu cầu BA)",
+  "ghi_chu": "BA xác nhận KY SO là bên NEAC (19/11)",
+  "luong": "kyso",
+  "thay_doi": [
+    {
+      "cu": "Ký số NDC",
+      "moi": "Hệ thống Chứng thực điện tử quốc gia (NEAC)",
+      "truong": "dv"
+    },
+    {
+      "cu": "Nội bộ NDC",
+      "moi": "HTPM",
+      "truong": "nhom"
+    }
+  ]
+}

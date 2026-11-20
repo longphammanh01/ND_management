@@ -1,0 +1,21 @@
+{
+  "ai_chan": "C12 P4 (chị Mai)",
+  "ba": "Chi",
+  "blocker": "VNPT báo đã gửi API spec cho đầu mối P4 C12 (chị Mai) từ 28/08, không gửi vào nhóm; chưa rõ NADAT đã nhận chưa",
+  "blocker_thuoc": "C12 + Nội bộ",
+  "cap_nhat": "15/11/2026",
+  "dev": "—",
+  "donvi": "VNPT – Kho tổng hợp, PM phân tích, CĐĐH, Địa chỉ số",
+  "dt_buoc": "B1. Chờ API spec",
+  "dt_tt": "Chờ phản hồi",
+  "loai": "Nghiệp vụ",
+  "luong": "VNPT ↔ NDOP",
+  "ma": "TH-PM-06",
+  "ndc_buoc": "—",
+  "ndc_tt": "Chưa bắt đầu",
+  "nguoi_lam": "Chi",
+  "nhom": "HTPM",
+  "nhom_chat": "TELE C12_NDOP_VNPT_NADAT",
+  "nv": "TH",
+  "viec_tiep": "Hỏi P4 C12 xin lại bộ API spec VNPT đã nhận 28/08"
+}

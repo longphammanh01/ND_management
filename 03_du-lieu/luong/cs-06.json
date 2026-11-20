@@ -1,0 +1,22 @@
+{
+  "ai_chan": "C12 (Giang Nv, Trung Dũng PP5), TTTT (A Dũng)",
+  "ba": "Long",
+  "blocker": "TTTT – Cổng TTTT chưa lên bản mới có mã 8, đang test lại sau khi nâng version Spring để vá lỗ hổng (từ 17/11); testcase Sàn chưa được TTTT chấp nhận (từ 13/11)",
+  "blocker_thuoc": "D01/TTTT + Khách hàng",
+  "cap_nhat": "19/11/2026",
+  "dev": "Thuật",
+  "donvi": "Sàn dữ liệu (VNTDO)",
+  "dt_buoc": "B6. Thanh toán cơ bản qua NDOP thông từ 13/10; QR VNPAY lỗi 14/10–02/11; hoàn tiền còn lỗi; 13/11 TTTT chưa chấp nhận testcase (thiếu kiểm tra trạng thái, đơn có 2 link thanh toán)",
+  "dt_tt": "Đang thực hiện",
+  "han_xu_ly": "16/11/2026",
+  "loai": "Nghiệp vụ (chọn môi trường) + Kỹ thuật",
+  "luong": "Sàn → NDOP → TTTT",
+  "ma": "CS-06",
+  "ndc_buoc": "TTTT đang quét mã nguồn, dự kiến lên phiên bản mới trên NDC đầu tuần 16/11; 15/11 Sàn xin mở thêm 4 IP máy chủ mới; Mạng FIS (TGDL) ↔ C12: kênh chính thông VPN s2s và routing chiều 17/11 (dải 100.65.4.128/25), kênh backup làm tiếp 18/11 theo quy hoạch sửa .54 → .70; phiếu Firewall 36 (FIS-SANDL) còn thiếu IP LAN của FIS",
+  "ndc_tt": "Bị block",
+  "nguoi_lam": "Long",
+  "nhom": "HTPM",
+  "nhom_chat": "TELE D01-NADAT-VNTDO",
+  "nv": "CS",
+  "viec_tiep": "Sàn VNTDO tích hợp API quyết toán thủ công, API hoàn hủy và API vấn tin tài khoản (mục 5.11, tài liệu hướng dẫn v3.1 TTTT gửi 17/11); theo dõi Cổng TTTT lên bản mới có mã 8; Sàn bổ sung testcase; lập phiếu mở 4 IP; chưa có BBNT; FIS/C12 làm kênh backup và test luồng service qua NDOP; FIS gửi IP LAN để hoàn thiện phiếu Firewall 36; FIS (Dtv) gửi API Specs phân hệ Ký số cho NADAT"
+}

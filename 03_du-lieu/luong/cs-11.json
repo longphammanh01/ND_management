@@ -1,0 +1,21 @@
+{
+  "ai_chan": "TTTT (Tùng Sơn, A Dũng)",
+  "ba": "Long",
+  "blocker": "SHB/TTTT – tải biên lai qua AG bị timeout (499) (từ 13/11); cấu hình NDOP devtest chiều TTTT gọi SHB: API lấy biên lai báo 401 Invalid client id or secret, nghi sai NDOP-Id/NDOP-secret (từ 17/11)",
+  "blocker_thuoc": "D01/TTTT",
+  "cap_nhat": "18/11/2026",
+  "dev": "—",
+  "donvi": "SHB",
+  "dt_buoc": "B8. BBNT SHB – TTTT ngày 03/11 đạt 15/17, CHƯA KÝ; nghiệm thu trực tiếp SHB–TTTT, không có NADAT. SHB chạy trên NDOP do Gtel vận hành",
+  "dt_tt": "Chờ phản hồi",
+  "loai": "Kỹ thuật",
+  "luong": "TTTT ↔ NDOP(AGN TTDLQG) ↔ SHB",
+  "ma": "CS-11",
+  "ndc_buoc": "Test pilot trên hệ thống thật; golive trượt 3 lần; NDC: giao kiểm tra IP AgentNode từ 11/11, chưa có kết quả (14/11)",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Long",
+  "nhom": "DN",
+  "nhom_chat": "TELE C12 - SHB kết nối DVCQG",
+  "nv": "CS",
+  "viec_tiep": "TTTT kiểm tra lại cấu hình NDOP-Id/NDOP-secret devtest và đưa kế hoạch hoàn thành test pilot với SHB; NADAT hỏi C12 kế hoạch chuyển SHB sang NDOP của NADAT"
+}

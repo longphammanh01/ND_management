@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Gần 1 tháng chưa có testcase từ QC Cổng/PAKN (từ 19/10); log NDOP hiện chậm hoặc thiếu",
+  "doc": "cs-01",
+  "dv": "PAKN (MBFS)",
+  "ly_do": "Nhiều lần thử từ hệ thống ngày 16/11 NADAT đều không thấy log.",
+  "ma": "CS-01",
+  "moi": "DVC – gọi API PAKN từ hệ thống không tới NDOP (không có log), chỉ Postman tới được (từ 16/11)",
+  "nguon": "PAKN-NDOP-DVC # DevTest – Giang NADAT 16/11 17:01",
+  "trang_thai": "duyet",
+  "truong": "blocker",
+  "xu_ly_luc": "2026-11-17T02:29:16.268Z"
+}

@@ -1,0 +1,15 @@
+{
+  "cap_nhat": "15/11/2026",
+  "chieu": "Cổng DVC, PAKN (NDC) → NDOP → SSO VNeID (C06), một chiều",
+  "cong": "SSH 2222",
+  "don_vi": "Bộ Công an – C06",
+  "ghi_chu": "P4 chốt IP 100.64.2.13 sáng 13/11; phiếu 31; cấu hình ShareNode xong 16:21 13/11. Còn bảng luồng toàn trình SSO cho Gtel.",
+  "gtel": "Đã mở",
+  "ip_dich": "100.64.2.13",
+  "ip_nguon": "",
+  "kt": "Đã thông",
+  "ma_luong": "CS-16/17",
+  "ngay_phieu": "13/11/2026",
+  "p5": "Đã duyệt",
+  "phieu": "Đã gửi"
+}

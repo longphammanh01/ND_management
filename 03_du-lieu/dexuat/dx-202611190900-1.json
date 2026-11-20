@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "TTTT đang quét mã nguồn, dự kiến lên phiên bản mới trên NDC đầu tuần 16/11; 15/11 Sàn xin mở thêm 4 IP máy chủ mới",
+  "doc": "cs-06",
+  "dv": "Sàn dữ liệu (VNTDO)",
+  "ly_do": "BA xác định nhóm Sàn C12-TGDL FIS thuộc CS-06 (19/11); giữ nguyên nội dung cũ, nối thêm tiến độ mạng FIS.",
+  "ma": "CS-06",
+  "moi": "TTTT đang quét mã nguồn, dự kiến lên phiên bản mới trên NDC đầu tuần 16/11; 15/11 Sàn xin mở thêm 4 IP máy chủ mới; Mạng FIS (TGDL) ↔ C12: kênh chính thông VPN s2s và routing chiều 17/11 (dải 100.65.4.128/25), kênh backup làm tiếp 18/11 theo quy hoạch sửa .54 → .70; phiếu Firewall 36 (FIS-SANDL) còn thiếu IP LAN của FIS",
+  "nguon": "Sàn C12- TGDL FIS (test) – Huy Trần 17/11 17:16, MinhNV 17/11 17:27; NDOP_NDC_LHL_103NT – Phạm Đức Lưu 17/11 18:34",
+  "trang_thai": "duyet",
+  "truong": "ndc_buoc",
+  "xu_ly_luc": "2026-11-19T08:01:39.803Z"
+}

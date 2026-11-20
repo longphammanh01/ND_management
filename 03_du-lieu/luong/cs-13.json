@@ -1,0 +1,21 @@
+{
+  "ai_chan": "Dev NADAT (log)",
+  "ba": "Long",
+  "blocker": "QC PAKN gọi OK nhưng NADAT không thấy log một số lần (12/11)",
+  "blocker_thuoc": "Nội bộ",
+  "cap_nhat": "13/11/2026",
+  "dev": "Mai, Giang",
+  "donvi": "PAKN → CSDL TTHC",
+  "dt_buoc": "B6. Đã thông 3 API PAKN → CSDL TTHC từ 17/10; chưa có testcase",
+  "dt_tt": "Chờ phản hồi",
+  "loai": "Kỹ thuật",
+  "luong": "PAKN → NDOP → CSDL TTHC",
+  "ma": "CS-13",
+  "ndc_buoc": "—",
+  "ndc_tt": "Chưa bắt đầu",
+  "nguoi_lam": "Linh Trần / Giang",
+  "nhom": "HTPM",
+  "nhom_chat": "TELE PAKN-NDOP-DVC",
+  "nv": "CS",
+  "viec_tiep": "Dev đối chiếu log, trả lời trong ngày; xin testcase"
+}

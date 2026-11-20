@@ -1,0 +1,78 @@
+{
+  "ben": "Nhà thầu, hệ thống trong NDC",
+  "dv": "Sàn dữ liệu",
+  "nguoi": [
+    {
+      "can_cu": "D01-VNTDO 05/10 'Em là Cương, phụ trách sản phẩm sàn dữ liệu của VNTDO'; ~Dũng Trần 'Sếp Cương yêu cầu sáng t4' [119 tin]",
+      "ho_ten": "Lê Cương (Le Cuong)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] Demo sàn; [WA] NADAT-SÀN DỮ LIỆU",
+      "phong_ban": "VNTDO – phụ trách sản phẩm Sàn dữ liệu",
+      "tai_khoan": "Le Cuong; ~Lê Cương (WA); Lê Cương; @cuongle2805",
+      "vai_tro": "Đầu mối/lãnh đạo phía Sàn"
+    },
+    {
+      "can_cu": "Le Cuong 'Bên em có @tonynd24 và Minh VNDT đầu mối kỹ thuật'; Demo sàn: Hoàng Minh tag '@mrtony214 @cuongle2805' (gộp 'Tony N' – suy ra) [76 tin]",
+      "ho_ten": "Tony N",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] Demo sàn",
+      "phong_ban": "VNTDO – kỹ thuật",
+      "tai_khoan": "Tony N SDL; @tonynd24; @mrtony214 (suy ra)",
+      "vai_tro": "Đầu mối kỹ thuật tích hợp Sàn"
+    },
+    {
+      "can_cu": "Le Cuong '@ducanhman lead BA dự án' [33 tin]",
+      "ho_ten": "Đức Anh Lê",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL",
+      "phong_ban": "VNTDO – Lead BA",
+      "tai_khoan": "Đức Anh Lê; @ducanhman",
+      "vai_tro": "Lead BA dự án Sàn"
+    },
+    {
+      "can_cu": "Tony 'add bạn @quynne2311 - QA bên em' [58 tin]",
+      "ho_ten": "quynh nhu",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL",
+      "phong_ban": "VNTDO – QA",
+      "tai_khoan": "quynh nhu; @quynne2311",
+      "vai_tro": "Test case thanh toán"
+    },
+    {
+      "can_cu": "23/10 'trước đây bên em đã test được luồng này' (phía Sàn) [1 tin]",
+      "ho_ten": "Nguyệt (QA Sàn)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL",
+      "phong_ban": "VNTDO – QA (suy ra)",
+      "tai_khoan": "Nguyệt",
+      "vai_tro": "Báo lỗi không sinh được QR"
+    },
+    {
+      "can_cu": "Le Cuong 'Bên em có @tonynd24 và Minh VNDT đầu mối kỹ thuật'",
+      "ho_ten": "Minh VNDT",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL",
+      "phong_ban": "VNTDO – kỹ thuật",
+      "tai_khoan": "",
+      "vai_tro": "Đầu mối kỹ thuật"
+    },
+    {
+      "can_cu": "'để bên em bc với anh T' [2 tin]",
+      "ho_ten": "Nhung",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] NADAT-SÀN DỮ LIỆU",
+      "phong_ban": "Sàn dữ liệu (suy ra)",
+      "tai_khoan": "~Nhung (WA)",
+      "vai_tro": "Đôn đốc phản hồi"
+    },
+    {
+      "can_cu": "'Sếp Cương yêu cầu sáng t4' (Cương là lãnh đạo Sàn) [3 tin]",
+      "ho_ten": "Dũng Trần",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "Sàn dữ liệu (suy ra)",
+      "tai_khoan": "~Dũng Trần (WA)",
+      "vai_tro": "Truyền yêu cầu demo"
+    }
+  ]
+}

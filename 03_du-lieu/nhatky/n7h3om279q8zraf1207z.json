@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-18T02:12:02.927Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: DVCQG vs NHNN – Trần Ngọc Thành 16/11 14:49, 17/11 17:47",
+  "luong": "th-bbn-06",
+  "thay_doi": [
+    {
+      "cu": "Xác nhận cấu hình chính thức (https + rule WAF); kiểm tra webhook",
+      "moi": "NHNN tạo DVC 1.115980.01 (cán bộ KSTTHC) rồi đồng bộ lại lên Cổng DVCQG; NHNN rà 10 TTHC chưa phát sinh giao dịch và hồ sơ chưa thanh toán theo file Cổng DVCQG gửi 17/11; xác nhận cấu hình chính thức (https + rule WAF); kiểm tra webhook",
+      "truong": "viec_tiep"
+    }
+  ]
+}

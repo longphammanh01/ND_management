@@ -1,0 +1,33 @@
+{
+  "ben": "Nhà thầu, hệ thống trong NDC",
+  "dv": "DMDC",
+  "nguoi": [
+    {
+      "can_cu": "DMDC 15/10 tự nói 'em có tạo nhóm tích hợp giữa D01 và NADAT'; C12-D01-DMDC: Anh Quốc '@minhpc Mobi Nguyễn Xuân Minh gửi giúp anh các tài liệu' [17 tin]",
+      "ho_ten": "Nguyễn Xuân Minh (Phạm Minh – Minh PC)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [TELE] PAKN-NDOP-DVC # DevTest; [TELE] [DMDC-NADAT] Tích hợp nền tảng",
+      "phong_ban": "D01 – Mobifone, PM DMDC",
+      "tai_khoan": "Phạm Minh; @minhpc; Mobi Nguyễn Xuân Minh",
+      "vai_tro": "Lập nhóm D01–NADAT tích hợp DMDC, đại diện D01"
+    },
+    {
+      "can_cu": "gửi tài liệu tích hợp DMDC, file dữ liệu [52 tin]",
+      "ho_ten": "Nguyễn Tiến Sỹ",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [DMDC-NADAT] Tích hợp nền tảng",
+      "phong_ban": "D01 (Teca – suy ra)",
+      "tai_khoan": "Nguyễn Tiến Sỹ; @nguyentiensy",
+      "vai_tro": "Dev DMDC – gửi tài liệu, đẩy dữ liệu thử"
+    },
+    {
+      "can_cu": "tài khoản có 'Teca'; Phạm Minh '@Hoald97_Teca nhờ em gửi thông tin'. Gộp 'Hoald97' (danh sách cũ) [12 tin]",
+      "ho_ten": "Đức Hòa (Hoald97)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [DMDC-NADAT] Tích hợp nền tảng",
+      "phong_ban": "Teca",
+      "tai_khoan": "Đức Hòa 🧐; @Hoald97_Teca",
+      "vai_tro": "BA/giải pháp DMDC, thông tin kết nối"
+    }
+  ]
+}

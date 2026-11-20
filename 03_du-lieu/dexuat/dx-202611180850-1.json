@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "SHB/TTTT – tải biên lai qua AG bị timeout (499), chưa thông (từ 13/11)",
+  "doc": "cs-11",
+  "dv": "SHB",
+  "ly_do": "Sau lỗi 404 do sai endpoint, lần gọi mới báo 401; Tuan Manh (Gtel) nhận định sai NDOP-Id/NDOP-secret, đến cuối 17/11 chưa xử lý xong.",
+  "ma": "CS-11",
+  "moi": "SHB/TTTT – tải biên lai qua AG bị timeout (499) (từ 13/11); cấu hình NDOP devtest chiều TTTT gọi SHB: API lấy biên lai báo 401 Invalid client id or secret, nghi sai NDOP-Id/NDOP-secret (từ 17/11)",
+  "nguon": "C12 - SHB kết nối DVCQG – Tùng Sơn 17/11 18:22",
+  "trang_thai": "duyet",
+  "truong": "blocker",
+  "xu_ly_luc": "2026-11-18T02:12:09.402Z"
+}

@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Sàn VNTDO tích hợp API quyết toán thủ công, API hoàn hủy và API vấn tin tài khoản (mục 5.11, tài liệu hướng dẫn v3.1 TTTT gửi 17/11); theo dõi Cổng TTTT lên bản mới có mã 8; Sàn bổ sung testcase; lập phiếu mở 4 IP; chưa có BBNT",
+  "doc": "cs-06",
+  "dv": "Sàn dữ liệu (VNTDO)",
+  "ly_do": "BA xác định nhóm FIS thuộc CS-06; nối thêm việc của FIS vào việc tiếp theo hiện có.",
+  "ma": "CS-06",
+  "moi": "Sàn VNTDO tích hợp API quyết toán thủ công, API hoàn hủy và API vấn tin tài khoản (mục 5.11, tài liệu hướng dẫn v3.1 TTTT gửi 17/11); theo dõi Cổng TTTT lên bản mới có mã 8; Sàn bổ sung testcase; lập phiếu mở 4 IP; chưa có BBNT; FIS/C12 làm kênh backup và test luồng service qua NDOP; FIS gửi IP LAN để hoàn thiện phiếu Firewall 36; FIS (Dtv) gửi API Specs phân hệ Ký số cho NADAT",
+  "nguon": "Sàn C12- TGDL FIS (test) – Huy Trần 17/11 17:43; Trần Huy Hùng 17/11 14:51; Duy Le 18/11 08:05",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-19T08:01:38.389Z"
+}

@@ -1,0 +1,15 @@
+{
+  "cap_nhat": "19/11/2026",
+  "chieu": "Sàn / FIS ↔ C12 (MPLS, VPN site-to-site)",
+  "cong": "",
+  "don_vi": "FIS (TGDL)",
+  "ghi_chu": "Kênh 1Gb thông 10/11; 13/11 FIS hứng xong MPLS. 16/11 kênh chính thông vật lý; 17/11 thông VPN s2s và routing (dải 100.65.4.128/25). Kênh backup làm 18/11, quy hoạch sửa .54 → .70. Phiếu 29 FIS/BTP đi qua API Gateway DMZ (F5 VIP 10.6.40.35:443, IP ra 10.6.8.190); phiếu Firewall 36 (FIS-SANDL) chờ IP LAN của FIS.",
+  "gtel": "Mở một phần",
+  "ip_dich": "100.65.127.49 (C12); tunnel 100.65.126.25–26",
+  "ip_nguon": "100.65.127.54 (FIS)",
+  "kt": "Đã thông",
+  "ma_luong": "CS-06",
+  "ngay_phieu": "",
+  "p5": "Chưa duyệt",
+  "phieu": "Đã gửi"
+}

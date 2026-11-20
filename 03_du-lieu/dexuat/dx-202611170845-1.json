@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "TTTT chưa xong hotfix định dạng thời gian và cấu hình 2 domain (từ 08/11); 2 việc trong BBNT đã quá hạn: SHB thêm giờ phút trên biên lai (03/11), TTTT thêm API lấy thông tin tài khoản (06/11)",
+  "doc": "cs-11",
+  "dv": "SHB",
+  "ly_do": "Lỗi tải biên lai còn tồn tại đến cuối ngày 16/11.",
+  "ma": "CS-11",
+  "moi": "SHB/TTTT – tải biên lai qua AG bị timeout (499), chưa thông (từ 13/11)",
+  "nguon": "C12 - SHB kết nối DVCQG – A Dũng TTTT D01 16/11 14:20",
+  "trang_thai": "duyet",
+  "truong": "blocker",
+  "xu_ly_luc": "2026-11-17T02:29:35.393Z"
+}

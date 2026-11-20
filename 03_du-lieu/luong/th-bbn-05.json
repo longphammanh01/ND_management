@@ -1,0 +1,22 @@
+{
+  "ai_chan": "NADAT (A Quốc)",
+  "ba": "Chi",
+  "blocker": "Dev chờ a Quốc chỉ đạo cấu hình (03/11); nhóm WA không phản hồi (10/11)",
+  "blocker_thuoc": "Nội bộ",
+  "cap_nhat": "17/11/2026",
+  "dev": "—",
+  "donvi": "Bộ NN&MT – 04 CSDL",
+  "dt_buoc": "B1. Gửi spec",
+  "dt_tt": "Chờ phản hồi",
+  "han_xu_ly": "20/11/2026",
+  "loai": "Nghiệp vụ",
+  "luong": "BNNMT → NDOP",
+  "ma": "TH-BBN-05",
+  "ndc_buoc": "—",
+  "ndc_tt": "Chưa bắt đầu",
+  "nguoi_lam": "Chi",
+  "nhom": "BBN",
+  "nhom_chat": "WA Về đích _ Bộ NNMT",
+  "nv": "TH",
+  "viec_tiep": "Bộ NNMT gửi XML mẫu (5 loại dữ liệu DVC + 49 DMDC) và cử cán bộ hạ tầng test thông luồng mạng về NDC (FW, SW, CP.NET, AgentNode); NADAT gửi API DVC 19/11, API DMDC 20/11"
+}

@@ -1,0 +1,9 @@
+{
+  "ghi_chu": "",
+  "mat_khau": "secret",
+  "nhom": "Hệ thống v1",
+  "tai_khoan": "xrd",
+  "ten": "Central Server (quản trị các ShareNode)",
+  "thu_tu": 6,
+  "url": "https://192.168.1.172:4000/"
+}

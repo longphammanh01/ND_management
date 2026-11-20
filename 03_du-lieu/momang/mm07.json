@@ -1,0 +1,15 @@
+{
+  "cap_nhat": "15/11/2026",
+  "chieu": "AGN Bộ KHCN → LGSP Bộ KHCN → HT GQTTHC/NEAC (DevTest)",
+  "cong": "80; 443",
+  "don_vi": "Bộ KHCN",
+  "ghi_chu": "Private → DMZ bị cấm nên đi qua LGSP; Bộ thêm route về AGN 11/11; kênh thông chiều 11/11, login xuống được 12/11.",
+  "gtel": "Đã mở",
+  "ip_dich": "10.100.10.121 (LGSP)",
+  "ip_nguon": "10.2.75.7–9 (AGN)",
+  "kt": "Đã thông",
+  "ma_luong": "CS-14",
+  "ngay_phieu": "",
+  "p5": "Đã duyệt",
+  "phieu": "Đã gửi"
+}

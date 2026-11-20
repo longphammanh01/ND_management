@@ -1,0 +1,21 @@
+{
+  "ai_chan": "QC Cổng DVC (Thuy Thu), Thắng BV",
+  "ba": "Long",
+  "blocker": "5/6 API có log (02/11); thiếu testcase",
+  "blocker_thuoc": "Khách hàng",
+  "cap_nhat": "02/11/2026",
+  "dev": "Thuật",
+  "donvi": "CSDL TTHC",
+  "dt_buoc": "B6. Xác nhận đấu nối & xin testcase",
+  "dt_tt": "Chờ phản hồi",
+  "loai": "Nghiệp vụ",
+  "luong": "Cổng DVC ↔ NDOP ↔ CSDL TTHC",
+  "ma": "CS-02",
+  "ndc_buoc": "—",
+  "ndc_tt": "Chưa bắt đầu",
+  "nguoi_lam": "Long",
+  "nhom": "HTPM",
+  "nhom_chat": "TELE MBF-NADAT-C12",
+  "nv": "CS",
+  "viec_tiep": "Chốt API còn lại; xin testcase → BBNT"
+}

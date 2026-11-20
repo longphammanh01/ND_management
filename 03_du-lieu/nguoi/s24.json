@@ -1,0 +1,321 @@
+{
+  "ben": "Chưa rõ đơn vị",
+  "dv": "Chưa rõ",
+  "nguoi": [
+    {
+      "can_cu": "Zalo C12-BTP – chưa đủ căn cứ đơn vị [1 tin]",
+      "ho_ten": "Nguyễn Công Hùng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] C12 - BTP - Tích hợp đồng bộ dữ liệu",
+      "phong_ban": "",
+      "tai_khoan": "Nguyễn Công Hùng (Zalo)",
+      "vai_tro": "Thêm Quang Đông (BTP) vào nhóm; nhận định lỗi phân giải tên miền"
+    },
+    {
+      "can_cu": "Mr T (NHNN) hỏi Mark 'khi nào xử lý xong anh báo lại' → phía xử lý (QG/NDOP), chưa rõ đơn vị [1 tin]",
+      "ho_ten": "Mark Thành Phạm",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN",
+      "phong_ban": "",
+      "tai_khoan": "Mark Thành Phạm (Zalo)",
+      "vai_tro": "Hỏi tình trạng login NHNN"
+    },
+    {
+      "can_cu": "chưa đủ căn cứ [1 tin]",
+      "ho_ten": "Hải Anh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ; [ZALO] DVCQG vs NHNN",
+      "phong_ban": "",
+      "tai_khoan": "Hải Anh (Zalo/Tele)",
+      "vai_tro": "Nhận định WAF chặn request; thêm thành viên nhóm AGN Bộ KHCN"
+    },
+    {
+      "can_cu": "MoMo – chưa đủ căn cứ [1 tin]",
+      "ho_ten": "Justin Vo",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "",
+      "tai_khoan": "Justin Vo",
+      "vai_tro": "Giữ file checklist/master file IP, domain"
+    },
+    {
+      "can_cu": "C06 SSO – chưa đủ căn cứ [2 tin]",
+      "ho_ten": "Phong Trương gia",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN",
+      "phong_ban": "",
+      "tai_khoan": "Phong Trương gia; @sushi610",
+      "vai_tro": "Gửi luồng kết nối cho Ngọc Anh"
+    },
+    {
+      "can_cu": "rà soát UC – 2 tin, không đủ căn cứ [2 tin]",
+      "ho_ten": "Nam Đoàn Trung",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [ZALO] C12-TGPL-Nhóm trao đổi",
+      "phong_ban": "",
+      "tai_khoan": "Nam Đoàn Trung",
+      "vai_tro": "Được cc"
+    },
+    {
+      "can_cu": "rà soát UC – 1 tin [1 tin]",
+      "ho_ten": "ted",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "",
+      "tai_khoan": "ted",
+      "vai_tro": ""
+    },
+    {
+      "can_cu": "DA175 – 1 tin [1 tin]",
+      "ho_ten": "TranHa",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac",
+      "phong_ban": "",
+      "tai_khoan": "TranHa",
+      "vai_tro": "Dự họp 03/11"
+    },
+    {
+      "can_cu": "1 tin [1 tin]",
+      "ho_ten": "Bảo Trung",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Về đích _ Bộ NNMT",
+      "phong_ban": "",
+      "tai_khoan": "~Bảo Trung (WA)",
+      "vai_tro": "Hỏi tiến độ Bộ NNMT"
+    },
+    {
+      "can_cu": "tin chuyển tiếp [2 tin]",
+      "ho_ten": "Nguyễn Kiên Trung",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu",
+      "phong_ban": "",
+      "tai_khoan": "(chuyển tiếp)",
+      "vai_tro": "Gửi file yêu cầu cấp phát tài nguyên S3 tạm thời"
+    },
+    {
+      "can_cu": "Quang Đông tag '@Đỗ Hảo @Bùi Đình Huy' (Huy là C12)",
+      "ho_ten": "Đỗ Hảo",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] C12 - BTP - Tích hợp đồng bộ dữ liệu; [ZALO] C12-TGPL-Nhóm trao đổi; [ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "(có thể C12)",
+      "tai_khoan": "@Đỗ Hảo (Zalo)",
+      "vai_tro": "Được BTP nhờ kiểm tra lỗi đồng bộ"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ (không có tin)",
+      "ho_ten": "Huỳnh Châu Hùng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [C12] DVCQG - HTLL - NADAT",
+      "phong_ban": "",
+      "tai_khoan": "Huỳnh Châu Hùng NVPTTT",
+      "vai_tro": "Thành viên nhóm HTLL"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ (không có tin)",
+      "ho_ten": "Phạm Ngọc Thành",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Thành viên nhóm BKHCN/HTLL"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ (không có tin)",
+      "ho_ten": "Tran Tydus",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [C12] DVCQG - HTLL - NADAT",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": ""
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ (không có tin)",
+      "ho_ten": "Thái Nguyễn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Thành viên nhóm BKHCN"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ (không có tin)",
+      "ho_ten": "Nguyễn Vũ Quang",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Thành viên nhóm BKHCN"
+    },
+    {
+      "can_cu": "HTLL 22/10 'Lại added Nguyễn Ngọc'",
+      "ho_ten": "Nguyễn Ngọc Hoàn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [C12] DVCQG - HTLL - NADAT",
+      "phong_ban": "(có thể Gtel/C12)",
+      "tai_khoan": "Nguyễn Ngọc (Tele)",
+      "vai_tro": ""
+    },
+    {
+      "can_cu": "HTLL 22/10 'Lại added Quang Huy'",
+      "ho_ten": "Quang Huy Nguyễn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [C12] DVCQG - HTLL - NADAT",
+      "phong_ban": "(có thể Gtel/C12)",
+      "tai_khoan": "Quang Huy (Tele)",
+      "vai_tro": ""
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Quang Hưng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "",
+      "phong_ban": "",
+      "tai_khoan": "@quanghungMKT",
+      "vai_tro": "Được Giang Nv thêm vào nhóm BKHCN 22/10"
+    },
+    {
+      "can_cu": "Giữ từ Excel cũ",
+      "ho_ten": "Hiệp",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "",
+      "phong_ban": "",
+      "tai_khoan": "@green_banana",
+      "vai_tro": "TTHC"
+    },
+    {
+      "can_cu": "gửi file – đơn vị ghi: chưa rõ",
+      "ho_ten": "Huy",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] C12 - NHNN Tích hợp dữ liệu",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Gửi API spec MS02G19 NHNN"
+    },
+    {
+      "can_cu": " – đơn vị ghi: chưa rõ",
+      "ho_ten": "Trần Đức Anh",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] C12 - NHNN Tích hợp dữ liệu",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Được cc"
+    },
+    {
+      "can_cu": " – đơn vị ghi: chưa rõ",
+      "ho_ten": "Thien Nguyen",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] C12 - NHNN Tích hợp dữ liệu",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Tham gia 23/09"
+    },
+    {
+      "can_cu": "có biểu tượng quản trị – đơn vị ghi: chưa rõ (quản trị nhóm – khả năng cán bộ C12)",
+      "ho_ten": "Question",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] C12-TGPL-Nhóm trao đổi",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Điều phối, đối chiếu số bản ghi"
+    },
+    {
+      "can_cu": " – đơn vị ghi: chưa rõ (phía BTP)",
+      "ho_ten": "Nguyễn Huỳnh Đức",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] C12-TGPL-Nhóm trao đổi",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Cung cấp số bản ghi"
+    },
+    {
+      "can_cu": " – đơn vị ghi: chưa rõ",
+      "ho_ten": "Hữu Cảnh",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] C12 - BYT - Tích hợp 04 CSDL",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Rời nhóm 06/10"
+    },
+    {
+      "can_cu": "có biểu tượng quản trị – đơn vị ghi: chưa rõ (quản trị nhóm; truyền đạt chỉ đạo C12)",
+      "ho_ten": "Alvis",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Lập nhóm, điều phối"
+    },
+    {
+      "can_cu": " – đơn vị ghi: chưa rõ (phía BTP)",
+      "ho_ten": "Bùi Tình",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Được nhờ cung cấp API"
+    },
+    {
+      "can_cu": " – đơn vị ghi: chưa rõ",
+      "ho_ten": "Nguyễn Tuấn Quang",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Được nhờ gửi tài liệu NDOP"
+    },
+    {
+      "can_cu": "Thêm Ngọc Anh vào nhóm 15/11",
+      "ho_ten": "Tuấn NA",
+      "nguon": "Quét chat 17/11",
+      "nhom_chat": "[WA] Về đích _ Bộ NNMT",
+      "phong_ban": "",
+      "tai_khoan": "Tuấn NA (WA)",
+      "vai_tro": ""
+    },
+    {
+      "can_cu": "Dtv thêm vào nhóm 13/11; tự nói \"bên em là FW\"",
+      "ho_ten": "Đạt Phạm",
+      "nguon": "Quét chat 17/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "(có thể FIS – FW)",
+      "tai_khoan": "Đạt Phạm (WA)",
+      "vai_tro": "Kỹ thuật mạng/FW, gửi quy hoạch IP kênh"
+    },
+    {
+      "can_cu": "Dtv thêm vào nhóm 13/11",
+      "ho_ten": "Hải (WA)",
+      "nguon": "Quét chat 17/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "(có thể FIS)",
+      "tai_khoan": "Hải (WA)",
+      "vai_tro": "Kỹ thuật kênh, kiểm tra MAC đầu cloud"
+    },
+    {
+      "can_cu": "A Dũng TTTT D01 thêm vào nhóm 17/11 (cùng Mạnh NĐ.MBFS, Nguyễn Hoàng Nam), chưa có tin; có thể là 'Cong Minh' (gửi phiếu FW ở MBFS-NADAT Nội bộ 16/11) – chưa xác nhận",
+      "ho_ten": "Cong",
+      "nguon": "Quét chat 18/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL",
+      "phong_ban": "",
+      "tai_khoan": "Cong (Tele)",
+      "vai_tro": "chưa rõ"
+    },
+    {
+      "can_cu": "Phạm (D01) thêm vào 2 nhóm 17/11 (rời nhóm DMDC ngay sau đó), chưa có tin",
+      "ho_ten": "Bachnn",
+      "nguon": "Quét chat 18/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [TELE] C12-D01-DMDC•••-NDOP-NADAT",
+      "phong_ban": "",
+      "tai_khoan": "Bachnn (Tele)",
+      "vai_tro": "chưa rõ"
+    },
+    {
+      "can_cu": "Dtv (FIS) thêm vào nhóm 17/11 14:30 để xử lý VPN s2s; cấu hình router NAT .254→.49; có thể phía C12/Gtel – chưa rõ. KHÁC Trần Huy Hùng (NADAT)",
+      "ho_ten": "Huy Trần",
+      "nguon": "Quét chat 18/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "",
+      "tai_khoan": "Huy Trần (WA)",
+      "vai_tro": "Kỹ thuật mạng/router: cấu hình NAT-T, VPN s2s kênh FIS"
+    }
+  ]
+}

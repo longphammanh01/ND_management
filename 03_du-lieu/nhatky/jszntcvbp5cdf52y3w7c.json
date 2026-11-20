@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-17T02:29:19.289Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: Nhóm rà soát UC Dữ liệu – Hoang Kim Anh 16/11 16:47",
+  "luong": "th-bbn-07",
+  "thay_doi": [
+    {
+      "cu": "Gtel cần bố trí nhân sự sửa tài liệu API",
+      "moi": "Bộ NNMT, Bộ KHCN – API thiếu thẻ bọc ngoài, chưa điều chỉnh (từ khoảng 02/11)",
+      "truong": "blocker"
+    }
+  ]
+}

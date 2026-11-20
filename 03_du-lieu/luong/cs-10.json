@@ -1,0 +1,21 @@
+{
+  "ai_chan": "C12 hạ tầng (Ngọc Anh)",
+  "ba": "Long",
+  "blocker": "C12 (Ngọc Anh) chưa trả lời băng thông kênh mới (FPT không kéo được kênh trực tiếp) từ 26/10; trước đó tranh luận kênh 5Mbps so với yêu cầu tối thiểu 100Mbps; TPBank định thuê máy chủ 6 tháng",
+  "blocker_thuoc": "C12",
+  "cap_nhat": "15/11/2026",
+  "dev": "Thuật, Trung",
+  "donvi": "TPBank",
+  "dt_buoc": "—",
+  "dt_tt": "Chưa bắt đầu",
+  "loai": "Kỹ thuật",
+  "luong": "TTTT ↔ NDOP ↔ TPBank",
+  "ma": "CS-10",
+  "ndc_buoc": "11/11 được giao kiểm tra IP AgentNode, đến 14/11 chưa có kết quả",
+  "ndc_tt": "Chờ phản hồi",
+  "nguoi_lam": "Long",
+  "nhom": "DN",
+  "nhom_chat": "TELE Hạ Tầng TPBank - C12",
+  "nv": "CS",
+  "viec_tiep": "Nhắc C12 trả lời băng thông/port"
+}

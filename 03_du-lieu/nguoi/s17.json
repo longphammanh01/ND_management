@@ -1,0 +1,42 @@
+{
+  "ben": "Bộ, ngành",
+  "dv": "Bộ Tư pháp",
+  "nguoi": [
+    {
+      "can_cu": "'phần đẩy dữ liệu đồng bộ lên C12 bên em đang báo lỗi từ 7/11' [2 tin]",
+      "ho_ten": "Quang Đông",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] C12 - BTP - Tích hợp đồng bộ dữ liệu",
+      "phong_ban": "BTP – kỹ thuật",
+      "tai_khoan": "Quang Đông (Zalo)",
+      "vai_tro": "Đẩy dữ liệu đồng bộ lên C12"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Pham Hao",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "[ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "",
+      "tai_khoan": "Zalo",
+      "vai_tro": "Thanh toán BTP"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ",
+      "ho_ten": "Mai Văn Tinh",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "[ZALO] C12-TGPL-Nhóm trao đổi",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Trợ giúp pháp lý"
+    },
+    {
+      "can_cu": " – đơn vị ghi: Bộ Tư pháp/FIS (khả năng)",
+      "ho_ten": "Dương Ngọc Hưng",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Cung cấp API callback"
+    }
+  ]
+}

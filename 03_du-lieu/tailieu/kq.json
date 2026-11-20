@@ -1,0 +1,96 @@
+{
+  "muc": [
+    {
+      "duong_dan": "https://claude.ai/artifact/CvCUHjfqp7Ye1545k7v3xH",
+      "loai": "Trang web",
+      "mo_ta": "Trang quản lý này: đơn vị, luồng, vướng mắc, stakeholder, nhóm chat, tài liệu",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "Trang web Đấu nối NDOP",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\NDOP_QuanLy_DauNoi\\00_DanhMuc.md",
+      "loai": "Danh mục",
+      "mo_ta": "Mục lục thư mục kết quả",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "00_DanhMuc.md",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\NDOP_QuanLy_DauNoi\\01_TraCuu_ThuatNgu.md",
+      "loai": "Tra cứu",
+      "mo_ta": "Bảng viết tắt, thuật ngữ",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "01_TraCuu_ThuatNgu.md",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\NDOP_QuanLy_DauNoi\\02_QuyTrinh_TrienKhai.md",
+      "loai": "Quy trình",
+      "mo_ta": "Quy trình triển khai DevTest / 103NT / NDC, vai trò Hạ tầng – Dev – BA – QA",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "02_QuyTrinh_TrienKhai.md",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\NDOP_QuanLy_DauNoi\\03_BangTheoDoi_DauNoi.xlsx",
+      "loai": "Bảng theo dõi",
+      "mo_ta": "Bản Excel ngày 13/11 (dữ liệu chính nay nằm trên trang web)",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "03_BangTheoDoi_DauNoi.xlsx",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\NDOP_QuanLy_DauNoi\\04_BaoCao_TinhHinh_13-11-2026.md",
+      "loai": "Báo cáo",
+      "mo_ta": "Tình hình và 15 vướng mắc ngày 13/11",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "04_BaoCao_TinhHinh_13-11-2026.md",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\NDOP_QuanLy_DauNoi\\05_DeXuat_CongCu.md",
+      "loai": "Đề xuất",
+      "mo_ta": "So sánh phương án công cụ quản lý",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "05_DeXuat_CongCu.md",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\NDOP_QuanLy_DauNoi\\06_Nguon\\GhiChu_DocChat_13-11-2026.md",
+      "loai": "Ghi chú nguồn",
+      "mo_ta": "Ghi chú gốc khi đọc từng nhóm chat (ai nói gì, ngày nào)",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "GhiChu_DocChat_13-11-2026.md",
+      "trang_thai": "Có sẵn"
+    },
+    {
+      "duong_dan": "D:\\[NADAT]\\Project\\NDOP\\Train AI NDOP\\NDOP_QuanLy_DauNoi\\06_Nguon\\chat_day_du",
+      "loai": "Thư mục",
+      "mo_ta": "Toàn bộ lịch sử từng nhóm, đang được chép",
+      "ngay": "",
+      "nguon": "",
+      "ten": "Bản chép đầy đủ các nhóm chat",
+      "trang_thai": "Đang làm"
+    },
+    {
+      "duong_dan": "C:\\Users\\admin\\.claude\\scheduled-tasks\\cap-nhat-dau-noi-ndop\\SKILL.md",
+      "loai": "Tác vụ",
+      "mo_ta": "Hướng dẫn mà tác vụ quét chat làm theo; chạy khi bấm nút Quét trên trang",
+      "ngay": "13/11/2026",
+      "nguon": "",
+      "ten": "Tác vụ tự động \"Cập nhật tiến độ đấu nối NDOP\"",
+      "trang_thai": "Có sẵn"
+    }
+  ],
+  "ten": "Kết quả tổng hợp (Claude lập)",
+  "thu_tu": 1
+}

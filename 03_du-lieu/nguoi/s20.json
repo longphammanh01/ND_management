@@ -1,0 +1,78 @@
+{
+  "ben": "Doanh nghiệp",
+  "dv": "VPBank",
+  "nguoi": [
+    {
+      "can_cu": "A Quang gọi 'Loan - Gđ TTCNTT' [26 tin]",
+      "ho_ten": "Loan (Loan Dtt)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] NDOP-C12-ThanhToan-VPBank; [TELE] Thanh toán C12 VpBank",
+      "phong_ban": "VPBank – Giám đốc TTCNTT",
+      "tai_khoan": "Loan Dtt; @LanPhg94 (suy ra)",
+      "vai_tro": "Lãnh đạo phía VPBank"
+    },
+    {
+      "can_cu": "'anh Quyết là đầu mối về mặt network ở phía Vpbank' [23 tin]",
+      "ho_ten": "Phuongtl",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] NDOP-C12-ThanhToan-VPBank; [TELE] Thanh toán C12 VpBank; [TELE] VP Bank - C12",
+      "phong_ban": "VPBank",
+      "tai_khoan": "Phuongtl",
+      "vai_tro": "Điều phối kỹ thuật/kênh truyền"
+    },
+    {
+      "can_cu": "Hùng gọi 'VPBank - Khuc Dinh Quyet' [47 tin]",
+      "ho_ten": "Khúc Đình Quyết",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] VP Bank - C12",
+      "phong_ban": "VPBank – Network",
+      "tai_khoan": "Quyết Khúc Đình",
+      "vai_tro": "Mở rule, NAT"
+    },
+    {
+      "can_cu": "A Quang 'Khánh - VPBank - Đấu Nối Thanh toán' [13 tin]",
+      "ho_ten": "Khánh (Nguyen Khanh)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VpBank",
+      "phong_ban": "VPBank – Đấu nối thanh toán",
+      "tai_khoan": "Nguyen Khanh",
+      "vai_tro": "Đề xuất triển khai, BBNT, MID/TID"
+    },
+    {
+      "can_cu": "'mai bên VPBank sẽ check lại'; Loan 'em add Phi vào để collect thông tin để dev API' (có thể là người này – cần xác nhận) [30 tin]",
+      "ho_ten": "anoutXBT (Phi? – suy ra)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] NDOP-C12-ThanhToan-VPBank",
+      "phong_ban": "VPBank – IT",
+      "tai_khoan": "anoutXBT; @anoutXBT",
+      "vai_tro": "Dev API phía VPBank"
+    },
+    {
+      "can_cu": "Phuongtl nhờ 'check giúp… vpbank' [12 tin]",
+      "ho_ten": "Hien Nguyen",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] NDOP-C12-ThanhToan-VPBank; [TELE] VP Bank - C12",
+      "phong_ban": "VPBank",
+      "tai_khoan": "Hien Nguyen",
+      "vai_tro": "Dịch vụ/tích hợp"
+    },
+    {
+      "can_cu": "'cho bên em xin vb của NHNN để bên em check pháp lý' [1 tin]",
+      "ho_ten": "Haivt",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VpBank",
+      "phong_ban": "VPBank – pháp chế (suy ra)",
+      "tai_khoan": "Haivt",
+      "vai_tro": "Kiểm tra pháp lý văn bản NHNN"
+    },
+    {
+      "can_cu": "VP Bank - C12: lệnh kiểm tra cổng, 'FPT cấp MPLS L2' (suy ra phía VPBank) [6 tin]",
+      "ho_ten": "PhatPN",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] VP Bank - C12",
+      "phong_ban": "VPBank – Network (suy ra)",
+      "tai_khoan": "PhatPN",
+      "vai_tro": "Kiểm tra cổng/VLAN kênh MPLS"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ai_chan": "C12 (Ngọc Lâm) / BTP (Quang Đông)",
+  "ba": "Chi, Huy",
+  "blocker": "Đẩy dữ liệu lỗi từ 07/11 – lỗi DNS",
+  "blocker_thuoc": "C12 / Khách hàng",
+  "cap_nhat": "15/11/2026",
+  "dev": "(C12/Kho)",
+  "donvi": "Bộ Tư pháp – TGPL",
+  "dt_buoc": "30/09 thông luồng DevTest; 02/10 BTP đẩy đủ 4 nhóm dữ liệu (1406/43/1425/103 bản ghi); 4 nhóm còn lại và 12 API danh mục chưa làm; từ 07/11 đẩy dữ liệu lỗi DNS",
+  "dt_tt": "Bị block",
+  "loai": "Kỹ thuật",
+  "luong": "BTP → Kho TTDLQG",
+  "ma": "TH-BBN-02",
+  "ndc_buoc": "—",
+  "ndc_tt": "Chưa bắt đầu",
+  "nguoi_lam": "Chi",
+  "nhom": "BBN",
+  "nhom_chat": "ZALO C12-BTP; C12-TGPL",
+  "nv": "TH",
+  "viec_tiep": "Hỏi C12 kết quả kiểm tra DNS; xác nhận dữ liệu 02/10"
+}

@@ -1,0 +1,15 @@
+{
+  "cap_nhat": "15/11/2026",
+  "chieu": "NDC ↔ TPBank (kênh MPLS L2 qua FPT)",
+  "cong": "",
+  "don_vi": "TPBank",
+  "ghi_chu": "C12 chưa trả lời băng thông kênh mới từ 26/10.",
+  "gtel": "Chưa mở",
+  "ip_dich": "100.64.6.0/24 (dải partner TTDLQG)",
+  "ip_nguon": "100.64.7.x (TPBank)",
+  "kt": "Chưa kiểm tra",
+  "ma_luong": "CS-10",
+  "ngay_phieu": "",
+  "p5": "Chưa duyệt",
+  "phieu": "Chưa gửi"
+}

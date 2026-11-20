@@ -1,0 +1,22 @@
+{
+  "ai_chan": "C12 P5 (Ngọc Anh), Gtel (Minh Nguyễn, Do Uy)",
+  "ba": "Long",
+  "blocker": "VPBank – luồng VPBank qua NDOP tới TTTT chưa thông, chưa có môi trường STG (từ 14/11)",
+  "blocker_thuoc": "C12 + Gtel",
+  "cap_nhat": "17/11/2026",
+  "dev": "Trung, Thuật",
+  "donvi": "VPBank",
+  "dt_buoc": "B9. Đã ký BBNT (24/09)",
+  "dt_tt": "Hoàn thành",
+  "han_xu_ly": "15/11/2026",
+  "loai": "Kỹ thuật",
+  "luong": "TTTT ↔ NDOP ↔ VPBank",
+  "ma": "CS-09",
+  "ndc_buoc": "Phiếu 30 mở Firewall qua leased line (11/11); thông và cấu hình ShareNode xong 13/11 16:13",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Long",
+  "nhom": "DN",
+  "nhom_chat": "TELE NDOP-C12-ThanhToan-VPBank; Thanh toán C12 VpBank",
+  "nv": "CS",
+  "viec_tiep": "Chạy test luồng thanh toán VPBank trên NDC, lập biên bản; xác nhận đơn vị quản trị máy AGN"
+}

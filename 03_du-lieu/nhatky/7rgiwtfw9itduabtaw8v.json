@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-18T02:12:02.496Z",
+  "by": "u_rcGxWq5q8H831cNzvEkNEg",
+  "ghi_chu": "Duyệt đề xuất từ quét chat: D01-NADAT-VNTDO: Thanh toán SDL – Le Cuong 17/11 11:25; A Dũng TTTT D01 17/11 11:27",
+  "luong": "cs-06",
+  "thay_doi": [
+    {
+      "cu": "TTTT chưa có bản trên NDC (dự kiến 16/11); testcase Sàn chưa được TTTT chấp nhận (từ 13/11)",
+      "moi": "TTTT – Cổng TTTT chưa lên bản mới có mã 8, đang test lại sau khi nâng version Spring để vá lỗ hổng (từ 17/11); testcase Sàn chưa được TTTT chấp nhận (từ 13/11)",
+      "truong": "blocker"
+    }
+  ]
+}

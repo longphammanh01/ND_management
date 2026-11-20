@@ -1,0 +1,69 @@
+{
+  "ben": "Bộ, ngành",
+  "dv": "NHNN",
+  "nguoi": [
+    {
+      "can_cu": "trả lời tệp 'Biên bản làm việc NHNN final' [2 tin]",
+      "ho_ten": "Hòa Đại Nhân",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN",
+      "phong_ban": "NHNN (theo ghi chú cũ)",
+      "tai_khoan": "Hòa Đại Nhân (Zalo)",
+      "vai_tro": "Biên bản làm việc NHNN"
+    },
+    {
+      "can_cu": "'bên chị đang nâng cấp 15 TTHC'; 'hỗ trợ giúp NHNN' [3 tin]",
+      "ho_ten": "Hai Nguyen (chị)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN",
+      "phong_ban": "NHNN – nghiệp vụ TTHC",
+      "tai_khoan": "Hai Nguyen (Zalo)",
+      "vai_tro": "Nâng cấp 15 TTHC lên DVCTT"
+    },
+    {
+      "can_cu": "Quyết 'Anh em kỹ thuật của NHNN … @Hoàng Đẩu @Lưu Huy Hoàng' [23 tin]",
+      "ho_ten": "Lưu Huy Hoàng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN; [ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "NHNN – kỹ thuật (hoặc nhà thầu của NHNN)",
+      "tai_khoan": "Lưu Huy Hoàng (Zalo)",
+      "vai_tro": "Webhook, log, WAF HT GQTTHC NHNN"
+    },
+    {
+      "can_cu": "như trên",
+      "ho_ten": "Hoàng Đẩu",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN",
+      "phong_ban": "NHNN – kỹ thuật",
+      "tai_khoan": "@Hoàng Đẩu (Zalo)",
+      "vai_tro": "Kỹ thuật"
+    },
+    {
+      "can_cu": "'Như này mà mất 1 ngày bên em chờ phối hợp'; 'Nhờ mấy ae trên QG xem giúp' [9 tin]",
+      "ho_ten": "Mr T",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN",
+      "phong_ban": "NHNN – quản lý (suy ra)",
+      "tai_khoan": "Mr T (Zalo)",
+      "vai_tro": "Đôn đốc xử lý sự cố, yêu cầu xuất DS hồ sơ quá hạn"
+    },
+    {
+      "can_cu": "'bên NHNH đã check log waf trên hệ thống' [5 tin]",
+      "ho_ten": "Tùng (NHNN)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[ZALO] DVCQG vs NHNN",
+      "phong_ban": "NHNN – hạ tầng/WAF",
+      "tai_khoan": "Tùng (Zalo)",
+      "vai_tro": "Kiểm tra log WAF"
+    },
+    {
+      "can_cu": "được nhờ review tài liệu API NHNN – đơn vị ghi: Ngân hàng Nhà nước (khả năng cao)",
+      "ho_ten": "Nguyen Thi Thu Huyen",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[ZALO] C12 - NHNN Tích hợp dữ liệu",
+      "phong_ban": "",
+      "tai_khoan": "",
+      "vai_tro": "Review tài liệu API phía NHNN"
+    }
+  ]
+}

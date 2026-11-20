@@ -1,0 +1,69 @@
+{
+  "ben": "Bộ, ngành",
+  "dv": "Bộ Xây dựng",
+  "nguoi": [
+    {
+      "can_cu": "Đỗ Đình Thái Tuấn gọi 'A Hào PTP Hạ Tầng Cục CNTT/BXD'. Danh sách cũ ghi họ tên 'Nguyễn Song Hào' – không thấy trong chat [69 tin]",
+      "ho_ten": "Hào (Hao Nguyen)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "Cục CNTT – Phó trưởng phòng Hạ tầng",
+      "tai_khoan": "Hao Nguyen",
+      "vai_tro": "Đầu mối chính BXD đồng bộ 10 CSDL về C12"
+    },
+    {
+      "can_cu": "'Làm giấy mời Bogt nhé' (trả lời Hào); 'Tập trung nhé @duantranvan', 'cho chạy đi' [7 tin]",
+      "ho_ten": "Mr Lee",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "BXD – lãnh đạo (suy ra)",
+      "tai_khoan": "Mr Lee",
+      "vai_tro": "Đôn đốc dev đẩy dữ liệu, giấy mời họp"
+    },
+    {
+      "can_cu": "'phía hệ thống CSDL HĐXD đã đẩy' [26 tin]",
+      "ho_ten": "Tran Van Quang",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "Đội CSDLQG HĐXD",
+      "tai_khoan": "Tran Van Quang; @noise_estimation",
+      "vai_tro": "Dev đẩy dữ liệu HĐXD, cập nhật API spec"
+    },
+    {
+      "can_cu": "Hào giao push; Duẩn 'bên mình đẩy 5461 bản ghi'. Danh sách cũ xếp Gtel – sai [22 tin]",
+      "ho_ten": "Trần Văn Duẩn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "BXD – dev đồng bộ",
+      "tai_khoan": "Duẩn Trần Văn; @duantranvan",
+      "vai_tro": "Đồng bộ dữ liệu đăng kiểm/hàng hải/nhà ở"
+    },
+    {
+      "can_cu": "Hào 'bên chị Hồng sẽ rà soát' [9 tin]",
+      "ho_ten": "Hồng (Anh Hong)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "Nghiệp vụ CSDLQG HĐXD",
+      "tai_khoan": "Anh Hong",
+      "vai_tro": "Bảng đề xuất chỉ tiêu"
+    },
+    {
+      "can_cu": "chị Hồng giao phối hợp [2 tin]",
+      "ho_ten": "Dung Lê",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "Nghiệp vụ HĐXD",
+      "tai_khoan": "Dung Lê; @Dungle0505",
+      "vai_tro": "API spec"
+    },
+    {
+      "can_cu": "Hào giao push dữ liệu (suy ra) [4 tin]",
+      "ho_ten": "Dương Nguyễn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "Hệ thống Nhà ở – dev",
+      "tai_khoan": "Dương Nguyễn; @nguyentungduong282",
+      "vai_tro": "Devtest nhà ở"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ai_chan": "NADAT",
+  "ba": "(A Quang)",
+  "blocker": "NADAT – Tổ 4/P4 yêu cầu giải trình 4 nội dung kho dùng chung, NADAT chỉ trả lời khi có công văn BGĐ (từ 16/11)",
+  "blocker_thuoc": "Nội bộ",
+  "cap_nhat": "18/11/2026",
+  "dev": "Trung, Hùng",
+  "donvi": "Kho dùng chung",
+  "dt_buoc": "—",
+  "dt_tt": "—",
+  "loai": "Kỹ thuật",
+  "luong": "VNPT S3/ECS → NAS NDC → NDOP",
+  "ma": "KHO-5.1",
+  "ndc_buoc": "Đếm được 827.460.508 file trong S3, nộp báo cáo đếm file 14/11; phiếu 32 đặt Data Importer ở DMZ theo tư vấn P5 (13–14/11) để đẩy 8 loại dữ liệu vào kho điều phối",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "A Quang",
+  "nhom": "Nội bộ NDC",
+  "nhom_chat": "TELE C12-Nadat Quy hoạch kho",
+  "nv": "TH",
+  "viec_tiep": "Data Importer (đã triển khai vùng Core 16/11, bản fix đường dẫn Dell S3 đang chờ copy): ưu tiên thông luồng import dữ liệu vào Kho DL dùng chung, sau đó đo thông lượng; theo dõi duyệt phiếu 32; xin C12 xác nhận báo cáo đếm file 14/11"
+}

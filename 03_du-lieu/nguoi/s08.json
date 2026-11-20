@@ -1,0 +1,213 @@
+{
+  "ben": "Nhà thầu, hệ thống trong NDC",
+  "dv": "Gtel",
+  "nguoi": [
+    {
+      "can_cu": "SHB: Thanh Phương 'team D02 … anh @Luciano090186'; Lại Huân '@Luciano090186 anh cấu hình cho bên Momo' [97 tin]",
+      "ho_ten": "Tuan Manh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN; [TELE] C12 - SHB kết nối DVCQG; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [ZALO] DVCQG vs NHNN",
+      "phong_ban": "D02 – Gtel, NDOP tại 103 (nền tảng IBM)",
+      "tai_khoan": "Tuan Manh; @Luciano090186",
+      "vai_tro": "Quản trị/cấu hình NDOP Gtel tại 103/thí điểm cho SHB, MoMo, SSO"
+    },
+    {
+      "can_cu": "Tuan Manh 'người đang thực hiện cấu hình cho bên mình' [36 tin]",
+      "ho_ten": "Khanh Nguyen Cong",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG",
+      "phong_ban": "Gtel – dev NDOP",
+      "tai_khoan": "Khanh Nguyen Cong; @khanhnc21",
+      "vai_tro": "Cấu hình NDOP cho SHB"
+    },
+    {
+      "can_cu": "DVCQG vs NHNN: Quyết '@Hoàng Anh là đầu mối NDOP', 'em đứng từ NDOP curl giúp anh'; SHB: Tuan Manh giao kiểm tra agent node [22 tin]",
+      "ho_ten": "Hoàng Anh (Gtel – đầu mối NDOP)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG; [ZALO] DVCQG vs NHNN",
+      "phong_ban": "Gtel – vận hành NDOP/AGN",
+      "tai_khoan": "Hoàng Anh; @Hoang_anh970",
+      "vai_tro": "Kiểm tra kết nối AGN, gửi curl, cấu hình URL"
+    },
+    {
+      "can_cu": "HTLL: Dương thêm cùng Tuan Manh; Zalo NHNN: Trần Ngọc Thành tag '@Đặng Đình Hoàng … @Tuan Manh'. Danh sách cũ xếp nhầm vào Cổng DVC (D01) [3 tin]",
+      "ho_ten": "Đặng Đình Hoàng (Đặng Hoàng)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN; [ZALO] DVCQG vs NHNN",
+      "phong_ban": "Gtel – kỹ thuật NDOP",
+      "tai_khoan": "Đặng Hoàng; @hoangdd3; @Đặng Đình Hoàng (Zalo)",
+      "vai_tro": "Cấu hình SSO cho Cổng qua NDOP 103"
+    },
+    {
+      "can_cu": "DA175: 'Gtel có ý kiến… @longlevan gửi mô hình'; Zalo NHNN: Quyết '@Long Lê Văn em gửi log mà NDOP gọi sang phía bộ' → gộp 'Long Lê Văn' (Chưa rõ) [10 tin]",
+      "ho_ten": "Lê Văn Long (LongLV)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac; [ZALO] DVCQG vs NHNN",
+      "phong_ban": "Gtel – NTTH BN-ĐP / điều phối",
+      "tai_khoan": "LongLV; @longlevan; Long Lê Văn (Zalo)",
+      "vai_tro": "Mô hình DLSK phía Gtel; gửi log NDOP"
+    },
+    {
+      "can_cu": "Ngọc Anh gọi 'Gtel. Network. Anh UY'; Duy 'GTel A Uy SI'; WA: 'bên e có bạn MinhNV, Thành Nguyễn phối hợp kênh truyền' [27 tin]",
+      "ho_ten": "Do Uy (Xavi Do Uy)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN; [TELE] Thanh toán C12 VNPAY; [TELE] VP Bank - C12; [WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "Gtel – Network/SI",
+      "tai_khoan": "Do Uy; ~Xavi Do Uy (WA); Gtel. Network. Anh UY; GTel A Uy SI",
+      "vai_tro": "Quy hoạch IP, VPN, mở rule FW tại NDC"
+    },
+    {
+      "can_cu": "tên hiển thị [43 tin]",
+      "ho_ten": "Thành (E Thành Gtel)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY; [TELE] VP Bank - C12",
+      "phong_ban": "Gtel – Network",
+      "tai_khoan": "E Thành Gtel; @ntt221001",
+      "vai_tro": "Cấu hình kênh VNPAY, kiểm tra luồng VPBank tại NDC"
+    },
+    {
+      "can_cu": "Hùng gọi 'Gtel - Minh' [24 tin]",
+      "ho_ten": "Minh Nguyễn (Gtel)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] VP Bank - C12",
+      "phong_ban": "Gtel – Network/SI",
+      "tai_khoan": "Minh Nguyễn",
+      "vai_tro": "Cấu hình mạng NAT tại NDC cho VPBank"
+    },
+    {
+      "can_cu": "tài khoản @duygtel; ghi chú 13/11 'Duy Gtel bắt đầu phối hợp' [5 tin]",
+      "ho_ten": "Duy Nguyễn (Duy Gtel)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Thanh toán C12 VNPAY",
+      "phong_ban": "Gtel – Network",
+      "tai_khoan": "Duy Nguyễn; @duygtel",
+      "vai_tro": "Kênh VNPAY (phase 1/backup), phối hợp AGN VPBank"
+    },
+    {
+      "can_cu": "MoMo: Nguyễn Đăng 'bên Gtel có anh @binhbq81'; 'em đã phối hợp cùng đội Network Momo chuyển kênh' [3 tin]",
+      "ho_ten": "Bùi Quang Bình",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Hạ Tầng TPBank - C12; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "Gtel – Network tại 103",
+      "tai_khoan": "Bùi Quang Bình; @binhbq81",
+      "vai_tro": "Quy hoạch IP AGN ngân hàng/TGTT, chuyển kênh MoMo"
+    },
+    {
+      "can_cu": "MoMo: Hưng 'các anh bên Gtel… anh @datts68' [8 tin]",
+      "ho_ten": "Dat Tran",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "Gtel – kỹ thuật NDOP/AGN",
+      "tai_khoan": "Dat Tran; @datts68",
+      "vai_tro": "Trace log NDOP/AGN, curl"
+    },
+    {
+      "can_cu": "WA Sàn-FIS: Xavi Do Uy 'bên e có bạn @MinhNV @Thành Nguyễn phối hợp phần kết nối kênh truyền' [5 tin]",
+      "ho_ten": "Thành Nguyễn (WA)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "Gtel – Network (suy ra)",
+      "tai_khoan": "~Thành Nguyễn (WA); Thành Nguyễn",
+      "vai_tro": "Kết nối kênh truyền FIS"
+    },
+    {
+      "can_cu": "như trên [1 tin]",
+      "ho_ten": "MinhNV",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "Gtel – Network (suy ra)",
+      "tai_khoan": "~MinhNV (WA)",
+      "vai_tro": "Kết nối kênh truyền FIS"
+    },
+    {
+      "can_cu": "AGN Bộ KHCN: chuyển tiếp cùng HuyTQ - GTEL [1 tin]",
+      "ho_ten": "nvThang",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ",
+      "phong_ban": "Gtel (suy ra)",
+      "tai_khoan": "nvThang",
+      "vai_tro": "Đề nghị mở rule AGN Bộ KHCN"
+    },
+    {
+      "can_cu": "tên hiển thị [1 tin]",
+      "ho_ten": "HuyTQ - GTEL",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ",
+      "phong_ban": "Gtel",
+      "tai_khoan": "HuyTQ - GTEL",
+      "vai_tro": "Kỹ thuật Gtel"
+    },
+    {
+      "can_cu": "DA175 (tổng hợp cũ xếp Gtel; chưa có câu xác nhận) [2 tin]",
+      "ho_ten": "Hoang Long",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac",
+      "phong_ban": "Gtel (theo tổng hợp cũ)",
+      "tai_khoan": "Hoang Long; @lonqhoanq",
+      "vai_tro": "Góp ý mô hình DLSK"
+    },
+    {
+      "can_cu": "DA175: Đỗ Đan 'các anh/chị bên Gtel' [1 tin]",
+      "ho_ten": "Hoàng Nguyên",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac",
+      "phong_ban": "Gtel (suy ra)",
+      "tai_khoan": "Hoàng Nguyên",
+      "vai_tro": "Cung cấp API Kho sai khác"
+    },
+    {
+      "can_cu": "'nhà G sẽ có bảng theo dõi chung'; 'link Gtel đã gửi'; thêm các BA Gtel vào nhóm rà soát [30 tin]",
+      "ho_ten": "Dương Hồng (chị Hồng – Duong Hong Trianna)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [ZALO] C12 - NHNN Tích hợp dữ liệu",
+      "phong_ban": "Gtel – BA",
+      "tai_khoan": "Duong Hong Trianna; @duonghongtrianna",
+      "vai_tro": "Đầu mối BA Gtel: bảng theo dõi làm việc Bộ ngành, tài liệu API"
+    },
+    {
+      "can_cu": "rà soát UC: 'Duong Hong added Ngọc Lâm'; Huệ gửi 'ACE BA nhà G, V … Ngọc Lâm'. Danh sách cũ ghi C12 – chưa có căn cứ [4 tin]",
+      "ho_ten": "Ngọc Lâm",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [ZALO] C12 - BTP - Tích hợp đồng bộ dữ liệu; [ZALO] C12-TGPL-Nhóm trao đổi",
+      "phong_ban": "Gtel – BA (suy ra)",
+      "tai_khoan": "Ngọc Lâm (Tele, Zalo)",
+      "vai_tro": "Phụ lục CSDL bộ ngành; tiếp nhận lỗi đồng bộ BTP"
+    },
+    {
+      "can_cu": "rà soát UC: 'E bên Gtel đến lâu rồi ạ'; 'Duong Hong added Huy' [1 tin]",
+      "ho_ten": "Huy (BA Gtel)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "Gtel",
+      "tai_khoan": "Huy",
+      "vai_tro": "Đi họp rà soát Bộ VHTTDL"
+    },
+    {
+      "can_cu": "'Duong Hong added Thu Ha' [1 tin]",
+      "ho_ten": "Thu Ha",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "Gtel – BA (suy ra)",
+      "tai_khoan": "Thu Ha",
+      "vai_tro": "Đi họp rà soát VKSNDTC"
+    },
+    {
+      "can_cu": "'Duong Hong added HàPT'; Phượng Hà xin hạn spec BHXH từ @Hapt2000 [3 tin]",
+      "ho_ten": "Hà PT (HàPT)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "Gtel – BA (suy ra)",
+      "tai_khoan": "HàPT; @Hapt2000",
+      "vai_tro": "Hoàn thiện API spec BHXH"
+    },
+    {
+      "can_cu": "rà soát UC: 'Dear team G, chị @duonghongtrianna…'; Huệ cc 'Lan, Linh, c Hồng, c Kim Anh'. Danh sách cũ xếp NADAT – không có căn cứ (Ngọc Lan NADAT là @phongnd1995) [5 tin] | (suy ra) Le Son (VNPT) hỏi \"@lanngoc256 khi nào hoàn thành specs\" – Gtel phụ trách API spec Bộ ngành; soạn BBLV với Bộ VHTTDL 13/09",
+      "ho_ten": "Ngoc Nguyen (Lan)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "Gtel – BA dữ liệu Bộ ngành (suy ra)",
+      "tai_khoan": "Ngoc Nguyen; @lanngoc256",
+      "vai_tro": "Soạn BBLV Bộ VHTTDL, đặc tả nhóm thông tin Cục Đất đai"
+    }
+  ]
+}

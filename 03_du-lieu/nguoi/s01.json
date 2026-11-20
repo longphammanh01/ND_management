@@ -1,0 +1,312 @@
+{
+  "ben": "Chủ đầu tư – C12",
+  "dv": "C12",
+  "nguoi": [
+    {
+      "can_cu": "Hao 'CC: Anh Tùng GĐ @ErRjrTnJDL'. Danh sách cũ ghi '@ErRjrTnJDL = Phùng Văn Trọng, PGĐ' – mâu thuẫn | (suy ra) Hao Nguyen (BXD) ghi \"CC báo cáo các sếp: Anh Tùng GĐ @ErRjrTnJDL @cspsavn\" cùng anh Tuấn (lãnh đạo C12), trong thư cảm ơn TTDLQG; không phải lãnh đạo BXD",
+      "ho_ten": "anh Tùng (GĐ)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "Ban giám đốc TTDLQG (suy ra)",
+      "tai_khoan": "@ErRjrTnJDL",
+      "vai_tro": "Giám đốc Trung tâm Dữ liệu quốc gia (suy ra); được các bên CC khi báo cáo"
+    },
+    {
+      "can_cu": "SHB: Tuan Manh gọi 'Giang Tổ Trưởng Tổ 5-p4'; D01-VNTDO 08/10 tự nói 'E là Giang. P4 nhé'; A Quang gọi 'Giang - P4' [110 tin]",
+      "ho_ten": "Giang Nv (anh Giang)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN; [TELE] C12 - SHB kết nối DVCQG; [TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] DA175- PAKN+PA-SaiKhac; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] NDOP-C12-ThanhToan-VPBank; [TELE] Nhóm rà soát UC Dữ liệu; [TELE] Thanh toán C12 VpBank; [TELE] [C12] DVCQG - HTLL - NADAT; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "P4 – Tổ trưởng Tổ 5",
+      "tai_khoan": "Giang Nv",
+      "vai_tro": "Chỉ đạo nghiệp vụ, mốc nghiệm thu/golive các luồng Cổng DVCQG, thanh toán"
+    },
+    {
+      "can_cu": "HTLL: A Quang 'Tiến Dũng - PTP4'; DA175: Hiếu 'cc Anh Tiến Dũng PTP C12', họp 'tại Phòng Anh Tiến Dũng' [6 tin]",
+      "ho_ten": "Tiến Dũng (Dung Tien)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac; [TELE] [C12] DVCQG - HTLL - NADAT",
+      "phong_ban": "P4 – Phó trưởng phòng",
+      "tai_khoan": "Dung Tien",
+      "vai_tro": "Lãnh đạo phòng, chỉ đạo"
+    },
+    {
+      "can_cu": "D01-VNTDO: Le Cuong 'anh Trung Dũng PP5 vừa báo em…'; Sàn FIS: ~Minh Hoàng 'Anh TrDung chỉ đạo hôm nay thông xg luồng của FIS'; họ 'Trần' theo danh sách cũ",
+      "ho_ten": "Trần Trung Dũng (Trung Dũng PP5)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL; [WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "P5 – Phó trưởng phòng",
+      "tai_khoan": "Anh TrDung (WA)",
+      "vai_tro": "Chỉ đạo hạ tầng/thông luồng (Sàn, FIS)"
+    },
+    {
+      "can_cu": "TPBank 25/08 tự nói 'Em chủ trì toàn bộ phần hạ tầng mạng của C12'; Nguyễn Tiến Thành '@nahy98 Ngọc Anh ơi'; ghi chú Viber: cán bộ P5. KHÁC Ngọc Anh NADAT (AI coding) [137 tin]",
+      "ho_ten": "Ngọc Anh (P5 – C12)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN; [TELE] C12 - SHB kết nối DVCQG; [TELE] Demo sàn; [TELE] Hạ Tầng TPBank - C12; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] Thanh toán C12 VNPAY; [TELE] Thanh toán C12 VpBank; [TELE] VP Bank - C12; [WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "P5 – hạ tầng mạng",
+      "tai_khoan": "Ngọc Anh (Tele); ~Ngọc Anh (WA); @nahy98",
+      "vai_tro": "Chủ trì hạ tầng mạng C12: kênh truyền, IP, AGN ngân hàng/đối tác, mở mạng NDC"
+    },
+    {
+      "can_cu": "SHB: Tuan Manh gọi 'Dương Tổ 5 Phòng 4'; HTLL 22/10 Giang Nv 'Đoàn đây là nhóm tích hợp ndop… a e vào p/h'; Zalo DVCQG vs NHNN: trả lời NHNN về Cổng DVCQG, ghim BB làm việc NHNN, 'Bên em đang check' (suy ra cùng người: Zalo hiển thị họ trước tên; danh sách cũ ghi nhầm D01) [27 tin]",
+      "ho_ten": "Đoàn Dương (Dương Đoàn)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] [C12] DVCQG - HTLL - NADAT; [ZALO] DVCQG vs NHNN",
+      "phong_ban": "P4 – Tổ 5",
+      "tai_khoan": "Dương Đoàn (Tele); Đoàn Dương (Zalo)",
+      "vai_tro": "Cán bộ Tổ 5 phụ trách Cổng DVCQG: đôn đốc nghiệm thu/golive, hỗ trợ Bộ ngành (NHNN)"
+    },
+    {
+      "can_cu": "DA175: Lê Văn Đại 'Cảm ơn Phạm Việt Tổ 5, P4, C12'; HTLL: Teddy 'Việt C12 P4 T5' [34 tin]",
+      "ho_ten": "Phạm Việt (Việt Phạm)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac; [TELE] [C12] DVCQG - HTLL - NADAT",
+      "phong_ban": "P4 – Tổ 5",
+      "tai_khoan": "Việt Phạm",
+      "vai_tro": "Nghiệp vụ Cổng DVCQG, PAKN, HTLL"
+    },
+    {
+      "can_cu": "SHB: Giang Nv '@ptnam1412 e bố trí' nghiệm thu; VPBank 15/10 Nam: 'Căn cứ văn bản số 4229/C12-P4… TTDLQG tổ chức cuộc họp' (suy ra C12 P4; tổng hợp cũ có chỗ ghi TTTT/D01 là sai) [12 tin]",
+      "ho_ten": "Phan Nam",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG; [TELE] NDOP-C12-ThanhToan-VPBank; [TELE] Thanh toán C12 VNPAY; [TELE] Thanh toán C12 VpBank",
+      "phong_ban": "P4 (suy ra)",
+      "tai_khoan": "Phan Nam; @ptnam1412",
+      "vai_tro": "Bố trí lịch nghiệm thu, gửi BBNT thanh toán (SHB, VPBank, VNPAY)"
+    },
+    {
+      "can_cu": "C12_NDOP bộ tài liệu: xin tài liệu 'cho bọn em', Trà trả lời 'đã gửi a Giang'; HTLL: được Dương (Tổ 5) thêm vào; giao việc cho Tuan Manh (Gtel). Gộp 'Huan Lai' (C12) và 'Hoan Lai' (SHB – danh sách cũ ghi nhầm). Cần xác nhận đơn vị [9 tin] | (suy ra) Nhóm \"C12_NDOP bộ tài liệu\" 05–09/10: xin NADAT gửi tài liệu và list vướng mắc \"cho bọn em\"; chị Trà trả lời đã gửi anh Giang (C12)",
+      "ho_ten": "Lại Huân",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - SHB kết nối DVCQG; [TELE] C12_NDOP bộ tài liệu; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG",
+      "phong_ban": "C12 (suy ra; có thể Tổ 5 P4)",
+      "tai_khoan": "Lại Huân; @huanlaivan",
+      "vai_tro": "Tiếp nhận bộ tài liệu, danh sách vướng mắc NDOP từ NADAT; được gắn xử lý sự cố Cổng DVCQG – NHNN"
+    },
+    {
+      "can_cu": "Kho dùng chung: 'Trường Sơn Dữ liệu P4/C12 bên em'; DA175: triệu tập họp 'theo ý kiến chỉ đạo của LĐP' [62 tin]",
+      "ho_ten": "Phạm Minh Hiếu (Hiếu Phạm Minh)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu; [TELE] DA175- PAKN+PA-SaiKhac; [TELE] Nhóm rà soát UC Dữ liệu; [ZALO] C12 - BTP - Tích hợp đồng bộ dữ liệu",
+      "phong_ban": "P4 – mảng dữ liệu",
+      "tai_khoan": "Hiếu Phạm Minh (Tele); Phạm Minh Hiếu (Zalo); @phamhieu1604",
+      "vai_tro": "Chủ trì luồng dữ liệu sai khác, kho dùng chung, rà soát UC; ký BB với VNPT"
+    },
+    {
+      "can_cu": "A Quang 'Sơn - Tổ 4 - P4'; Hiếu 'Trường Sơn Dữ liệu P4/C12' [3 tin]",
+      "ho_ten": "Trường Sơn (TSơn)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu",
+      "phong_ban": "P4 – Tổ 4 (Dữ liệu)",
+      "tai_khoan": "TSơn",
+      "vai_tro": "Kho dùng chung, NAS trên NDC, báo cáo sizing"
+    },
+    {
+      "can_cu": "Hùng 'Mạnh Lý (103NT)'; Hiếu 'Lý mai anh phối hợp…'; đón NADAT tại cổng 103NT. Bỏ @qlql901456 (là của Anh Quốc CTO NADAT) [3 tin]",
+      "ho_ten": "Lý Mạnh (Mạnh Lý – 103NT)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu",
+      "phong_ban": "103NT – kỹ thuật dữ liệu S3 (suy ra C12)",
+      "tai_khoan": "Lý Mạnh",
+      "vai_tro": "Trích xuất dữ liệu mẫu, cấu hình job S3 ECS cho kho dùng chung"
+    },
+    {
+      "can_cu": "DA175: gửi BBH, yêu cầu ký tại phòng 712-B05; quản trị nhóm rà soát (thêm/xoá thành viên) [43 tin]",
+      "ho_ten": "Đỗ Trung Thành",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac; [TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "P4",
+      "tai_khoan": "Đỗ Trung Thành; @thanhdo3",
+      "vai_tro": "Thư ký họp, biên bản, quản trị nhóm rà soát UC"
+    },
+    {
+      "can_cu": "Huệ VNPT 'Dear Tuấn Anh, Phong @adamdjjj C12. Tổ4'; Hao (BXD) gọi 'Tuấn Anh' [30 tin]",
+      "ho_ten": "Tuấn Anh (lee a)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [ZALO] C12 - NHNN Tích hợp dữ liệu",
+      "phong_ban": "P4 – Tổ 4 (dữ liệu)",
+      "tai_khoan": "lee a; @adamdjjj",
+      "vai_tro": "Điều phối lịch rà soát với Bộ ngành"
+    },
+    {
+      "can_cu": "nhóm rà soát UC: 'Đầu mối TTDLQG là đồng chí Thiếu tá Bùi Việt Anh @vianmint' [13 tin]",
+      "ho_ten": "Bùi Việt Anh (Viet Anh)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "C12 – Thiếu tá",
+      "tai_khoan": "Viet Anh; @vianmint",
+      "vai_tro": "Đầu mối TTDLQG làm việc với Bộ VHTTDL, NHNN, Bộ Công thương…"
+    },
+    {
+      "can_cu": "DA175: chất vấn VNPT về quy trình, 'Em nhìn ae BA cãi nhau…'. Có thể trùng Bùi Việt Anh (@vianmint) – tên hiển thị khác nên tách;. Danh sách cũ ghi @anhnv1927 – không thấy trong chat [47 tin] | (suy ra) Tài khoản @anhnv1927 khác @vianmint của Thiếu tá Bùi Việt Anh nên là người khác; góp ý mô hình dữ liệu sai khác \"dưới vai trò người đọc\", được Lê Văn Đại gọi \"chú\"",
+      "ho_ten": "Việt Anh (DA175)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac",
+      "phong_ban": "C12 – P4 Tổ 5 (suy ra)",
+      "tai_khoan": "Việt Anh; @anhnv1927",
+      "vai_tro": "Phản biện mô hình luồng dữ liệu sai khác (bản ghi sai khác vs log)"
+    },
+    {
+      "can_cu": "nhóm rà soát UC: 'Đầu mối C12 đồng chí Thiếu úy Đỗ Đình Thái Tuấn @ddttuan39'; Linh Ngo gọi 'Tuấn C12' [36 tin]",
+      "ho_ten": "Đỗ Đình Thái Tuấn",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "C12 – Thiếu úy",
+      "tai_khoan": "Đỗ Đình Thái Tuấn; @ddttuan39",
+      "vai_tro": "Đầu mối C12 với BXD, TANDTC, VKSNDTC"
+    },
+    {
+      "can_cu": "nhóm rà soát UC: 'Đầu mối C12 đồng chí Thiếu úy Nguyễn Văn Hoài Nam @namnguyen1617' [15 tin]",
+      "ho_ten": "Nguyễn Văn Hoài Nam (Nam Nguyen)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "C12 – Thiếu úy, tổ dữ liệu",
+      "tai_khoan": "Nam Nguyen; @namnguyen1617",
+      "vai_tro": "Đầu mối dữ liệu Bộ ngành (BNV, BNNMT)"
+    },
+    {
+      "can_cu": "nhóm rà soát UC: 'Đầu mối C12 đồng chí Trung úy Nguyễn Quốc Trí @scottynguyen' [4 tin]",
+      "ho_ten": "Nguyễn Quốc Trí (Trí N)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "C12 – Trung úy",
+      "tai_khoan": "Trí N; @scottynguyen",
+      "vai_tro": "Đầu mối C08, BHXH"
+    },
+    {
+      "can_cu": "nhóm rà soát UC: 'Đầu mối C12 đồng chí Trung úy Bùi Đình Huy @Huyghens09'; Zalo BTP: Quang Đông tag '@Đỗ Hảo @Bùi Đình Huy' báo lỗi đẩy dữ liệu lên C12 [2 tin]",
+      "ho_ten": "Bùi Đình Huy (Huy Bui)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu; [ZALO] C12 - BTP - Tích hợp đồng bộ dữ liệu; [ZALO] C12-TGPL-Nhóm trao đổi",
+      "phong_ban": "C12 – Trung úy",
+      "tai_khoan": "Huy Bui; @Huyghens09; @Bùi Đình Huy (Zalo)",
+      "vai_tro": "Đầu mối làm việc Thanh tra CP, Bộ Công thương; tiếp nhận đồng bộ dữ liệu BTP"
+    },
+    {
+      "can_cu": "Huệ 'C12. Tổ4. E Phong'; tự ghi 'đồng chí Trung úy Nghiêm Ngọc Phong' [4 tin]",
+      "ho_ten": "Nghiêm Ngọc Phong",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "P4 – Tổ 4; Trung úy",
+      "tai_khoan": "Nghiem Ngoc Phong",
+      "vai_tro": "Phụ trách Bộ KHCN, Bộ Y tế"
+    },
+    {
+      "can_cu": "Huệ VNPT gọi 'C12. Đức Anh'; được lee a thêm vào nhóm [2 tin]",
+      "ho_ten": "Đức Anh (C12)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "C12 (suy ra)",
+      "tai_khoan": "Đức Anh",
+      "vai_tro": "Thông báo lịch rà soát với NHNN, Cục Lãnh sự"
+    },
+    {
+      "can_cu": "nội dung chỉ đạo; Hao (BXD) tag cùng các cán bộ C12. Chức danh cụ thể chưa rõ [6 tin]",
+      "ho_ten": "Thanh Nguy",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "C12 – lãnh đạo/chỉ huy (suy ra)",
+      "tai_khoan": "Thanh Nguy; @Thanh9guys",
+      "vai_tro": "Mời các nhà thầu họp đánh giá tại 707B10, chỉ đạo 'chốt API specs và ký bb'"
+    },
+    {
+      "can_cu": "A Quang 08/11 'A Tuấn - H58 -> @cspsavn Kính gửi các Sếp tiến độ…'; Hao (BXD) '@cspsavn … K/g anh Tuấn'; nhóm VNPT-NADAT: Anh Quốc 'báo cáo anh Tuấn, em xin phép tạo nhóm', Tuan Nguyen trả lời 'Oke' (gộp suy ra –) [1 tin] | (suy ra) A Quang gửi báo cáo tiến độ NDOP tại NDC 08/11 cho \"A Tuấn - H58\"; Hao Nguyen (BXD) viết \"K/g anh Tuấn… Trung tâm DLQG đã đồng hành\"",
+      "ho_ten": "anh Tuấn (A Tuấn – H58)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu; [TELE] C12_NDOP_VNPT_NADAT; [TELE] Xây dựng tài liệu đặc tả kỹ thuật BXD/TTDLQG",
+      "phong_ban": "Lãnh đạo C12 (suy ra; có thể Lê Xuân Tuấn – Phó trưởng phòng 4 theo danh sách cũ)",
+      "tai_khoan": "@cspsavn; Tuan Nguyen (nhóm VNPT-NADAT)",
+      "vai_tro": "Lãnh đạo được báo cáo tiến độ NDOP, cho phép lập nhóm"
+    },
+    {
+      "can_cu": "tên hiển thị 'P6 C12'; Mr Chien '@bachhoanghoang gửi IP 2 con agent node' trong nhóm do Hoàng Minh chủ trì; MoMo: Hoàng Minh trả lời khi Hưng tag @bachhoanghoang (gộp 'Bạch Hoàng' – suy ra); ~Minh Hoàng (WA Sàn-FIS) đôn đốc cắm vật lý, truyền chỉ đạo Anh TrDung (suy ra cùng người). ND_BA_NDOP có ghi 'Hải Minh - P4' họp AGN Bộ KHCN – P4 hay P6 [29 tin] | \"Hải Minh - P4\" trong nhóm BA là người khác",
+      "ho_ten": "Hoàng Minh (P6 C12)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ; [TELE] Demo sàn; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "P6 (theo tên hiển thị \"Hoàng Minh P6 C12\")",
+      "tai_khoan": "Hoàng Minh P6 C12; @bachhoanghoang (suy ra); ~Minh Hoàng (WA, suy ra)",
+      "vai_tro": "Hạ tầng đối tác, AgentNode, chủ trì họp AGN Bộ KHCN, demo Sàn"
+    },
+    {
+      "can_cu": "VP Bank - C12: được Ngọc Anh (P5) giao việc; Demo sàn gửi sơ đồ port. Có thể trùng ~Duy Le (WA) [11 tin] | (suy ra) Cùng vai trò hạ tầng mạng C12: cấp IP/VPN cho FIS (WA) và VPBank (Tele), đặt hạn hoàn thiện tích hợp VPBank trước 15/11",
+      "ho_ten": "Duy Le (Duy – C12 hạ tầng)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Demo sàn; [TELE] VP Bank - C12; [WA] Sàn C12- TGDL FIS (test)",
+      "phong_ban": "Hạ tầng (P5 – suy ra)",
+      "tai_khoan": "Duy; @ottoduy; ~Duy Le (WA)",
+      "vai_tro": "Đấu nối vật lý, đặt hạn tích hợp VPBank lên NDC"
+    },
+    {
+      "can_cu": "Demo sàn: Hoàng Minh 'Tran Nhat anh theo dõi chỗ này nhé' [1 tin]",
+      "ho_ten": "Tran Nhat Tan",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Demo sàn",
+      "phong_ban": "(suy ra C12)",
+      "tai_khoan": "Tran Nhat Tan",
+      "vai_tro": "Theo dõi demo Sàn"
+    },
+    {
+      "can_cu": "Demo sàn: Le Cuong 'Hiếu P8 chủ trì mà'. KHÁC 'anh Hiếu' (Gonzalos – FIS)",
+      "ho_ten": "Hiếu P8",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Demo sàn",
+      "phong_ban": "P8",
+      "tai_khoan": "",
+      "vai_tro": "Chủ trì demo Sàn tại phòng IOC"
+    },
+    {
+      "can_cu": "AGN Bộ KHCN: 'bên em xin phép tạo cuộc họp'; Lê Nam Tuấn hỏi Na Na văn bản gửi Bộ KHCN [7 tin]",
+      "ho_ten": "Na Na",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ",
+      "phong_ban": "(suy ra C12)",
+      "tai_khoan": "Na Na; @nana010198",
+      "vai_tro": "Tổ chức họp phương án kết nối CSDL Bộ KHCN về C12"
+    },
+    {
+      "can_cu": "nhóm rà soát UC: 'Đầu mối TTDLQG là đồng chí Hữu Anh'; Le Son 'add bạn Hữu Anh … vào nhóm'",
+      "ho_ten": "Hữu Anh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Nhóm rà soát UC Dữ liệu",
+      "phong_ban": "C12",
+      "tai_khoan": "",
+      "vai_tro": "Đầu mối TTDLQG làm việc Cục Lãnh sự – Bộ Ngoại giao"
+    },
+    {
+      "can_cu": "VNPT-NADAT: Huyền Trang 'e gửi cho đầu mối Mai phòng 4 nhé, e thấy a Việt chỉ đạo như vậy'",
+      "ho_ten": "Ms Mai (đầu mối Mai phòng 4)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12_NDOP_VNPT_NADAT",
+      "phong_ban": "P4",
+      "tai_khoan": "",
+      "vai_tro": "Đầu mối nhận API Spec tổng hợp từ VNPT"
+    },
+    {
+      "can_cu": "HTLL 22/10: 'Giang added Du'; vai trò theo danh sách cũ",
+      "ho_ten": "Du Phạm",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [C12] DVCQG - HTLL - NADAT",
+      "phong_ban": "Phòng 4",
+      "tai_khoan": "Du (Tele)",
+      "vai_tro": "Hỗ trợ đầu mối các bên (NEAC ký số Bộ KHCN)"
+    },
+    {
+      "can_cu": "Giữ từ Excel cũ; không thấy trong bản chép 15/11 (có thể là 'anh Tuấn' @cspsavn –)",
+      "ho_ten": "Lê Xuân Tuấn",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "",
+      "phong_ban": "Phòng 4 – Phó trưởng phòng",
+      "tai_khoan": "",
+      "vai_tro": "Đầu mối chuyên trách phối hợp với NADAT"
+    },
+    {
+      "can_cu": "Giữ từ Excel cũ; không thấy trong bản chép 15/11",
+      "ho_ten": "Nguyễn Văn Trọng",
+      "nguon": "Danh sách cũ (không thấy trong chat 15/11)",
+      "nhom_chat": "",
+      "phong_ban": "Phòng 8",
+      "tai_khoan": "",
+      "vai_tro": "Đầu mối chuyên trách phối hợp với NADAT"
+    }
+  ]
+}

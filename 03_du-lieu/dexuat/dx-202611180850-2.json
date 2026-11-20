@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "TTTT xác nhận hotfix, test lại IPN, chốt ngày golive; NADAT hỏi C12 kế hoạch chuyển SHB sang NDOP của NADAT",
+  "doc": "cs-11",
+  "dv": "SHB",
+  "ly_do": "SHB hỏi TTTT mốc hoàn thành test pilot sáng 18/11; lỗi 401 chờ TTTT kiểm tra cấu hình.",
+  "ma": "CS-11",
+  "moi": "TTTT kiểm tra lại cấu hình NDOP-Id/NDOP-secret devtest và đưa kế hoạch hoàn thành test pilot với SHB; NADAT hỏi C12 kế hoạch chuyển SHB sang NDOP của NADAT",
+  "nguon": "C12 - SHB kết nối DVCQG – Tùng Sơn 17/11 18:22; Thanh Phương 18/11 08:13",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-18T02:12:07.313Z"
+}

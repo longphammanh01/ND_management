@@ -1,0 +1,21 @@
+{
+  "ai_chan": "TTTT (A Dũng), VNPAY (Anh Tram), Gtel (E Thành)",
+  "ba": "Long",
+  "blocker": "QR VNPAY 19 ký tự chưa chốt; NDC: chưa có tài khoản ESXi để cài ShareNode",
+  "blocker_thuoc": "D01/TTTT + VNPAY + C12/Gtel",
+  "cap_nhat": "15/11/2026",
+  "dev": "Thuật, Trung",
+  "donvi": "VNPAY",
+  "dt_buoc": "103 đang chạy live; lỗi IPN/WAF, đối soát",
+  "dt_tt": "Đang thực hiện",
+  "loai": "Nghiệp vụ + Kỹ thuật",
+  "luong": "TTTT ↔ NDOP ↔ VNPAY",
+  "ma": "CS-07",
+  "ndc_buoc": "Chưa có tài khoản vào ESXi của AgentNode nên chưa cài ShareNode (đến 14/11)",
+  "ndc_tt": "Chờ phản hồi",
+  "nguoi_lam": "Long / Hùng",
+  "nhom": "DN",
+  "nhom_chat": "TELE Thanh toán C12 VNPAY",
+  "nv": "CS",
+  "viec_tiep": "Hạ tầng xác nhận VPN NDC up; gửi mẫu mapping API stateful; TTTT–VNPAY chốt trường QR"
+}

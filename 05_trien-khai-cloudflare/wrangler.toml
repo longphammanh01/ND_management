@@ -1,0 +1,19 @@
+# Cấu hình Cloudflare cho trang "Quản trị NDOP". Xem HUONG_DAN.md.
+name = "quan-tri-ndop"
+main = "worker.js"
+compatibility_date = "2025-06-01"
+workers_dev = false   # tắt địa chỉ *.workers.dev để không ai vào được mà không qua Cloudflare Access
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "quan-tri-ndop"
+database_id = "DIEN_MA_SAU_KHI_TAO"   # lấy từ lệnh: npx wrangler d1 create quan-tri-ndop
+
+[vars]
+ACCESS_TEAM_DOMAIN = ""   # vd: ten-nhom.cloudflareaccess.com (Zero Trust > Settings > Custom Pages)
+ACCESS_AUD = ""           # "Application Audience (AUD) Tag" của ứng dụng Access
+WRITERS = ""              # email được sửa, cách nhau dấu phẩy; "*" = mọi người đã đăng nhập

@@ -1,0 +1,21 @@
+{
+  "ai_chan": "—",
+  "ba": "Long",
+  "blocker": "C12 – VM AgentNode BIDV: đã có tài khoản ESXi nhưng hết IP (đã dùng cho luồng thanh toán), chờ C12 cấp thêm IP (từ 16/11)",
+  "blocker_thuoc": "C12 + Gtel",
+  "cap_nhat": "18/11/2026",
+  "dev": "—",
+  "donvi": "BIDV",
+  "dt_buoc": "—",
+  "dt_tt": "Chưa bắt đầu",
+  "loai": "—",
+  "luong": "TTTT ↔ NDOP ↔ BIDV",
+  "ma": "CS-12",
+  "ndc_buoc": "Chưa có tài khoản ESXi AgentNode nên chưa cài ShareNode (14/11)",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Long",
+  "nhom": "DN",
+  "nhom_chat": "(chưa thấy nhóm)",
+  "nv": "CS",
+  "viec_tiep": "Xin C12/Gtel cấp tài khoản ESXi để cài ShareNode"
+}

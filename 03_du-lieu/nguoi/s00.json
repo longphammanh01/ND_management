@@ -1,0 +1,399 @@
+{
+  "ben": "Nội bộ NADAT",
+  "dv": "NADAT",
+  "nguoi": [
+    {
+      "can_cu": "nhóm Kho dùng chung: A Quang viết '@martintran Hùng cử người phối hợp' → @martintran là Hùng (danh sách cũ gán nhầm cho Linh Tran Tan); Ngọc Anh, Quyết, Hoàng Minh gọi '@tranhuyhung1981'; ND_BA_NDOP: COO gọi 'anh Hùng bên mình'; tin 'Trần' ở NDOP-C12-ThanhToan-VPBank gộp vào Hùng (suy ra: tên rút gọn khi trích dẫn tin của Hùng cũng hiện 'Trần') [170 tin]",
+      "ho_ten": "Trần Huy Hùng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ; [TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN; [TELE] C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu; [TELE] C12-D01-DMDC•••-NDOP-NADAT; [TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] DVC-NDOP-TTTT # DevTest; [TELE] Demo sàn; [TELE] MBFS-NADAT Nội bộ; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] NDOP-C12-ThanhToan-VPBank; [TELE] PAKN-NDOP-DVC # DevTest; [TELE] Thanh toán C12 VNPAY; [TELE] Thanh toán C12 VpBank; [TELE] VP Ba",
+      "phong_ban": "Triển khai – hạ tầng",
+      "tai_khoan": "Trần Huy Hùng NADAT; ~Trần Huy Hùng (WA); @tranhuyhung1981; @martintran; Trần Huy Hùng (Viber); HungTran (lịch LHL)",
+      "vai_tro": "Chủ trì triển khai NDOP tại NDC/Hoà Lạc & 103NT, điều phối mở mạng, đầu mối kỹ thuật với các bên"
+    },
+    {
+      "can_cu": "tên hiển thị có NADAT; 08/11 gửi 'tiến độ triển khai NDOP tại NDC' cho lãnh đạo C12; ND_BA_NDOP: COO 'gửi tài liệu theo yêu cầu của a Quang'; ~Quang (WA) gộp vì cùng vai trò chủ trì với Sàn (suy ra) [78 tin] | Người dùng xác nhận 15/11: Viber \"Nicolas\" = anh Quang DCEO (Tele @itsmedukang)",
+      "ho_ten": "A Quang (Quang NADAT – Nicolas)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu; [TELE] DVC-NDOP-TTTT # DevTest; [TELE] MBFS-NADAT Nội bộ; [TELE] NDOP-C12-ThanhToan-VPBank; [TELE] Nhóm rà soát UC Dữ liệu; [TELE] [C12] DVCQG - HTLL - NADAT; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG; [WA] NADAT-SÀN DỮ LIỆU; [VIBE] NDOP_NDC_LHL_103NT; [VIBE] Nadat_BusinessAnalyst",
+      "phong_ban": "Ban lãnh đạo – DCEO",
+      "tai_khoan": "A Quang NADAT; ~Quang (WA); @itsmedukang; Nicolas Nguyen (Viber)",
+      "vai_tro": "Chủ trì báo cáo tiến độ NDOP với C12, soạn BBNT/kịch bản nghiệm thu, kho dùng chung, phương án với Sàn; duyệt BBNT, tài liệu BA; chỉ đạo đội triển khai NDC"
+    },
+    {
+      "can_cu": "tên hiển thị 'CTO NADAT'; Quyết (D01) gọi 'anh @qlql901456'; Lê Văn Đại tag @qlql901456 trong nhóm VNPT-NADAT; ND_BA_NDOP 'a Quốc review', 'y/c của CTO'. Danh sách cũ gán nhầm @qlql901456 cho 'Lý Mạnh' (C12) [25 tin]",
+      "ho_ten": "Lê … Quốc (Anh Quốc – Quoc Le)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12-D01-DMDC•••-NDOP-NADAT; [TELE] C12_NDOP_VNPT_NADAT; [TELE] MBFS-NADAT Nội bộ; [TELE] [DMDC-NADAT] Tích hợp nền tảng; [WA] NADAT-SÀN DỮ LIỆU; [WA] Về đích _ Bộ NNMT; [VIBE] NDOP_NDC_LHL_103NT; [ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "Ban lãnh đạo – CTO",
+      "tai_khoan": "Anh Quốc CTO NADAT; ~Quoc Le (WA); @qlql901456; Quoc Le (Viber)",
+      "vai_tro": "Chỉ đạo kỹ thuật, chốt kiến trúc 2 API Gateway, review tài liệu BA, điều phối dev cấu hình ShareNode"
+    },
+    {
+      "can_cu": "tên hiển thị; Lại Huân (C12) gọi '@blieski' xin bộ tài liệu, Trà trả lời 'tài liệu bên c đã gửi a Giang'; họ tên đầy đủ theo danh sách cũ [660 tin]",
+      "ho_ten": "Nguyễn Hương Trà (chị Trà)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12_NDOP bộ tài liệu; [TELE] C12_NDOP_VNPT_NADAT; [TELE] DVC-NDOP-TTTT # DevTest; [WA] ND_BA_NDOP; [WA] Về đích _ Bộ NNMT; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "Ban lãnh đạo – COO",
+      "tai_khoan": "C Trà COO NADAT; Chị Trà COO NADAT; @blieski; Chị Trà COO NADAT (Viber)",
+      "vai_tro": "Quản lý trực tiếp team BA: giao việc, đặt hạn, duyệt tài liệu, báo cáo BOD"
+    },
+    {
+      "can_cu": "tài khoản dùng để chép (dòng 'Tôi'/'You'); DMDC 20/10 tự giới thiệu 'em là Long - BA bên NADAT'; ND_BA_NDOP 22/10 'Long (Lead), Quỳnh, Hiền' [204 tin]",
+      "ho_ten": "Phạm Mạnh Long (LongPM)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DVC-NDOP-TTTT # DevTest; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] [DMDC-NADAT] Tích hợp nền tảng; [WA] NADAT-SÀN DỮ LIỆU; [WA] ND_BA_NDOP; [WA] Sàn C12- TGDL FIS (test); [WA] Về đích _ Bộ NNMT",
+      "phong_ban": "Team BA – Lead Team 3",
+      "tai_khoan": "LongPM; @Long_PM; 'Tôi'/'You'/'Bạn' trong bản chép",
+      "vai_tro": "BA/PM: đầu mối BA với Sàn DL, DMDC, MoMo, ngân hàng; tổng hợp tài liệu tích hợp"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Linh (Lead), Chi, Hằng'; Telegram 'ChiHV NADAT' cùng việc DMDC; 10/11 giải thích cấu hình SSO cho Hùng (ghi chú cũ) [111 tin]",
+      "ho_ten": "Hoàng Vân Chi (Van Chi / ChiHV)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [DMDC-NADAT] Tích hợp nền tảng; [WA] ND_BA_NDOP; [WA] Về đích _ Bộ NNMT; [VIBE] NDOP_NDC_LHL_103NT; [ZALO] C12 - NHNN Tích hợp dữ liệu; [ZALO] C12-TGPL-Nhóm trao đổi; [ZALO] C12 - Bộ tài chính - BHXH; [ZALO] C12 - BYT - Tích hợp 04 CSDL; [ZALO] C12-BTC-CSDL Tổng hợp về Tài chính",
+      "phong_ban": "Team BA – Team 1",
+      "tai_khoan": "Van Chi (WA); ChiHV NADAT (Tele); @cloudchii; Van Chi (Viber)",
+      "vai_tro": "BA: Quản trị tổ chức dữ liệu, kho dùng chung, DMDC, SSO C06/VNeID"
+    },
+    {
+      "can_cu": "ND_BA_NDOP tag '@Nadat BA Linh Trần', 22/10 'Linh (Lead)'; Telegram tên có NADAT. Bỏ @martintran (thuộc Trần Huy Hùng) [164 tin] | BA xác nhận 19/11: \"Linh\" và \"Linh Trần\" là một người",
+      "ho_ten": "Trần Tấn Nhật Linh (Linh Trần)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12-D01-DMDC•••-NDOP-NADAT; [TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] PAKN-NDOP-DVC # DevTest; [TELE] [DEVTEST] HANOI - NADAT - TTTT; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG; [WA] NADAT-SÀN DỮ LIỆU; [WA] ND_BA_NDOP; [ZALO] C12-BTC-CSDL Tổng hợp về Tài chính; [ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "Team BA – Lead Team 1",
+      "tai_khoan": "Linh Trần (WA); Nadat BA Linh Trần; Linh Tran Tan NADAT (Tele); Linh (tên gọi tắt trên trang)",
+      "vai_tro": "BA: Quản trị hệ thống, Chia sẻ; thúc tiến độ, xin testcase làm BBNT (Cổng DVC, PAKN, TTTT, Hà Nội, DMDC)"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Minh (Lead), Huy, Đại' [37 tin]",
+      "ho_ten": "Nguyễn Đức Minh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "Team BA – Lead Team 2",
+      "tai_khoan": "Nguyễn Đức Minh",
+      "vai_tro": "BA Điều phối; duyệt merge tài liệu BA"
+    },
+    {
+      "ban_giao_cho": "Long",
+      "can_cu": "ND_BA_NDOP: COO 'Long & Yến đi cùng họp với D01'; Linh 'API Gateway Yến báo cần nhiều thời gian' [54 tin]",
+      "ho_ten": "Yen Nguyen (Yến)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "Team BA",
+      "tai_khoan": "~Yen Nguyen (WA); Yen Nguyen",
+      "tinh_trang": "Đã nghỉ",
+      "vai_tro": "BA Tích hợp, lead TH & ĐP (22/09), nghiên cứu API Gateway"
+    },
+    {
+      "ban_giao_cho": "Long",
+      "can_cu": "ND_BA_NDOP 08/09 COO '@Kim Huệ tổng hợp'; 01/10 bị xoá khỏi nhóm [43 tin]",
+      "ho_ten": "Kim Huệ",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "Team BA (đã rời nhóm 01/10)",
+      "tai_khoan": "Kim Huệ",
+      "tinh_trang": "Đã nghỉ",
+      "vai_tro": "BA tổng hợp biên bản BBN, lead Chia sẻ (22/09)"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Minh (Lead), Huy, Đại'; gộp với 'Nguyễn Bùi Đại' (Excel cũ) (suy ra: cùng tên Đại, cùng là BA) [17 tin]",
+      "ho_ten": "Nguyễn Bùi Đại (Dai Nguyen)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "Team BA – Team 2",
+      "tai_khoan": "Dai Nguyen",
+      "vai_tro": "BA Tích hợp rồi Điều phối; gửi SRS Điều phối"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 11/10 COO '@Huy BA NADAT nghiên cứu giải pháp đối soát'; họ tên theo danh sách cũ [7 tin] | Quét 18/11: Viber 'HuyNQ (BA)' báo cáo tổ tích hợp, gửi SRS_NDOP_TichHop_v1.0.1 16/11 – ghép theo viết tắt HuyNQ = Nguyễn Quang Huy",
+      "ho_ten": "Nguyễn Quang Huy (Huy BA)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP; [ZALO] BTP - NADAT - HTQL TTTT; [VIBE] NDOP; [VIBE] NDOP_NenTangTichHop",
+      "phong_ban": "Team BA – Team 2",
+      "tai_khoan": "Huy BA NADAT; HuyNQ (BA) (Viber)",
+      "vai_tro": "Nghiên cứu giải pháp đối soát NDOP; cấu hình ShareNode; BA tổ nền tảng tích hợp (SRS_NDOP_TichHop)"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 26/10 COO hỏi '@LongPM @Quỳnh BA NADAT đã tổng hợp xong'; Telegram 'Quỳnh added Em Hiền…' ở nhiều nhóm [7 tin]",
+      "ho_ten": "Quỳnh (BA)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac; [WA] ND_BA_NDOP; [WA] Về đích _ Bộ NNMT; [VIBE] NDOP_NDC_LHL_103NT; [ZALO] C12 - NHNN Tích hợp dữ liệu; [ZALO] C12-TGPL-Nhóm trao đổi",
+      "phong_ban": "Team BA – Team 3",
+      "tai_khoan": "Quỳnh BA NADAT (WA); Quỳnh (Tele – người thêm thành viên); Quỳnh BA NADAT (Viber)",
+      "vai_tro": "Tổng hợp tài liệu tích hợp các bên; bộ hướng dẫn BNĐP (TH/CS/ĐP)"
+    },
+    {
+      "ban_giao_cho": "Long",
+      "can_cu": "ND_BA_NDOP 22/10 'Long (Lead), Quỳnh, Hiền', vào WA 26/10; Telegram 'Quỳnh added Em Hiền Trung Kính' từ 27/10 (suy ra cùng người: cùng thời điểm, cùng team Quỳnh) [24 tin]",
+      "ho_ten": "Bùi Hiền (Hiền BA)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN; [TELE] PAKN-NDOP-DVC # DevTest; [TELE] [DMDC-NADAT] Tích hợp nền tảng; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG; [WA] ND_BA_NDOP; [ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "Team BA – Team 3",
+      "tai_khoan": "Hiền BA NADAT (WA); Em Hiền Trung Kính :) (Tele); @Buihiennnnnn",
+      "tinh_trang": "Đã nghỉ",
+      "vai_tro": "Tra log NDOP cho QC Cổng, xin testcase luồng DVC→PAKN"
+    },
+    {
+      "can_cu": "ND_BA_NDOP: LongPM thêm 15/10; 22/10 'Linh (Lead), Chi, Hằng'",
+      "ho_ten": "Minh Hằng (Hằng)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "Team BA – Team 1",
+      "tai_khoan": "Minh Hằng",
+      "vai_tro": "BA Team 1"
+    },
+    {
+      "can_cu": "tên hiển thị; ND_BA_NDOP 'Tùng và Linh hoàn thành phần QTHT'; họ tên theo danh sách cũ [270 tin]",
+      "ho_ten": "Nguyễn Thanh Tùng (Tung UIUX)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "Team BA – UI/UX",
+      "tai_khoan": "Tung UIUX",
+      "vai_tro": "Trưởng thiết kế UI/UX, merge prototype"
+    },
+    {
+      "can_cu": "ND_BA_NDOP: COO 'Bạn Ngọc Anh (AI coding) sáng nay đến VP hỗ trợ'; Tùng 'anh Ngọc Anh đang xử lý'. KHÁC với Ngọc Anh P5 – C12 (@nahy98)",
+      "ho_ten": "Ngọc Anh (NADAT – AI coding)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "Hỗ trợ công cụ AI / nadat design",
+      "tai_khoan": "",
+      "vai_tro": "Hỗ trợ hệ thống AI coding, hướng dẫn dùng 'nadat design', sửa lỗi công cụ"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 19/08 COO '@Van Chi em add Khánh vào nhóm'; 26/08 được giao tra cứu [1 tin]",
+      "ho_ten": "Trần Minh Khánh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "(suy ra NADAT)",
+      "tai_khoan": "~Trần Minh Khánh (WA)",
+      "vai_tro": "Tra cứu tài liệu cấp bậc, chức vụ CQNN (đã rời nhóm 29/09)"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 28/09 Linh Trần thêm, 'Welcome anh Việt'",
+      "ho_ten": "Daniel (Viet) Nguyen (anh Việt)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "",
+      "tai_khoan": "Daniel (Viet) Nguyen",
+      "vai_tro": "Chưa rõ việc"
+    },
+    {
+      "can_cu": "MBF-NADAT-C12 04/10 Hùng: 'Bên Nadat có bạn NaDat - E LanBN @phongnd1995 phối hợp công tác QC'; 24/10 tự nói 'chị bên NADAT' [5 tin]",
+      "ho_ten": "Ngoc Lan (LanBN – QA)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "QA",
+      "tai_khoan": "Ngoc Lan; NaDat - E LanBN; Ngọc Lan (Viber)",
+      "vai_tro": "Xây test case UAT 3 nền tảng tích hợp DVC với Bộ KHCN"
+    },
+    {
+      "can_cu": "Hùng 08/10 'E ThuatDT bên a phụ trách đấu nối kỹ thuật'; ND_BA_NDOP 22/10 'Team 1: … Thuật (CS)' [53 tin]",
+      "ho_ten": "Đỗ Tiến Thuật (Thuat Do)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] DVC-NDOP-TTTT # DevTest; [TELE] PAKN-NDOP-DVC # DevTest; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG; [VIBE] NDOP_NDC_LHL_103NT; [ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "Dev – Team 1 (Chia sẻ)",
+      "tai_khoan": "Thuat Do NADAT; NaDat - E ThuatDT; DoThuat; Nadat.Thuật Đỗ; DoThuat (Viber); Thuật - Goldengate (Zalo)",
+      "vai_tro": "Cấu hình NDOP luồng chia sẻ, tra log; đầu mối kỹ thuật đấu nối DevTest (Cổng, TTTT, Sàn, VPBank, MoMo)"
+    },
+    {
+      "can_cu": "tên có NADAT; ND_BA_NDOP 22/10 'Trung hỗ trợ các team khi cần' [56 tin]",
+      "ho_ten": "Le Thanh Trung",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - Nadat Quy hoạch, triển khai kho dùng chung, luồng dữ liệu; [TELE] NDOP-C12-ThanhToan-VPBank; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "Dev – hỗ trợ các team",
+      "tai_khoan": "Le Thanh Trung NADAT; @trunglt0110; Le Thanh Trung (Viber)",
+      "vai_tro": "Cấu hình ShareNode/route NDOP cho VPBank; sang 103NT lấy dữ liệu mẫu kho dùng chung"
+    },
+    {
+      "can_cu": "PAKN-NDOP-DVC: tự nói 'phía NADAT'; D01-NADAT-VNTDO: 'Thuat added Mike_thanh'. Danh sách cũ ghi '(Mai)' – chưa có căn cứ trong chat [8 tin]",
+      "ho_ten": "Mike_thanh",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] PAKN-NDOP-DVC # DevTest",
+      "phong_ban": "Dev (Chia sẻ – suy ra)",
+      "tai_khoan": "Mike_thanh; @mike_dangthanh",
+      "vai_tro": "Cấu hình API trên NDOP cho PAKN/CSDL TTHC"
+    },
+    {
+      "can_cu": "MoMo 'em là Giang bên NADAT ạ, hình như anh nhầm em với b Giang P4.T5'; ND_BA_NDOP 22/10 'Team 3: … Mai/Giang (CS)'; họ tên theo danh sách cũ [18 tin]",
+      "ho_ten": "Lê Nguyễn Trà Giang (Giang NADAT)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] D01-NADAT-VNTDO: Thanh toán SDL; [TELE] DVC-NDOP-TTTT # DevTest; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] PAKN-NDOP-DVC # DevTest; [ZALO] BTP - NADAT - HTQL TTTT",
+      "phong_ban": "Dev – Team 3 (Chia sẻ)",
+      "tai_khoan": "Giang NADAT; Trà Giang / Bụt (Viber); Tra Giang Nguyen (Zalo)",
+      "vai_tro": "Tra log, Postman collection TTTT–MoMo"
+    },
+    {
+      "can_cu": "WA: '~Quoc Le added … ~Đào Mạnh Tùng'; ND_BA_NDOP 22/10 'Team 2: … Tùng (CS)' (suy ra); ghi chú 12/11: Tùng sang 103NT",
+      "ho_ten": "Đào Mạnh Tùng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] Về đích _ Bộ NNMT; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "Dev – Team 2 (Chia sẻ)",
+      "tai_khoan": "~Đào Mạnh Tùng (WA); Đào Mạnh Tùng (Viber); TungDao (lịch 103NT)",
+      "vai_tro": "Cấu hình phần mềm chia sẻ tại 103NT"
+    },
+    {
+      "can_cu": "Hùng: 'Lưu là nhân sự bên NDOP', 'NaDat - E LuuPham'; ND_BA_NDOP 22/10 'Team 1: Lưu (ĐP)' [10 tin] | Quét 18/11: Tele 'Lưu Dev NADAT' xác nhận đã xin được phiếu Firewall dx_20260928_fw_NADAT-NDOP_new (cùng mảng phiếu mở mạng) – suy ra cùng người",
+      "ho_ten": "Phạm Đức Lưu (Lưu Phạm)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] Agent Node - Bộ Khoa học & Công nghệ; [TELE] MBFS-NADAT Nội bộ; [TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] [DMDC-NADAT] Tích hợp nền tảng; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "Dev – Team 1 (Điều phối)",
+      "tai_khoan": "Lưu Phạm; NaDat - E LuuPham; Phạm Đức Lưu (Viber); LuuPham (lịch LHL); Lưu Dev NADAT (Tele – suy ra)",
+      "vai_tro": "Dev điều phối, phiếu mở mạng, kiểm tra kết nối AGN"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Team 2: Nghĩa (ĐP)'; DMDC: Nghĩa sửa lỗi API điều phối (gộp suy ra: cùng tên, cùng mảng Điều phối) [15 tin]",
+      "ho_ten": "Phan Đình Nghĩa",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [DMDC-NADAT] Tích hợp nền tảng; [WA] NADAT-SÀN DỮ LIỆU; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "Dev – Team 2 (Điều phối)",
+      "tai_khoan": "~Phan Đình Nghĩa (WA); Nghĩa (Tele); @nghia0415; Phan Đình Nghĩa (Viber)",
+      "vai_tro": "Dev nền tảng điều phối / API Gateway; meeting note UC Sàn"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Team 1: … Văn Duy (TH)'; DMDC sửa lỗi 415 [6 tin]",
+      "ho_ten": "Văn Duy (Duy Nguyen Van)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [DMDC-NADAT] Tích hợp nền tảng; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "Dev – Team 1 (Tích hợp)",
+      "tai_khoan": "Duy Nguyen Van; Văn Duy (Viber); DuyNguyen (lịch LHL)",
+      "vai_tro": "Dev nền tảng tích hợp: DMDC, chuẩn bị file lên NDC"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Team 2: … Lương (TH)'",
+      "ho_ten": "Lương (Luong)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "Dev – Team 2 (Tích hợp)",
+      "tai_khoan": "Luong (Viber)",
+      "vai_tro": "Tích hợp DMDC (đã bàn giao)"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Team 3: … Minh Đức (TH)'; ghi chú 12/11",
+      "ho_ten": "Trần Minh Đức",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "Dev – Team 3 (Tích hợp)",
+      "tai_khoan": "Trần Minh Đức (Viber); DucTran (lịch LHL)",
+      "vai_tro": "Tích hợp; điền form chuyển file lên NDC"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Team 3: Thắng (ĐP)'. KHÁC Thắng BV (Cổng DVC – D01)",
+      "ho_ten": "Thắng (Dev ĐP NADAT)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "Dev – Team 3 (Điều phối)",
+      "tai_khoan": "",
+      "vai_tro": "Dev điều phối"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Quân là scrum master' | Quét 18/11: Viber NDOP 13/11 Ngọc Lan hướng dẫn 'DEV team Quân', nhờ 'Quan' thống nhất quy trình trạng thái task; được giao review MR 428 – ghép theo tên (suy ra)",
+      "ho_ten": "Quân (Scrum master)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP; [VIBE] NDOP",
+      "phong_ban": "Dev – quản trị tiến độ",
+      "tai_khoan": "Quan (Viber – suy ra)",
+      "vai_tro": "Scrum master quản trị tiến độ sprint; trưởng nhóm dev (team Quân), review merge request"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Automation Test: Băng'",
+      "ho_ten": "Băng (Automation test)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP",
+      "phong_ban": "QA – Automation test",
+      "tai_khoan": "Băng / Ben (Viber)",
+      "vai_tro": "Kiểm thử tự động"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Team DevOps: Team 1: Hải Nam'; Hùng gọi 'NaDat - E NamNguyen' (VPBank, MoMo) [2 tin]",
+      "ho_ten": "Nguyễn Hải Nam (Nam Nguyen DevOps)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MoMo x C12: Cài đặt server cho cổng DVCQG; [TELE] VP Bank - C12; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "DevOps – Team 1",
+      "tai_khoan": "Nam Nguyen Hai DevOps; NaDat - E NamNguyen; Nguyễn Hải Nam (Viber); NamNguyen (lịch LHL); Nam Nguyen (Tele VP Bank - C12)",
+      "vai_tro": "Bảng rule FW, đổi IP AGN, mở mạng NDC"
+    },
+    {
+      "can_cu": "ND_BA_NDOP 22/10 'Team 2: Trí Hùng'; ghi chú 12/11",
+      "ho_ten": "Lê Trí Hùng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] ND_BA_NDOP; [VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "DevOps – Team 2",
+      "tai_khoan": "Lê Trí Hùng (Viber); HungLe (lịch 103NT)",
+      "vai_tro": "Báo cáo hạ tầng ngày, báo cáo chuyển dữ liệu lên NDC"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ (nguồn Chat khác); không thấy trong bản chép 15/11 | Quét 18/11: Viber NDOP 17/11 báo DMDC đang deploy môi trường dev, cần update thêm, hoàn thành sớm nhất chiều 18/11, muộn nhất chiều 19/11",
+      "ho_ten": "Lê Đức Mạnh",
+      "nguon": "Quét chat 18/11",
+      "nhom_chat": "[VIBE] NDOP",
+      "phong_ban": "Dev Tích hợp",
+      "tai_khoan": "Lê Đức Mạnh (Viber)",
+      "vai_tro": "DMDC lên NDC"
+    },
+    {
+      "can_cu": "MBF-NADAT-C12: trả lời QC Cổng '@thu_thuy1311 Bên em kiểm tra và đã thấy log', 'đã ghi nhận log refund' → phía tra log NDOP (suy ra); KHÁC Thuy Thu (QC Cổng D01) [7 tin]",
+      "ho_ten": "Thuy (tra log NDOP)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "(suy ra NADAT)",
+      "tai_khoan": "Thuy",
+      "vai_tro": "Tra log phía NDOP cho QC Cổng"
+    },
+    {
+      "can_cu": "dòng hệ thống 'Created by ~LE SY DUNG'; ND_BA_NDOP có tin chuyển tiếp '@LÊ SỸ DŨNG e gửi trc tài liệu' | Suy ra: Viber tự xưng \"thay mặt CTY\"; Tele \"Dũng Nadat\" do COO thêm vào nhóm tài liệu C12 – khả năng cùng người",
+      "ho_ten": "Lê Sỹ Dũng",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[WA] NADAT-SÀN DỮ LIỆU; [VIBE] NDOP_NDC_LHL_103NT; [TELE] C12_NDOP bộ tài liệu",
+      "phong_ban": "Ban lãnh đạo NADAT",
+      "tai_khoan": "~LE SY DUNG (WA); LÊ SỸ DŨNG (Viber); Dũng Nadat (Tele – khả năng cùng người)",
+      "vai_tro": "Lập nhóm NADAT–Sàn 08/09; thay mặt công ty động viên đội NDC (30/10)"
+    },
+    {
+      "can_cu": "Giữ từ danh sách cũ (không có tin) | Suy ra: Tele \"LanBN @phongnd1995 phối hợp QC\" và Viber \"@Ngọc Lan @Nguyen Phong\" cùng việc QA → @phongnd1995 = Phong ND (Nguyễn … Phong), không phải Ngọc Lan",
+      "ho_ten": "Nguyễn Phong (Phong Nguyen)",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "QA / Dev hiện trường NDC",
+      "tai_khoan": "Nguyen Phong (Viber); @phongnd1995 (Tele – suy ra); PhongNguyen (lịch LHL)",
+      "vai_tro": "Đi LHL 12–13/11; giải thích Jump sys/Jump app; phối hợp QC cùng Ngọc Lan"
+    },
+    {
+      "can_cu": "Hùng giao cùng Lê Trí Hùng",
+      "ho_ten": "Lucha",
+      "nguon": "Chat Zalo PC/Viber 15/11",
+      "nhom_chat": "[VIBE] NDOP_NDC_LHL_103NT",
+      "phong_ban": "DevOps",
+      "tai_khoan": "Lucha (Viber)",
+      "vai_tro": "Hỗ trợ cài ShareNode (02–04/11, sau đó bị xoá khỏi nhóm)"
+    },
+    {
+      "can_cu": "Viber NDOP 16/11 xin danh sách email NDOP4. Có thể trùng 'Tuấn NA' (WA Về đích _ Bộ NNMT, đang ở nhóm Chưa rõ) – chưa xác nhận",
+      "ho_ten": "Mr.NA",
+      "nguon": "Quét chat 18/11",
+      "nhom_chat": "[VIBE] NDOP",
+      "phong_ban": "",
+      "tai_khoan": "Mr.NA (Viber)",
+      "vai_tro": "chưa rõ"
+    },
+    {
+      "can_cu": "Viber NDOP 16/11 báo chưa vào được NDOP-Nhà máy 4",
+      "ho_ten": "Nguyễn Phú Hải Việt",
+      "nguon": "Quét chat 18/11",
+      "nhom_chat": "[VIBE] NDOP",
+      "phong_ban": "",
+      "tai_khoan": "Nguyễn Phú Hải Việt (Viber)",
+      "vai_tro": "chưa rõ (thành viên tổ công tác NDOP-Nhà máy 4)"
+    },
+    {
+      "can_cu": "Viber NDOP_NenTangTichHop 13/11 báo lỗi build lib ndop_spark_core lên nexus; 17/11 nhận hỗ trợ Trần Minh Đức test Data Importer",
+      "ho_ten": "Lê Chiều",
+      "nguon": "Quét chat 18/11",
+      "nhom_chat": "[VIBE] NDOP_NenTangTichHop",
+      "phong_ban": "Dev (nhóm Nền tảng tích hợp)",
+      "tai_khoan": "Lê Chiều (Viber)",
+      "vai_tro": "Build lib lên nexus; hỗ trợ test thông lượng Data Importer"
+    }
+  ]
+}

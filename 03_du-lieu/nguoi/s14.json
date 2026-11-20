@@ -1,0 +1,24 @@
+{
+  "ben": "Bộ, ngành",
+  "dv": "Bộ Công an – C06",
+  "nguoi": [
+    {
+      "can_cu": "Hùng gọi 'Đoàn C06'; tự nói 'C06 triển khai…' [7 tin]",
+      "ho_ten": "Đoàn Dự",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN",
+      "phong_ban": "C06",
+      "tai_khoan": "Đoàn Dự; @D0AN_DU",
+      "vai_tro": "Đầu mối SSO VNeID phía C06"
+    },
+    {
+      "can_cu": "giao @D0AN_DU (suy ra) [1 tin]",
+      "ho_ten": "Ocean",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] C12 - C06 SSO - NDOP LHL - DVCQG.PAKN",
+      "phong_ban": "C06 (suy ra)",
+      "tai_khoan": "Ocean",
+      "vai_tro": "Cấp trên của Đoàn Dự, giao thông tin API"
+    }
+  ]
+}

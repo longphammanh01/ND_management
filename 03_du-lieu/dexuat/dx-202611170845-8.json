@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Xin a Quốc chỉ đạo; trả lời câu hỏi trong nhóm WA",
+  "doc": "th-bbn-05",
+  "dv": "Bộ NN&MT – 04 CSDL",
+  "ly_do": "Quoc Le công bố kế hoạch pha 1 test tích hợp trên devtest.",
+  "ma": "TH-BBN-05",
+  "moi": "Bộ NNMT gửi XML mẫu (5 loại dữ liệu DVC + 49 DMDC) và cử cán bộ hạ tầng test thông luồng mạng về NDC (FW, SW, CP.NET, AgentNode); NADAT gửi API DVC 19/11, API DMDC 20/11",
+  "nguon": "Về đích _ Bộ NNMT – Quoc Le 15/11 09:12–09:21",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-17T02:29:04.014Z"
+}

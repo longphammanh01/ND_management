@@ -1,0 +1,2 @@
+- [NDOP thuật ngữ & người](ndop-thuat-ngu-va-nguoi.md) — giữ Firewall/port/ESXi tiếng Anh; Viber nội bộ (Nicolas = anh Quang DCEO); Hiền, Huệ, Yến đã nghỉ; Linh = Linh Trần
+- [NDOP harness](ndop-harness.md) — toàn bộ tri thức + mã nguồn trang ở Train AI NDOP/harness; sửa giao diện tại harness/02_trang-web/src

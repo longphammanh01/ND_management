@@ -1,0 +1,42 @@
+{
+  "ben": "Nhà thầu, hệ thống trong NDC",
+  "dv": "PAKN",
+  "nguoi": [
+    {
+      "can_cu": "'team pakn'; Quyết nhờ gửi tài liệu tích hợp nội bộ; gửi 'pakn-expose-api-cong-dvc' [32 tin]",
+      "ho_ten": "Nguyễn Duy Hòa",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] MBFS-NADAT Nội bộ; [TELE] PAKN-NDOP-DVC # DevTest; [TELE] [MBF-NADAT-C12] Tích hợp Cổng DVC QG",
+      "phong_ban": "D01 – MBFS, PAKN",
+      "tai_khoan": "Nguyễn Duy Hòa; @hoanguyen194",
+      "vai_tro": "PM/đầu mối hệ thống PAKN"
+    },
+    {
+      "can_cu": "Hòa giao 'bổ sung config để gọi sang csdl' [12 tin]",
+      "ho_ten": "Quân Đỗ",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] PAKN-NDOP-DVC # DevTest",
+      "phong_ban": "D01 – MBFS, PAKN dev",
+      "tai_khoan": "Quân Đỗ; @quandh205",
+      "vai_tro": "Dev PAKN, gọi CSDL TTHC"
+    },
+    {
+      "can_cu": "Hòa giới thiệu 'QC team pakn' [11 tin]",
+      "ho_ten": "Phương Thuý",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] PAKN-NDOP-DVC # DevTest",
+      "phong_ban": "D01 – MBFS, PAKN QC",
+      "tai_khoan": "Phương Thuý",
+      "vai_tro": "QC PAKN – test API đồng bộ danh mục"
+    },
+    {
+      "can_cu": "DA175: báo cáo anh Quyết, gửi API_Spec_PAKN_SaiKhac [5 tin]",
+      "ho_ten": "Đỗ Đan 98",
+      "nguon": "Đối chiếu chat 15/11",
+      "nhom_chat": "[TELE] DA175- PAKN+PA-SaiKhac",
+      "phong_ban": "D01 – PAKN",
+      "tai_khoan": "Đỗ Đan 98; @dandd98",
+      "vai_tro": "API tích hợp PAKN với Kho sai khác"
+    }
+  ]
+}

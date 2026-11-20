@@ -1,0 +1,21 @@
+{
+  "ai_chan": "Gtel (Tùng), C12 F5/WAF",
+  "ba": "Chi, Huy",
+  "blocker": "Đổi sang http là rủi ro ATTT; rate limit WAF chưa chỉnh; NHNN chưa góp ý tài liệu API (gửi 23/09, nhắc 29/10)",
+  "blocker_thuoc": "C12 hạ tầng + Gtel",
+  "cap_nhat": "18/11/2026",
+  "dev": "(Gtel – Hoàng Anh)",
+  "donvi": "NHNN",
+  "dt_buoc": "—",
+  "dt_tt": "—",
+  "loai": "Kỹ thuật",
+  "luong": "Cổng DVC ↔ NDOP ↔ HT GQTTHC NHNN",
+  "ma": "TH-BBN-06",
+  "ndc_buoc": "Login thông sau khi đổi https→http (06/11)",
+  "ndc_tt": "Đang thực hiện",
+  "nguoi_lam": "Chi",
+  "nhom": "BBN",
+  "nhom_chat": "ZALO DVCQG vs NHNN",
+  "nv": "CS",
+  "viec_tiep": "NHNN tạo DVC 1.115980.01 (cán bộ KSTTHC) rồi đồng bộ lại lên Cổng DVCQG; NHNN rà 10 TTHC chưa phát sinh giao dịch và hồ sơ chưa thanh toán theo file Cổng DVCQG gửi 17/11; xác nhận cấu hình chính thức (https + rule WAF); kiểm tra webhook"
+}

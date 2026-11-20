@@ -1,0 +1,13 @@
+{
+  "col": "luong",
+  "cu": "Theo dõi duyệt phiếu 32; xin C12 xác nhận báo cáo đếm file 14/11",
+  "doc": "kho-5-1",
+  "dv": "Kho dùng chung",
+  "ly_do": "Quoc Le chốt thứ tự ưu tiên thông luồng trước, đo thông lượng sau.",
+  "ma": "KHO-5.1",
+  "moi": "Data Importer (đã triển khai vùng Core 16/11, bản fix đường dẫn Dell S3 đang chờ copy): ưu tiên thông luồng import dữ liệu vào Kho DL dùng chung, sau đó đo thông lượng; theo dõi duyệt phiếu 32; xin C12 xác nhận báo cáo đếm file 14/11",
+  "nguon": "NDOP_NenTangTichHop – Quoc Le 17/11 14:43; NDOP_NDC_LHL_103NT – Trần Minh Đức 16/11 19:22",
+  "trang_thai": "duyet",
+  "truong": "viec_tiep",
+  "xu_ly_luc": "2026-11-18T02:12:02.496Z"
+}
